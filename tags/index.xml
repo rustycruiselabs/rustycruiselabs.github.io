@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - RustyDevTail</title>
+        <link>https://rustydevtail.github.io/tags/</link>
+        <description>Tags - Tag - RustyDevTail</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustydevtail.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Game</title>
+    <link>https://rustydevtail.github.io/tags/game/</link>
+    <pubDate>Fri, 01 Dec 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/tags/game/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Highlight</title>
+    <link>https://rustydevtail.github.io/tags/highlight/</link>
+    <pubDate>Fri, 01 Dec 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/tags/highlight/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Puzzle</title>
+    <link>https://rustydevtail.github.io/tags/puzzle/</link>
+    <pubDate>Fri, 01 Dec 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/tags/puzzle/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Devlog</title>
+    <link>https://rustydevtail.github.io/tags/devlog/</link>
+    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/tags/devlog/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Rolling-Mind</title>
+    <link>https://rustydevtail.github.io/tags/rolling-mind/</link>
+    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/tags/rolling-mind/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

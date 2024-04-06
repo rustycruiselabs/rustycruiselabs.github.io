@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Devlog - Tag - RustyDevTail</title>
+        <link>https://rustydevtail.github.io/tags/devlog/</link>
+        <description>Devlog - Tag - RustyDevTail</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustydevtail.github.io/tags/devlog/" rel="self" type="application/rss+xml" /><item>
+    <title>Rolling Mind Core Game Mechanics</title>
+    <link>https://rustydevtail.github.io/devlogs/2023_08_30_rolling_mind_mechanics/</link>
+    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/devlogs/2023_08_30_rolling_mind_mechanics/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/devlogs/2023_08_30_rolling_mind_mechanics/preview.png" referrerpolicy="no-referrer">
+            </div>What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.
+So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.]]></description>
+</item><item>
+    <title>First Game Devlog</title>
+    <link>https://rustydevtail.github.io/devlogs/2023_08_09_start_of_devlog/</link>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustydevtail.github.io/devlogs/2023_08_09_start_of_devlog/</guid>
+    <description><![CDATA[After my first game jam experience in July 2023, I was inspired by the games created by fellow game developers and fell in a love with the game development process. My skills were seriously lacking, so I spent lots of time after the game jam to hone my skills through tutorials, forums, YouTube videos and even ChatGPT.
+There’s nothing faster in learning than to put my skills into practice. Hence, I am currently working on a new game called “Rolling Mind” which is a puzzle based game.]]></description>
+</item></channel>
+</rss>
