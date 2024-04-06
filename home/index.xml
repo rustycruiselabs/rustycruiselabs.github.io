@@ -6,7 +6,13 @@
     <description>Recent content in Homes on RustyDevTail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="https://rustydevtail.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://rustydevtail.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rustydevtail.github.io/home/about/</guid>
+      <description>Hello Gamer!Welcome to Rusty Dev Tail~ where the tales of rusty developers come to life! This is our dedicated space to document our game development journey through devlogs, game prototypes and also to share the games we’ve crafted with passion.&#xA;Ever since stumbling into our first GMTK game jam in 2023, which was a horribly failed attempt, we’ve been navigating the exciting world of game development, learning and growing every step of the way.</description>
+    </item>
   </channel>
 </rss>
