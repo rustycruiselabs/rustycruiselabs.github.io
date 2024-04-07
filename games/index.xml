@@ -6,14 +6,13 @@
     <description>Recent content in Games We Made with ❤ on RustyDevTail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustydevtail.github.io/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rolling Mind</title>
       <link>https://rustydevtail.github.io/games/rollingmind/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://rustydevtail.github.io/games/rollingmind/</guid>
-      <description></description>
+      <description>&#xD;OverviewRolling Mind is a spatial thinking game that challenges your brain to think about how 3D objects rotate in a given path.&#xA;Try it out here!&#xD;Rolling Mind (Prototype) by rustydevtail&#xD;</description>
     </item>
   </channel>
 </rss>
