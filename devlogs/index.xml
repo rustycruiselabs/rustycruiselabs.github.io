@@ -6,8 +6,15 @@
     <description>Recent content in Our Game Devlogs on RustyDevTail</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustydevtail.github.io/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rolling Mind - In Game Currency</title>
+      <link>https://rustydevtail.github.io/devlogs/2024_03_25_rolling_mind_in_game_currency/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustydevtail.github.io/devlogs/2024_03_25_rolling_mind_in_game_currency/</guid>
+      <description>Introducing Coins&amp;ldquo;Coins&amp;rdquo; - an in-game currency are introduced to allow players to purchase hints or unlock new model skins. The goal is to provide players with a challenge where&#xA;Hints cannot be used easily due to limited resources (coins) New model skins unlocked varieties in the gameplay. Coin Design&#xD;Coin Design&#xD;Spend some time creating this coin asset using inkscape. Credits goes to noobgrafx for the Inkscape tutorial on designing game coin asset.</description>
+    </item>
     <item>
       <title>Rolling Mind Core Game Mechanics</title>
       <link>https://rustydevtail.github.io/devlogs/2023_08_30_rolling_mind_mechanics/</link>
