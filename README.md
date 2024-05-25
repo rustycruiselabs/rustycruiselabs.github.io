@@ -1,1 +1,1 @@
-# Static Website for Rusty Dev Tail
+# Static Website for RustyCruise Labs
