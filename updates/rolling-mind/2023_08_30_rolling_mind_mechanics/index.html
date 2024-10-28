@@ -131,30 +131,30 @@
 </span></span><span class="line"><span class="cl"><span class="p">}</span>
 </span></span></code></pre></div><p>Using the Scriptable Object defined above, allows me to define my level’s roll path individually. I can then load these LevelData into my game scene which will generate the puzzle. After which, all I need is a simple level manager that stores all the level data as well as handles the level transition for me as shown below.</p>
 <p> 
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/levelmanager.webp" title="levelmanager.webp" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/levelmanager.webp" data-sub-html="<h2>Example of my Level Manager Script</h2>">
+<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp" title="images/levelmanager.webp" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp" data-sub-html="<h2>Example of my Level Manager Script</h2>">
         <img
             
             loading="lazy"
-            src="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/levelmanager.webp"
-            srcset="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/levelmanager.webp 484w,
-                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/levelmanager.webp 484w,
-                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/levelmanager.webp 484w"
-            alt="levelmanager.webp" height="484"  width="484" >
+            src="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp"
+            srcset="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp 484w,
+                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp 484w,
+                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp 484w"
+            alt="images/levelmanager.webp" height="484"  width="484" >
     </a><figcaption class="image-caption">Example of my Level Manager Script</figcaption>
     </figure></p>
 <p> </p>
 <h3 id="2--rolling-cube-model" class="headerLink">
     <a href="#2--rolling-cube-model" class="header-mark"></a>2 — Rolling Cube (model)</h3><p>Check out these 2 YouTube videos by <strong><a href="https://www.youtube.com/watch?v=06rs3U2bpy8" target="_blank" rel="noopener noreferrer">Thomas Friday</a></strong> and <strong><a href="https://www.youtube.com/watch?v=V9rVZ9mf0uA" target="_blank" rel="noopener noreferrer">Tarodev</a></strong>. Their tutorial on rolling mechanics for the cube was top-notch. With their tutorial, I was able to come up with the following:</p>
 <p> 
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/game.gif" title="game.gif" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/game.gif" data-sub-html="<h2>Rolling Cube in 3D space</h2>">
+<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" title="images/game.gif" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" data-sub-html="<h2>Rolling Cube in 3D space</h2>">
         <img
             
             loading="lazy"
-            src="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/game.gif"
-            srcset="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/game.gif 405w,
-                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/game.gif 405w,
-                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/game.gif 405w"
-            alt="game.gif" height="405"  width="405" >
+            src="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif"
+            srcset="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif 405w,
+                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif 405w,
+                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif 405w"
+            alt="images/game.gif" height="405"  width="405" >
     </a><figcaption class="image-caption">Rolling Cube in 3D space</figcaption>
     </figure></p>
 <p>I can move my model on the puzzle and what’s next is to identify the orientation &amp; position of my model as it rolls on the puzzle. So a huge kudos to them!</p>
@@ -162,15 +162,15 @@
 <h3 id="3--adding-navigation-controls" class="headerLink">
     <a href="#3--adding-navigation-controls" class="header-mark"></a>3 — Adding Navigation Controls</h3><p>A game on spatial thinking wouldn’t be complete without the feature to interact with the puzzle. So I added pan, zoom, rotate, and other navigation tools to allow players to move the puzzle around. Here’s what it looks like!</p>
 <p> 
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/controls.gif" title="controls.gif" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/controls.gif" data-sub-html="<h2>In Game Controls</h2>">
+<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" title="images/controls.gif" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" data-sub-html="<h2>In Game Controls</h2>">
         <img
             
             loading="lazy"
-            src="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/controls.gif"
-            srcset="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/controls.gif 450w,
-                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/controls.gif 450w,
-                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/controls.gif 450w"
-            alt="controls.gif" height="450"  width="450" >
+            src="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif"
+            srcset="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif 450w,
+                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif 450w,
+                /updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif 450w"
+            alt="images/controls.gif" height="450"  width="450" >
     </a><figcaption class="image-caption">In Game Controls</figcaption>
     </figure></p>
 <p>To achieve this result, you will have to play around with the Main Camera view as well as the Input System. As you may have observed, the rotation tool is a bit out of control. I am not very satisfied with the implementation as it is not very intuitive. So if you have any ideas on how I can improve that, please leave a comment down below and share with me :)</p>
