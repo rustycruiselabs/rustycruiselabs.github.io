@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>White-Codex - Tag - RustyCruise Labs</title>
+        <link>http://localhost:1313/tags/white-codex/</link>
+        <description>White-Codex - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 12 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/white-codex/" rel="self" type="application/rss+xml" /><item>
+    <title>[White Codex] Devlog #2 - Designing Main Character</title>
+    <link>http://localhost:1313/updates/magic-dungeon/2024_10_12_character_creation/</link>
+    <pubDate>Sat, 12 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/updates/magic-dungeon/2024_10_12_character_creation/</guid>
+    <description><![CDATA[This post is to document on my character creation process. This is something that I am not very good with and am really learning along the way as it is my first time creating 3D characters. The tools I am using are krita for sketching my art, blender for modeling &amp; animations and unity for game physics.
+SketchingPlayer character sketchAfter researching on a couple of videos, I realized that it is important to have a sketch of the character before I start modelling.]]></description>
+</item><item>
+    <title>[White Codex] Devlog #1 - Magic and Dungeon</title>
+    <link>http://localhost:1313/updates/magic-dungeon/2024_09_20_start_of_game/</link>
+    <pubDate>Fri, 20 Sep 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/updates/magic-dungeon/2024_09_20_start_of_game/</guid>
+    <description><![CDATA[Survival Project - promotional poster found on WikipediaI am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &ldquo;Survival Project&rdquo;, which is game that I used to play when I was alot younger. &ldquo;Survival Project&rdquo; was a MMORPG with simple mechanics, but unfortunately, the game servers closed down in 2013. You can still play at a private server - Survival Project - Generations though, but the feel is just different&hellip;]]></description>
+</item></channel>
+</rss>

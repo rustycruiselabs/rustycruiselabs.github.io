@@ -1,36 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Game - Tag - RustyCruise Labs</title>
-        <link>https://rustycruiselabs.github.io/tags/game/</link>
-        <description>Game - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/game/" rel="self" type="application/rss+xml" /><item>
-    <title>Rolling Mind</title>
-    <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
-    <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
-    <description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Game - Tag - RustyCruise Labs</title><link>https://rustycruiselabs.github.io/tags/game/</link><description>Game - Tag - RustyCruise Labs</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/game/" rel="self" type="application/rss+xml"/><item><title>White Codex</title><link>https://rustycruiselabs.github.io/games/white-codex/</link><pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate><author><name>Author</name></author><guid>https://rustycruiselabs.github.io/games/white-codex/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/img/whitecodexwitch.png" referrerpolicy="no-referrer">
+            </div>OverviewWould you play a game about a witch that clears dungeon to learn spells?
+Devlogs &nbsp;white-codex-devlogs[White Codex] Devlog #1 - Magic and Dungeon20-09-2024]]></description></item><item><title>Rolling Mind</title><link>https://rustycruiselabs.github.io/games/rolling-mind/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><author><name>Author</name></author><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
-            </div>Overview&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.]]></description>
-</item><item>
-    <title>Spear Master</title>
-    <link>https://rustycruiselabs.github.io/games/spear-master/</link>
-    <pubDate>Sat, 06 Jan 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/spear-master/</guid>
-    <description><![CDATA[<div class="featured-image">
+            </div>Overview&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.]]></description></item><item><title>Spear Master</title><link>https://rustycruiselabs.github.io/games/spear-master/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><author><name>Author</name></author><guid>https://rustycruiselabs.github.io/games/spear-master/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/img/spearmaster.png" referrerpolicy="no-referrer">
             </div>Overview&ldquo;Spear Master&rdquo; was a submission for Boss Jam Game Jam 2024. It was an attempt to further develop my skills at 2D animation with boss fights. However, I overestimated my ability and didn&rsquo;t manage to complete the game. 2D animations are harder than I thought&hellip;.
-Try it out here!Spear Master by RustyCruise Labs]]></description>
-</item><item>
-    <title>Charms and Guns</title>
-    <link>https://rustycruiselabs.github.io/games/charms-and-guns/</link>
-    <pubDate>Sun, 31 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid>
-    <description><![CDATA[<div class="featured-image">
+Try it out here!Spear Master by RustyCruise Labs]]></description></item><item><title>Charms and Guns</title><link>https://rustycruiselabs.github.io/games/charms-and-guns/</link><pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><author><name>Author</name></author><guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/img/charmsandguns.png" referrerpolicy="no-referrer">
             </div>Overview&ldquo;Charms and Guns&rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.
-Try it out here!Charms and Guns by RustyCruise Labs]]></description>
-</item></channel>
-</rss>
+Try it out here!Charms and Guns by RustyCruise Labs]]></description></item></channel></rss>

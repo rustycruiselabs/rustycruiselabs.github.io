@@ -1,18 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Homes on RustyCruise Labs</title>
-    <link>https://rustycruiselabs.github.io/home/</link>
-    <description>Recent content in Homes on RustyCruise Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://rustycruiselabs.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://rustycruiselabs.github.io/home/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rustycruiselabs.github.io/home/about/</guid>
-      <description>Hello Gamer!Welcome to RustyCruise Labs~ This is our dedicated space to document our game development journey through devlogs, game prototypes and also to share the games we&amp;rsquo;ve crafted with passion.&#xA;Ever since stumbling into my first GMTK game jam in 2023, which was a horribly failed attempt, I&amp;rsquo;ve been immersing myself in the exhilarating world of game development, absorbing lessons and evolving with each endeavor. Come along as we embark on this adventure together, delving into the captivating realm of game creation!</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Homes on RustyCruise Labs</title><link>https://rustycruiselabs.github.io/home/</link><description>Recent content in Homes on RustyCruise Labs</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://rustycruiselabs.github.io/home/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://rustycruiselabs.github.io/home/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/home/about/</guid><description>Hello Gamer!Welcome to RustyCruise Labs~ This is our dedicated space to document our game development journey through devlogs, game prototypes and also to share the games we&amp;rsquo;ve crafted with passion.
+Ever since stumbling into my first GMTK game jam in 2023, which was a horribly failed attempt, I&amp;rsquo;ve been immersing myself in the exhilarating world of game development, absorbing lessons and evolving with each endeavor. Come along as we embark on this adventure together, delving into the captivating realm of game creation!</description></item></channel></rss>
