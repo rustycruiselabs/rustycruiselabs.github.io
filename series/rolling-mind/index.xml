@@ -1,47 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Rolling-Mind - Series - RustyCruise Labs</title>
-        <link>http://localhost:1313/series/rolling-mind/</link>
-        <description>Rolling-Mind - Series - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 29 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/series/rolling-mind/" rel="self" type="application/rss+xml" /><item>
-    <title>Rolling Mind - Monetization Strategy</title>
-    <link>http://localhost:1313/devlogs/2024_06_29_rolling_mind_in_app_purchase/</link>
-    <pubDate>Sat, 29 Jun 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>http://localhost:1313/devlogs/2024_06_29_rolling_mind_in_app_purchase/</guid>
-    <description><![CDATA[IntroCoin Bundle DesignAs it is closer to my release date, it is time to think about the monetization strategy for the game. Although this is a hobby, I still hope to be able to earn some side income from my work &amp; efforts. For my first mobile game attempt, I think that a freemium model with rewarded ads and in app purchases will suit &ldquo;Rolling Mind&rdquo; since it is a puzzle genre game.]]></description>
-</item><item>
-    <title>Rolling Mind - In Game Currency</title>
-    <link>http://localhost:1313/devlogs/2024_03_25_rolling_mind_in_game_currency/</link>
-    <pubDate>Mon, 25 Mar 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>http://localhost:1313/devlogs/2024_03_25_rolling_mind_in_game_currency/</guid>
-    <description><![CDATA[Introducing Coins&ldquo;Coins&rdquo; - an in-game currency are introduced to allow players to purchase hints or unlock new model skins. The goal is to provide players with a challenge where
-Hints cannot be used easily due to limited resources (coins) New model skins unlocked varieties in the gameplay. Coin DesignCoin DesignSpend some time creating this coin asset using inkscape. Credits goes to noobgrafx for the Inkscape tutorial on designing game coin asset.]]></description>
-</item><item>
-    <title>Rolling Mind Development Start</title>
-    <link>http://localhost:1313/posts/2024_03_18_start_of_rolling_mind/</link>
-    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>http://localhost:1313/posts/2024_03_18_start_of_rolling_mind/</guid>
-    <description><![CDATA[Development UpdatesRolling Mind Puzzle Game“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.]]></description>
-</item><item>
-    <title>Rolling Mind Core Game Mechanics</title>
-    <link>http://localhost:1313/devlogs/2023_08_30_rolling_mind_mechanics/</link>
-    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>http://localhost:1313/devlogs/2023_08_30_rolling_mind_mechanics/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/devlogs/2023_08_30_rolling_mind_mechanics/preview.png" referrerpolicy="no-referrer">
-            </div>What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.
-So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.]]></description>
-</item><item>
-    <title>First Game Devlog</title>
-    <link>http://localhost:1313/devlogs/2023_08_09_start_of_devlog/</link>
-    <pubDate>Wed, 09 Aug 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>http://localhost:1313/devlogs/2023_08_09_start_of_devlog/</guid>
-    <description><![CDATA[After my first game jam experience in July 2023, I was inspired by the games created by fellow game developers and fell in a love with the game development process. My skills were seriously lacking, so I spent lots of time after the game jam to hone my skills through tutorials, forums, YouTube videos and even ChatGPT.
-There’s nothing faster in learning than to put my skills into practice. Hence, I am currently working on a new game called “Rolling Mind” which is a puzzle based game.]]></description>
-</item></channel>
-</rss>

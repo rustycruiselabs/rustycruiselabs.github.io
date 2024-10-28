@@ -1,4 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Rolling-Mind-Devlogs - Tag - RustyCruise Labs</title><link>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</link><description>Rolling-Mind-Devlogs - Tag - RustyCruise Labs</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/" rel="self" type="application/rss+xml"/><item><title>[Rolling Mind] Devlog #2 - Restarting Development Work</title><link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link><pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate><author><name>Author</name></author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid><description>Development Updates
-Rolling Mind Puzzle Game
-“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</description></item><item><title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title><link>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</link><pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate><author><name>Author</name></author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid><description>What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.
-So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rolling-Mind-Devlogs - Tag - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</link>
+        <description>Rolling-Mind-Devlogs - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/" rel="self" type="application/rss+xml" /><item>
+    <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
+    <link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
+    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
+    <description><![CDATA[Development UpdatesRolling Mind Puzzle Game“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.]]></description>
+</item><item>
+    <title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title>
+    <link>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</link>
+    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid>
+    <description><![CDATA[What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.
+So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.]]></description>
+</item></channel>
+</rss>

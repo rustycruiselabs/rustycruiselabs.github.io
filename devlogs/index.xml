@@ -1,7 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Devlogs - devlog - RustyCruise Labs</title>
-        <link>http://localhost:1313/devlogs/</link>
-        <description>Devlogs - devlog - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/devlogs/" rel="self" type="application/rss+xml" /></channel>
-</rss>

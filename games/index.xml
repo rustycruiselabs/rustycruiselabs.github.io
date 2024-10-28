@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Games We Made with ❤ on RustyCruise Labs</title><link>https://rustycruiselabs.github.io/games/</link><description>Recent content in Games We Made with ❤ on RustyCruise Labs</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/games/index.xml" rel="self" type="application/rss+xml"/><item><title>White Codex</title><link>https://rustycruiselabs.github.io/games/white-codex/</link><pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/games/white-codex/</guid><description>OverviewWould you play a game about a witch that clears dungeon to learn spells?
-Devlogs &amp;nbsp;white-codex-devlogs[White Codex] Devlog #1 - Magic and Dungeon20-09-2024</description></item><item><title>Rolling Mind</title><link>https://rustycruiselabs.github.io/games/rolling-mind/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid><description>Overview&amp;ldquo;Rolling Mind&amp;rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&amp;rsquo;s eye. In &amp;ldquo;Rolling Mind,&amp;rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</description></item><item><title>Spear Master</title><link>https://rustycruiselabs.github.io/games/spear-master/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/games/spear-master/</guid><description>Overview&amp;ldquo;Spear Master&amp;rdquo; was a submission for Boss Jam Game Jam 2024. It was an attempt to further develop my skills at 2D animation with boss fights. However, I overestimated my ability and didn&amp;rsquo;t manage to complete the game. 2D animations are harder than I thought&amp;hellip;.
-Try it out here!Spear Master by RustyCruise Labs</description></item><item><title>Charms and Guns</title><link>https://rustycruiselabs.github.io/games/charms-and-guns/</link><pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid><description>Overview&amp;ldquo;Charms and Guns&amp;rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.
-Try it out here!Charms and Guns by RustyCruise Labs</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games We Made with ❤ on RustyCruise Labs</title>
+    <link>https://rustycruiselabs.github.io/games/</link>
+    <description>Recent content in Games We Made with ❤ on RustyCruise Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rustycruiselabs.github.io/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>White Codex</title>
+      <link>https://rustycruiselabs.github.io/games/white-codex/</link>
+      <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/games/white-codex/</guid>
+      <description>&#xD;OverviewWould you play a game about a witch that clears dungeon to learn spells?&#xA;Devlogs &amp;nbsp;white-codex-devlogs&#xD;[White Codex] Devlog #1 - Magic and Dungeon&#xD;20-09-2024&#xD;</description>
+    </item>
+    <item>
+      <title>Rolling Mind</title>
+      <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
+      <description>Overview&amp;ldquo;Rolling Mind&amp;rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&amp;rsquo;s eye. In &amp;ldquo;Rolling Mind,&amp;rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</description>
+    </item>
+    <item>
+      <title>Spear Master</title>
+      <link>https://rustycruiselabs.github.io/games/spear-master/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/games/spear-master/</guid>
+      <description>&#xD;Overview&amp;ldquo;Spear Master&amp;rdquo; was a submission for Boss Jam Game Jam 2024. It was an attempt to further develop my skills at 2D animation with boss fights. However, I overestimated my ability and didn&amp;rsquo;t manage to complete the game. 2D animations are harder than I thought&amp;hellip;.&#xA;Try it out here!&#xD;Spear Master by RustyCruise Labs&#xD;</description>
+    </item>
+    <item>
+      <title>Charms and Guns</title>
+      <link>https://rustycruiselabs.github.io/games/charms-and-guns/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid>
+      <description>&#xD;Overview&amp;ldquo;Charms and Guns&amp;rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.&#xA;Try it out here!&#xD;Charms and Guns by RustyCruise Labs&#xD;</description>
+    </item>
+  </channel>
+</rss>

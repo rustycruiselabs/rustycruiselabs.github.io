@@ -1,2 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Latest Updates on RustyCruise Labs</title><link>https://rustycruiselabs.github.io/updates/</link><description>Recent content in Latest Updates on RustyCruise Labs</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/updates/index.xml" rel="self" type="application/rss+xml"/><item><title>[White Codex] Devlog #1 - Magic and Dungeon</title><link>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</guid><description>Survival Project - promotional poster found on WikipediaI am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &amp;ldquo;Survival Project&amp;rdquo;, which is game that I used to play when I was alot younger. &amp;ldquo;Survival Project&amp;rdquo; was a MMORPG with simple mechanics, but unfortunately, the game servers closed down in 2013. You can still play at a private server - Survival Project - Generations though, but the feel is just different&amp;hellip;</description></item><item><title>[Rolling Mind] Devlog #2 - Restarting Development Work</title><link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link><pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid><description>Development UpdatesRolling Mind Puzzle Game“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</description></item><item><title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title><link>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</link><pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid><description>What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.
-So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest Updates on RustyCruise Labs</title>
+    <link>https://rustycruiselabs.github.io/updates/</link>
+    <description>Recent content in Latest Updates on RustyCruise Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rustycruiselabs.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[White Codex] Devlog #1 - Magic and Dungeon</title>
+      <link>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</guid>
+      <description>Survival Project - promotional poster found on Wikipedia&#xD;I am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &amp;ldquo;Survival Project&amp;rdquo;, which is game that I used to play when I was alot younger. &amp;ldquo;Survival Project&amp;rdquo; was a MMORPG with simple mechanics, but unfortunately, the game servers closed down in 2013. You can still play at a private server - Survival Project - Generations though, but the feel is just different&amp;hellip;</description>
+    </item>
+    <item>
+      <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
+      <link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
+      <description>Development Updates&#xD;Rolling Mind Puzzle Game&#xD;“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</description>
+    </item>
+    <item>
+      <title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title>
+      <link>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid>
+      <description>What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.&#xA;So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.</description>
+    </item>
+  </channel>
+</rss>

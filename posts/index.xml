@@ -1,14 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - RustyCruise Labs</title>
-        <link>http://localhost:1313/posts/</link>
-        <description>All Posts | RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Rolling Mind Development Start</title>
-    <link>http://localhost:1313/posts/2024_03_18_start_of_rolling_mind/</link>
-    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>http://localhost:1313/posts/2024_03_18_start_of_rolling_mind/</guid>
-    <description><![CDATA[Development UpdatesRolling Mind Puzzle Game“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.]]></description>
-</item></channel>
-</rss>
