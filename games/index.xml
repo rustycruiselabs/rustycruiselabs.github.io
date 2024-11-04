@@ -4,7 +4,7 @@
     <title>Games We Made with ❤ on RustyCruise Labs</title>
     <link>https://rustycruiselabs.github.io/games/</link>
     <description>Recent content in Games We Made with ❤ on RustyCruise Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 26 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustycruiselabs.github.io/games/index.xml" rel="self" type="application/rss+xml" />
@@ -13,28 +13,28 @@
       <link>https://rustycruiselabs.github.io/games/white-codex/</link>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/games/white-codex/</guid>
-      <description>&#xD;OverviewWould you play a game about a witch that clears dungeon to learn spells?&#xA;Devlogs &amp;nbsp;white-codex-devlogs&#xD;[White Codex] Devlog #1 - Magic and Dungeon&#xD;20-09-2024&#xD;</description>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;Would you play a game about a witch that clears dungeon to learn spells?&lt;/p&gt;&#xA;&lt;h2 id=&#34;devlogs&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#devlogs&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Devlogs&lt;/h2&gt; &#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;h4 class=&#34;single-title animate__animated animate__pulse animate__faster&#34;&gt;&#xD;&#xA;        &lt;svg class=&#34;icon&#34;&#xA;    xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --&gt;&lt;path d=&#34;M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z&#34;/&gt;&lt;/svg&gt;&amp;nbsp;white-codex-devlogs&#xD;&#xA;    &lt;/h4&gt;&#xD;&#xA;&#xD;&#xA;    &#xD;&#xA;    &lt;div class=&#34;archive&#34;&gt;&lt;article class=&#34;archive-item&#34;&gt;&#xD;&#xA;                &lt;a href=&#34;https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/&#34; class=&#34;archive-item-link&#34;&gt;[White Codex] Devlog #1 - Magic and Dungeon&lt;/a&gt;&#xD;&#xA;                &lt;span class=&#34;archive-item-date&#34;&gt;&#xD;&#xA;                    20-09-2024&#xD;&#xA;                &lt;/span&gt;&#xD;&#xA;            &lt;/article&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Rolling Mind</title>
       <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
-      <description>Overview&amp;ldquo;Rolling Mind&amp;rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&amp;rsquo;s eye. In &amp;ldquo;Rolling Mind,&amp;rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</description>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;&amp;ldquo;Rolling Mind&amp;rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&amp;rsquo;s eye. In &amp;ldquo;Rolling Mind,&amp;rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spear Master</title>
       <link>https://rustycruiselabs.github.io/games/spear-master/</link>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/games/spear-master/</guid>
-      <description>&#xD;Overview&amp;ldquo;Spear Master&amp;rdquo; was a submission for Boss Jam Game Jam 2024. It was an attempt to further develop my skills at 2D animation with boss fights. However, I overestimated my ability and didn&amp;rsquo;t manage to complete the game. 2D animations are harder than I thought&amp;hellip;.&#xA;Try it out here!&#xD;Spear Master by RustyCruise Labs&#xD;</description>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;&amp;ldquo;Spear Master&amp;rdquo; was a submission for Boss Jam Game Jam 2024. It was an attempt to further develop my skills at 2D animation with boss fights. However, I overestimated my ability and didn&amp;rsquo;t manage to complete the game. 2D animations are harder than I thought&amp;hellip;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-it-out-here&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#try-it-out-here&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Try it out here!&lt;/h2&gt;&lt;div&gt;&lt;iframe &#xD;&#xA;        frameborder=&#34;0&#34; &#xD;&#xA;        src=&#34;https://itch.io/embed/2514004&#34; &#xD;&#xA;        width=&#34;552&#34; &#xD;&#xA;        height=&#34;167&#34;&gt;&#xD;&#xA;            &lt;a href=&#34;https://rustycruiselabs.itch.io/spear-master&#34;&gt;Spear Master by RustyCruise Labs&lt;/a&gt;&#xD;&#xA;        &lt;/iframe&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Charms and Guns</title>
       <link>https://rustycruiselabs.github.io/games/charms-and-guns/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid>
-      <description>&#xD;Overview&amp;ldquo;Charms and Guns&amp;rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.&#xA;Try it out here!&#xD;Charms and Guns by RustyCruise Labs&#xD;</description>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;&amp;ldquo;Charms and Guns&amp;rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.&lt;/p&gt;&#xA;&lt;h2 id=&#34;try-it-out-here&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#try-it-out-here&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Try it out here!&lt;/h2&gt;&lt;div&gt;&lt;iframe &#xD;&#xA;        frameborder=&#34;0&#34; &#xD;&#xA;        src=&#34;https://itch.io/embed/2447147&#34; &#xD;&#xA;        width=&#34;552&#34; &#xD;&#xA;        height=&#34;167&#34;&gt;&#xD;&#xA;            &lt;a href=&#34;https://rustycruiselabs.itch.io/charms-and-guns&#34;&gt;Charms and Guns by RustyCruise Labs&lt;/a&gt;&#xD;&#xA;        &lt;/iframe&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

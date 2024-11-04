@@ -1,20 +1,25 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noodp" /><title>[White Codex] Devlog #1 - Magic and Dungeon - RustyCruise Labs</title><meta name="Description" content="I am working on a new game that is inspired by &#34;Survival Project&#34; which a game that I used to play when I was younger"><meta property="og:title" content="[White Codex] Devlog #1 - Magic and Dungeon" />
-<meta property="og:description" content="I am working on a new game that is inspired by &#34;Survival Project&#34; which a game that I used to play when I was younger" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/" /><meta property="article:section" content="updates" />
-<meta property="article:published_time" content="2024-09-20T00:00:00+00:00" />
-<meta property="article:modified_time" content="2024-09-20T00:00:00+00:00" />
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="[White Codex] Devlog #1 - Magic and Dungeon"/>
-<meta name="twitter:description" content="I am working on a new game that is inspired by &#34;Survival Project&#34; which a game that I used to play when I was younger"/>
-      <meta name="twitter:site" content="@rustycruiselabs"/>
+    <meta name="robots" content="noodp" /><title>[White Codex] Devlog #1 - Magic and Dungeon - RustyCruise Labs</title><meta name="Description" content="I am working on a new game that is inspired by &#34;Survival Project&#34; which a game that I used to play when I was younger"><meta property="og:url" content="https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/">
+  <meta property="og:site_name" content="RustyCruise Labs">
+  <meta property="og:title" content="[White Codex] Devlog #1 - Magic and Dungeon">
+  <meta property="og:description" content="I am working on a new game that is inspired by &#34;Survival Project&#34; which a game that I used to play when I was younger">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="updates">
+    <meta property="article:published_time" content="2024-09-20T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-09-20T00:00:00+00:00">
+    <meta property="article:tag" content="Updates">
+    <meta property="article:tag" content="White-Codex-Devlogs">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="[White Codex] Devlog #1 - Magic and Dungeon">
+  <meta name="twitter:description" content="I am working on a new game that is inspired by &#34;Survival Project&#34; which a game that I used to play when I was younger">
+      <meta name="twitter:site" content="@rustycruiselabs">
 <meta name="application-name" content="RustyCruise Labs">
 <meta name="apple-mobile-web-app-title" content="RustyCruise Labs">
 
@@ -23,8 +28,7 @@
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
 <link rel="canonical" href="https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/" /><link rel="prev" href="https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/" />
-<link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="/lib/animate/animate.min.css">
-        <noscript><link rel="stylesheet" href="/lib/animate/animate.min.css"></noscript><script type="application/ld+json">{"@context": "https://schema.org","@type": "BlogPosting",
+<link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">{"@context": "https://schema.org","@type": "BlogPosting",
         "headline": "[White Codex] Devlog #1 - Magic and Dungeon",
         "inLanguage": "en",
         "mainEntityOfPage": {
@@ -35,7 +39,7 @@
                             "url": "https://rustycruiselabs.github.io/img/logo.png",
                             "width":  375 ,
                             "height":  375 
-                        }],"genre": "updates","keywords":["updates","white-codex-devlogs"],"wordcount":  409 ,
+                        }],"genre": "updates","keywords":["updates","white-codex-devlogs"],"wordcount":  406 ,
         "url": "https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/","datePublished": "2024-09-20T00:00:00+00:00","dateModified": "2024-09-20T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": "Author"},"author": {
@@ -45,9 +49,11 @@
             },"description": "I am working on a new game that is inspired by \"Survival Project\" which a game that I used to play when I was younger"
     }</script></head>
 
-<body header-desktop="auto" header-mobile="auto"><script type="text/javascript">
+
+<body data-instant-intensity="viewport" ><script type="text/javascript">
         function setTheme(theme) {
           document.body.setAttribute('theme', theme); 
+          document.documentElement.className = theme;
           document.documentElement.style.setProperty('color-scheme', theme === 'light' ? 'light' : 'dark');
           if (theme === 'light') {
             document.documentElement.classList.remove('tw-dark')
@@ -59,8 +65,23 @@
         }
         function saveTheme(theme) {window.localStorage && localStorage.setItem('theme', theme);}
         function getMeta(metaName) {const metas = document.getElementsByTagName('meta'); for (let i = 0; i < metas.length; i++) if (metas[i].getAttribute('name') === metaName) return metas[i]; return '';}
-        if (window.localStorage && localStorage.getItem('theme')) {let theme = localStorage.getItem('theme');theme === 'light' || theme === 'dark' || theme === 'black' ? setTheme(theme) : (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light')); } else { if ('auto' === 'light' || 'auto' === 'dark' || 'auto' === 'black') setTheme('auto'), saveTheme('auto'); else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');}
-        let metaColors = {'light': '#f8f8f8','dark': '#252627','black': '#000000'}
+        if (window.localStorage && localStorage.getItem('theme')) {
+            let theme = localStorage.getItem('theme');
+            if (theme === 'light' || theme === 'dark') {
+            setTheme(theme);
+            } else {
+                if ((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                    setTheme('dark');
+                } else {
+                    setTheme('light');
+                }
+            }
+         } else { 
+            if ('auto' === 'light' || 'auto' === 'dark') 
+                setTheme('auto'), saveTheme('auto'); 
+            else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');
+        }
+        let metaColors = {'light': '#f8f8f8','dark': '#161b22'}
         getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
         window.switchThemeEventSet = new Set()
     </script>
@@ -68,12 +89,7 @@
     <div id="mask"></div><div class="wrapper"><header class="desktop print:!tw-hidden" id="header-desktop">
     <div class="header-wrapper">
         <div class="header-title">
-            <a href="/" title="RustyCruise Labs"><img
-        class="logo"
-        loading="lazy"
-        src="/img/headericon.png"
-        srcset="/img/headericon.png, /img/headericon.png 1.5x, /img/headericon.png 2x"
-        title="/img/headericon.png" height="36"   width="36" >RustyCruise Labs</a>
+            <a href="/" title="RustyCruise Labs"><img class="tw-inline tw-align-text-bottom tw-mr-1"  src=/img/headericon.png    height="32" width="32">RustyCruise Labs</a>
         </div>
         <div class="menu">
             <div class="menu-inner"><a class="menu-item"
@@ -90,12 +106,7 @@
     <div class="header-container">
         <div class="header-wrapper">
             <div class="header-title">
-                <a href="/" title="RustyCruise Labs"><img
-        class="logo"
-        loading="lazy"
-        src="/img/headericon.png"
-        srcset="/img/headericon.png, /img/headericon.png 1.5x, /img/headericon.png 2x"
-        title="/img/headericon.png" height="36"   width="36" >RustyCruise Labs</a>
+                <a href="/" title="RustyCruise Labs"><img class="tw-inline tw-align-text-bottom tw-mr-1"  src=/img/headericon.png    height="32" width="32">RustyCruise Labs</a>
             </div>
             <div class="menu-toggle" id="menu-toggle-mobile">
                 <span></span><span></span><span></span>
@@ -113,16 +124,7 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
-            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title animate__animated animate__pulse animate__faster">[White Codex] Devlog #1 - Magic and Dungeon</h1><div class="content" id="content"><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" title="images/survival_project.png" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" data-sub-html="<h2>Survival Project - promotional poster found on Wikipedia</h2>">
-        <img
-            
-            loading="lazy"
-            src="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png"
-            srcset="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png 220w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png 220w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png 220w"
-            alt="images/survival_project.png" height="297"  width="220" >
-    </a><figcaption class="image-caption">Survival Project - promotional poster found on Wikipedia</figcaption>
+            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">[White Codex] Devlog #1 - Magic and Dungeon</h1><div class="content" id="content"><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" data-sub-html="<h2>Survival Project - promotional poster found on Wikipedia</h2>"><img  loading="lazy" src=/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png    height="297" width="220"></a><figcaption class="image-caption">Survival Project - promotional poster found on Wikipedia</figcaption>
     </figure>
 <p>I am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &ldquo;Survival Project&rdquo;,
 which is game that I used to play when I was alot younger. &ldquo;Survival Project&rdquo; was a MMORPG with simple mechanics, but unfortunately,
@@ -134,54 +136,18 @@ though, but the feel is just different&hellip;</p>
 game called &ldquo;Survival Project&rdquo; which I used to spend quite a large amount of time on. And since the game was no longer available, I wanted to create a game with similar control mechanics for old times sake.</p>
 <p>Hence, using &ldquo;Survival Project&rdquo; movement mechanics as a base, I am thinking of a game where you will play as a witch who explore dungeons and learn spells along the way. So, simply throwing ideas out now&hellip; here are some of the key elements which I will want to incorporate to my game.</p>
 <h3 id="1---top-down-view" class="headerLink">
-    <a href="#1---top-down-view" class="header-mark"></a>1 - Top Down View</h3><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg" title="images/survival_project_battle.jpg" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg" data-sub-html="<h2>Image from https://mmos.com/review/survival-project</h2>">
-        <img
-            
-            loading="lazy"
-            src="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg"
-            srcset="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg 600w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg 600w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg 600w"
-            alt="images/survival_project_battle.jpg" height="450"  width="600" >
-    </a><figcaption class="image-caption">Image from <a href="https://mmos.com/review/survival-project" target="_blank" rel="noopener noreferrer">https://mmos.com/review/survival-project</a></figcaption>
+    <a href="#1---top-down-view" class="header-mark"></a>1 - Top Down View</h3><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg" data-sub-html="<h2>Image from https://mmos.com/review/survival-project</h2>"><img  loading="lazy" src=/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_battle.jpg    height="450" width="600"></a><figcaption class="image-caption">Image from <a href="https://mmos.com/review/survival-project" target="_blank" rel="noopener noreferrer">https://mmos.com/review/survival-project</a></figcaption>
     </figure>
-<figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png" title="images/brawl_stars.png" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png" data-sub-html="<h2>Image from https://supercell.com/en/games/brawlstars/</h2>">
-        <img
-            
-            loading="lazy"
-            src="/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png"
-            srcset="/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png 714w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png 714w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png 714w"
-            alt="images/brawl_stars.png" height="354"  width="714" >
-    </a><figcaption class="image-caption">Image from <a href="https://supercell.com/en/games/brawlstars/" target="_blank" rel="noopener noreferrer">https://supercell.com/en/games/brawlstars/</a></figcaption>
+<figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png" data-sub-html="<h2>Image from https://supercell.com/en/games/brawlstars/</h2>"><img  loading="lazy" src=/updates/magic-dungeon/2024_09_20_start_of_game/images/brawl_stars.png    height="354" width="714"></a><figcaption class="image-caption">Image from <a href="https://supercell.com/en/games/brawlstars/" target="_blank" rel="noopener noreferrer">https://supercell.com/en/games/brawlstars/</a></figcaption>
     </figure>
 <p>As someone who gets motion sickness easily, I prefer top down games compared to first-person or third-person games. Hence, games like
 brawl stars, death door, tunic, survival project, etc&hellip; appeals to me more. So for this new game, it will be a top down game.</p>
 <h3 id="2---movement-mechanics" class="headerLink">
-    <a href="#2---movement-mechanics" class="header-mark"></a>2 - Movement Mechanics</h3><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png" title="images/survival_project_controls.png" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png" data-sub-html="<h2>Image from https://www.spgenerations.com</h2>">
-        <img
-            
-            loading="lazy"
-            src="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png"
-            srcset="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png 877w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png 877w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png 877w"
-            alt="images/survival_project_controls.png" height="383"  width="877" >
-    </a><figcaption class="image-caption">Image from <a href="https://www.spgenerations.com" target="_blank" rel="noopener noreferrer">https://www.spgenerations.com</a></figcaption>
+    <a href="#2---movement-mechanics" class="header-mark"></a>2 - Movement Mechanics</h3><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png" data-sub-html="<h2>Image from https://www.spgenerations.com</h2>"><img  loading="lazy" src=/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project_controls.png    height="383" width="877"></a><figcaption class="image-caption">Image from <a href="https://www.spgenerations.com" target="_blank" rel="noopener noreferrer">https://www.spgenerations.com</a></figcaption>
     </figure>
 <p>I really like &ldquo;old&rdquo; movement mechanics in &ldquo;Survival Project&rdquo;. This form of movement mechanics basically moves your character forward like you would with a Tank, without any mouse to control the directions. I don&rsquo;t think you can find this in modern games easily, hence, this will be something I would want to replicate.</p>
 <h3 id="3---magic-circles" class="headerLink">
-    <a href="#3---magic-circles" class="header-mark"></a>3 - Magic Circles</h3><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg" title="images/fairy_tail_magic.jpg" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg" data-sub-html="<h2>Magic Circles from Fairy Tail</h2>">
-        <img
-            
-            loading="lazy"
-            src="/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg"
-            srcset="/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg 600w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg 600w,
-                /updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg 600w"
-            alt="images/fairy_tail_magic.jpg" height="330"  width="600" >
-    </a><figcaption class="image-caption">Magic Circles from Fairy Tail</figcaption>
+    <a href="#3---magic-circles" class="header-mark"></a>3 - Magic Circles</h3><figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg" data-sub-html="<h2>Magic Circles from Fairy Tail</h2>"><img  loading="lazy" src=/updates/magic-dungeon/2024_09_20_start_of_game/images/fairy_tail_magic.jpg    height="330" width="600"></a><figcaption class="image-caption">Magic Circles from Fairy Tail</figcaption>
     </figure>
 <p>Lastly, what is casting spells without maagic circles! Whether it&rsquo;s games like &ldquo;Surival Project&rdquo; or animes like &ldquo;Fairy Tail&rdquo;. I like the idea of using magic circles for magic effects. So this might be something I would like to try. Hopefully, it ain&rsquo;t too difficult&hellip;</p>
 <h2 id="summary" class="headerLink">
@@ -189,7 +155,7 @@ brawl stars, death door, tunic, survival project, etc&hellip; appeals to me more
 </div></div></div>
         </main><footer class="footer">
         <div class="footer-container"><div class="footer-line">
-                    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.124.1">Hugo</a>&nbsp;|&nbsp;Theme - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.4.0">DoIt</a> & <a href='https://github.com/binokochumolvarghese/lightbi-hugo' target='_blank' rel='noopener noreferrer' title='Lightbi'>Lightbi</a>
+                    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.136.5">Hugo</a>&nbsp;|&nbsp;Theme - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.4.0">DoIt</a> & <a href='https://github.com/binokochumolvarghese/lightbi-hugo' target='_blank' rel='noopener noreferrer' title='Lightbi'>Lightbi</a>
                 </div><div class="footer-line"><svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 448c-110.532 0-200-89.451-200-200 0-110.531 89.451-200 200-200 110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200zm107.351-101.064c-9.614 9.712-45.53 41.396-104.065 41.396-82.43 0-140.484-61.425-140.484-141.567 0-79.152 60.275-139.401 139.762-139.401 55.531 0 88.738 26.62 97.593 34.779a11.965 11.965 0 0 1 1.936 15.322l-18.155 28.113c-3.841 5.95-11.966 7.282-17.499 2.921-8.595-6.776-31.814-22.538-61.708-22.538-48.303 0-77.916 35.33-77.916 80.082 0 41.589 26.888 83.692 78.277 83.692 32.657 0 56.843-19.039 65.726-27.225 5.27-4.857 13.596-4.039 17.82 1.738l19.865 27.17a11.947 11.947 0 0 1-1.152 15.518z"/></svg>2024<span class="author">&nbsp;<a href="/" target="_blank" rel="noopener noreferrer"></a></span></div>
             <div class="footer-line"></div>
@@ -197,17 +163,11 @@ brawl stars, death door, tunic, survival project, etc&hellip; appeals to me more
             </div>
         </div></footer></div>
 
-    <div id="fixed-buttons" class="print:!tw-hidden"><a href="#back-to-top" id="back-to-top-button" class="fixed-button" title="Back to Top">
+    <div id="fixed-buttons" class="print:!tw-hidden"><a href="#back-to-top" id="back-to-top-button" class="fixed-button tw-transition-opacity tw-opacity-0" title="Back to Top">
             <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg>
-        </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
-            <svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M256 32C114.6 32 0 125.1 0 240c0 49.6 21.4 95 57 130.7C44.5 421.1 2.7 466 2.2 466.5c-2.2 2.3-2.8 5.7-1.5 8.7S4.8 480 8 480c66.3 0 116-31.8 140.6-51.4 32.7 12.3 69 19.4 107.4 19.4 141.4 0 256-93.1 256-208S397.4 32 256 32z"/></svg>
-        </a>
-    </div><div class="assets"><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":10},"comment":{}};</script><script
-    src="/lib/clipboard/clipboard.min.js"
-    
-  ></script><script
+        </a></div>
+<script>window.config={"comment":{}};</script><script
     src="/js/theme.min.js"
     
       defer
@@ -218,7 +178,19 @@ brawl stars, death door, tunic, survival project, etc&hellip; appeals to me more
         </script><script
     src="https://www.googletagmanager.com/gtag/js?id=G-ZVD56LZ28K"
     async
-  ></script></div>
+  ></script>
+    
+    <script type="speculationrules">
+        {
+          "prerender": [
+            {
+              "where": { "href_matches": "/*" },
+              "eagerness": "moderate"
+            }
+          ]
+        }
+    </script>
+      
 </body>
 
 </html>

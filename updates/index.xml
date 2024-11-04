@@ -4,7 +4,7 @@
     <title>Latest Updates on RustyCruise Labs</title>
     <link>https://rustycruiselabs.github.io/updates/</link>
     <description>Recent content in Latest Updates on RustyCruise Labs</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustycruiselabs.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</guid>
-      <description>Survival Project - promotional poster found on Wikipedia&#xD;I am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &amp;ldquo;Survival Project&amp;rdquo;, which is game that I used to play when I was alot younger. &amp;ldquo;Survival Project&amp;rdquo; was a MMORPG with simple mechanics, but unfortunately, the game servers closed down in 2013. You can still play at a private server - Survival Project - Generations though, but the feel is just different&amp;hellip;</description>
+      <description>&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png&#34; title=&#34;&#34; data-thumbnail=&#34;/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png&#34; data-sub-html=&#34;&lt;h2&gt;Survival Project - promotional poster found on Wikipedia&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png    height=&#34;297&#34; width=&#34;220&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Survival Project - promotional poster found on Wikipedia&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;&lt;p&gt;I am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &amp;ldquo;Survival Project&amp;rdquo;,&#xA;which is game that I used to play when I was alot younger. &amp;ldquo;Survival Project&amp;rdquo; was a MMORPG with simple mechanics, but unfortunately,&#xA;the game servers closed down in 2013. You can still play at a private server - &lt;a href=&#34;https://www.spgenerations.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Survival Project - Generations&lt;/a&gt;&#xA;though, but the feel is just different&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
       <link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
       <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
-      <description>Development Updates&#xD;Rolling Mind Puzzle Game&#xD;“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</description>
+      <description>&lt;h2 id=&#34;development-updates&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#development-updates&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Development Updates&lt;/h2&gt;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png&#34; title=&#34;&#34; data-thumbnail=&#34;/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png&#34; data-sub-html=&#34;&lt;h2&gt;Rolling Mind Puzzle Game&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png    height=&#34;250&#34; width=&#34;315&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Rolling Mind Puzzle Game&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;&lt;p&gt;“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.&lt;/p&gt;</description>
     </item>
     <item>
       <title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title>
       <link>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid>
-      <description>What’s the Game About“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.&#xA;So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube.</description>
+      <description>&lt;h2 id=&#34;whats-the-game-about&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#whats-the-game-about&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;What’s the Game About&lt;/h2&gt;&lt;p&gt;“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.&lt;/p&gt;&#xA;&lt;p&gt;So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept and that’s how mental rotation became the core concept of this game!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
