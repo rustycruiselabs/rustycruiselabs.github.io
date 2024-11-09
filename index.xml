@@ -6,76 +6,37 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>White Codex</title>
-    <link>https://rustycruiselabs.github.io/games/white-codex/</link>
-    <pubDate>Sat, 26 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+    <title>[White Codex] Devlog #1 - Magic and Dungeon</title>
+    <link>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</link>
+    <pubDate>Fri, 20 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/white-codex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/whitecodexwitch.png" referrerpolicy="no-referrer">
-            </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>Would you play a game about a witch that clears dungeon to learn spells?</p>
-<h2 id="devlogs" class="headerLink">
-    <a href="#devlogs" class="header-mark"></a>Devlogs</h2> 
-
-    
-    <h4 class="single-title animate__animated animate__pulse animate__faster">
-        <svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>&nbsp;white-codex-devlogs
-    </h4>
-
-    
-    <div class="archive"><article class="archive-item">
-                <a href="/updates/magic-dungeon/2024_09_20_start_of_game/" class="archive-item-link">[White Codex] Devlog #1 - Magic and Dungeon</a>
-                <span class="archive-item-date">
-                    20-09-2024
-                </span>
-            </article></div>]]></description>
+    </author><guid>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" data-sub-html="<h2>Survival Project - promotional poster found on Wikipedia</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png    height="297" width="220"></a><figcaption class="image-caption">Survival Project - promotional poster found on Wikipedia</figcaption>
+    </figure>
+<p>I am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &ldquo;Survival Project&rdquo;,
+which is game that I used to play when I was alot younger. &ldquo;Survival Project&rdquo; was a MMORPG with simple mechanics, but unfortunately,
+the game servers closed down in 2013. You can still play at a private server - <a href="https://www.spgenerations.com/" target="_blank" rel="noopener noreferrer">Survival Project - Generations</a>
+though, but the feel is just different&hellip;</p>]]></description>
 </item><item>
-    <title>Rolling Mind</title>
-    <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
-    <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+    <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
+    <link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
+    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
-            </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
+    </author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
+    <description><![CDATA[<h2 id="development-updates" class="headerLink">
+    <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png" title="" data-thumbnail="/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
+    </figure>
+<p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</p>]]></description>
 </item><item>
-    <title>Spear Master</title>
-    <link>https://rustycruiselabs.github.io/games/spear-master/</link>
-    <pubDate>Sat, 06 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+    <title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title>
+    <link>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</link>
+    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/spear-master/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/spearmaster.png" referrerpolicy="no-referrer">
-            </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Spear Master&rdquo; was a submission for Boss Jam Game Jam 2024. It was an attempt to further develop my skills at 2D animation with boss fights. However, I overestimated my ability and didn&rsquo;t manage to complete the game. 2D animations are harder than I thought&hellip;.</p>
-<h2 id="try-it-out-here" class="headerLink">
-    <a href="#try-it-out-here" class="header-mark"></a>Try it out here!</h2><div><iframe 
-        frameborder="0" 
-        src="https://itch.io/embed/2514004" 
-        width="552" 
-        height="167">
-            <a href="https://rustycruiselabs.itch.io/spear-master">Spear Master by RustyCruise Labs</a>
-        </iframe></div>]]></description>
-</item><item>
-    <title>Charms and Guns</title>
-    <link>https://rustycruiselabs.github.io/games/charms-and-guns/</link>
-    <pubDate>Sun, 31 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/charmsandguns.png" referrerpolicy="no-referrer">
-            </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Charms and Guns&rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.</p>
-<h2 id="try-it-out-here" class="headerLink">
-    <a href="#try-it-out-here" class="header-mark"></a>Try it out here!</h2><div><iframe 
-        frameborder="0" 
-        src="https://itch.io/embed/2447147" 
-        width="552" 
-        height="167">
-            <a href="https://rustycruiselabs.itch.io/charms-and-guns">Charms and Guns by RustyCruise Labs</a>
-        </iframe></div>]]></description>
+    </author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
+    </figure>
+<h2 id="whats-the-game-about" class="headerLink">
+    <a href="#whats-the-game-about" class="header-mark"></a>What’s the Game About</h2><p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.</p>
+<p>So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept and that’s how mental rotation became the core concept of this game!</p>]]></description>
 </item></channel>
 </rss>

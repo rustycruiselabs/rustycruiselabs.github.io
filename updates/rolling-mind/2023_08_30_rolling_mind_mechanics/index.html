@@ -39,7 +39,7 @@
                             "url": "https://rustycruiselabs.github.io/img/logo.png",
                             "width":  375 ,
                             "height":  375 
-                        }],"genre": "updates","keywords":["updates","rolling-mind-devlogs"],"wordcount":  607 ,
+                        }],"genre": "updates","keywords":["updates","rolling-mind-devlogs"],"wordcount":  611 ,
         "url": "https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/","datePublished": "2023-08-30T00:00:00+00:00","dateModified": "2023-08-30T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": "Author"},"author": {
@@ -124,13 +124,13 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
-            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">[Rolling Mind] Devlog #1 - Core Game Mechanics</h1><div class="content" id="content"><h2 id="whats-the-game-about" class="headerLink">
+            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">[Rolling Mind] Devlog #1 - Core Game Mechanics</h1><div class="content" id="content"><figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
+    </figure>
+<h2 id="whats-the-game-about" class="headerLink">
     <a href="#whats-the-game-about" class="header-mark"></a>What’s the Game About</h2><p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.</p>
 <p>So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept and that’s how mental rotation became the core concept of this game!</p>
-<p> </p>
 <h2 id="developing-the-game-mechanics" class="headerLink">
     <a href="#developing-the-game-mechanics" class="header-mark"></a>Developing the Game Mechanics</h2><p>Here are some of my progress updates on how I approach the development.</p>
-<p> </p>
 <h3 id="1--creating-puzzles-with-scriptable-objects" class="headerLink">
     <a href="#1--creating-puzzles-with-scriptable-objects" class="header-mark"></a>1 — Creating Puzzles with Scriptable Objects</h3><p>Since this is a puzzle genre game, I needed a way to design the levels easily. I supposed I could either use procedural level generation techniques or create a custom-level editor to create my levels. As I didn’t want randomly generated levels, I opted for the custom-level editor using a simple Vector3 array with scriptable objects. Here’s a snippet of how it works.</p>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
@@ -236,22 +236,17 @@
 </span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre>
 </div>
 <p>Using the Scriptable Object defined above, allows me to define my level’s roll path individually. I can then load these LevelData into my game scene which will generate the puzzle. After which, all I need is a simple level manager that stores all the level data as well as handles the level transition for me as shown below.</p>
-<p> 
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp" data-sub-html="<h2>Example of my Level Manager Script</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.webp    height="484" width="484"></a><figcaption class="image-caption">Example of my Level Manager Script</figcaption>
-    </figure></p>
-<p> </p>
+<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png" data-sub-html="<h2>Example of my Level Manager Script</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png    height="484" width="484"></a><figcaption class="image-caption">Example of my Level Manager Script</figcaption>
+    </figure>
 <h3 id="2--rolling-cube-model" class="headerLink">
     <a href="#2--rolling-cube-model" class="header-mark"></a>2 — Rolling Cube (model)</h3><p>Check out these 2 YouTube videos by <strong><a href="https://www.youtube.com/watch?v=06rs3U2bpy8" target="_blank" rel="noopener noreferrer">Thomas Friday</a></strong> and <strong><a href="https://www.youtube.com/watch?v=V9rVZ9mf0uA" target="_blank" rel="noopener noreferrer">Tarodev</a></strong>. Their tutorial on rolling mechanics for the cube was top-notch. With their tutorial, I was able to come up with the following:</p>
-<p> 
 <figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" data-sub-html="<h2>Rolling Cube in 3D space</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif    height="405" width="405"></a><figcaption class="image-caption">Rolling Cube in 3D space</figcaption>
-    </figure></p>
+    </figure>
 <p>I can move my model on the puzzle and what’s next is to identify the orientation &amp; position of my model as it rolls on the puzzle. So a huge kudos to them!</p>
-<p> </p>
 <h3 id="3--adding-navigation-controls" class="headerLink">
     <a href="#3--adding-navigation-controls" class="header-mark"></a>3 — Adding Navigation Controls</h3><p>A game on spatial thinking wouldn’t be complete without the feature to interact with the puzzle. So I added pan, zoom, rotate, and other navigation tools to allow players to move the puzzle around. Here’s what it looks like!</p>
-<p> 
 <figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" data-sub-html="<h2>In Game Controls</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif    height="450" width="450"></a><figcaption class="image-caption">In Game Controls</figcaption>
-    </figure></p>
+    </figure>
 <p>To achieve this result, you will have to play around with the Main Camera view as well as the Input System. As you may have observed, the rotation tool is a bit out of control. I am not very satisfied with the implementation as it is not very intuitive. So if you have any ideas on how I can improve that, please leave a comment down below and share with me :)</p>
 <h2 id="summing-this-up" class="headerLink">
     <a href="#summing-this-up" class="header-mark"></a>Summing This Up</h2><p>That’s it for this dev log! There’s so much work to be done… I will release the “Rolling Mind” game prototype on itch.io next month. I hope that will be something you can look forward to as you follow my journey.</p>
