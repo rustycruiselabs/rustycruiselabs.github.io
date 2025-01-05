@@ -3,9 +3,26 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Devlog #2 - Creating Splash Screen</title>
+    <link>https://rustycruiselabs.github.io/updates/generic/2024_12_31_splash_screen/</link>
+    <pubDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/updates/generic/2024_12_31_splash_screen/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>I am almost done with development for Rolling Mind and it&rsquo;s time to create a Splash Screen for my game&rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&hellip;?</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Buying Bunch of Assets</title>
+    <link>https://rustycruiselabs.github.io/updates/generic/2024_11_25_buying_unity_assets/</link>
+    <pubDate>Mon, 25 Nov 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/updates/generic/2024_11_25_buying_unity_assets/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>It&rsquo;s Black Friday! and there was lots of sales going on the Unity Asset store. There were flash deals where assets were sold at a discounted price of 70% and many of the highly recommended assets were 50% off. I was weighing between the price of the assets &amp; the time saving I would have when developing games, and decided to splurge abit this round.</p>
+<p>One of the unexpected things I found was the <strong>Humble Bundle</strong> where you can get a bunch of assets at a pretty great deal.</p>]]></description>
+</item><item>
     <title>[White Codex] Devlog #1 - Magic and Dungeon</title>
     <link>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</link>
     <pubDate>Fri, 20 Sep 2024 00:00:00 &#43;0000</pubDate><author>
