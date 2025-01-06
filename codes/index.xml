@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes That I Found Useful on RustyCruise Labs</title>
+    <link>https://rustycruiselabs.github.io/codes/</link>
+    <description>Recent content in Codes That I Found Useful on RustyCruise Labs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rustycruiselabs.github.io/codes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Krita - How to create Ring With Outer Glow</title>
+      <link>https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
+      <description>&lt;h2 id=&#34;getting-started&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#getting-started&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Getting Started&lt;/h2&gt;&lt;p&gt;To create a ring with outer glow in Krita, these are the steps&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-create-a-new-document&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#1-create-a-new-document&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;1 Create a new document&lt;/h3&gt;&lt;p&gt;The document should have the following settings&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Width: 1024px&lt;/li&gt;&#xA;&lt;li&gt;Height: 1024px&lt;/li&gt;&#xA;&lt;li&gt;Resolution: 75pxi&lt;/li&gt;&#xA;&lt;li&gt;Background Canvas: Black&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-create-new-vector-layer&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#2-create-new-vector-layer&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;2 Create New Vector Layer&lt;/h3&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png&#34; title=&#34;&#34; data-thumbnail=&#34;/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png    height=&#34;360&#34; width=&#34;360&#34;&gt;&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Under the layer settings, create a new vector layer&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-draw-a-circle-on-the-vector-layer&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#3-draw-a-circle-on-the-vector-layer&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;3 Draw a Circle on the Vector Layer&lt;/h3&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png&#34; title=&#34;&#34; data-thumbnail=&#34;/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png    height=&#34;485&#34; width=&#34;577&#34;&gt;&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Select the Ellipse Tool&lt;/li&gt;&#xA;&lt;li&gt;Select White Color&lt;/li&gt;&#xA;&lt;li&gt;Select Brush Size of 15px&lt;/li&gt;&#xA;&lt;li&gt;Draw the circle (click + Shift + click)&lt;/li&gt;&#xA;&lt;li&gt;Press &lt;strong&gt;Ctrl + T&lt;/strong&gt; and click on the circle to move/resize it&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;4-center-the-circle&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#4-center-the-circle&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;4 Center the Circle&lt;/h3&gt;&lt;p&gt;Start by creating the guides for the background canvas as shown below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Krita - Creating Wrap Around Textures for VFX</title>
+      <link>https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</guid>
+      <description>&lt;h2 id=&#34;intro&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#intro&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Intro&lt;/h2&gt;&lt;p&gt;Quick Refresher on how to create wrap around textures in Krita like the one below.&lt;/p&gt;&#xA;&lt;h2 id=&#34;getting-started&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#getting-started&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Getting Started&lt;/h2&gt;&lt;h3 id=&#34;step-1-create-a-new-document&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#step-1-create-a-new-document&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Step 1: Create a New Document&lt;/h3&gt;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png&#34; title=&#34;&#34; data-thumbnail=&#34;/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png&#34; data-sub-html=&#34;&lt;h2&gt;Krita - New Document&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png    height=&#34;284&#34; width=&#34;565&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Krita - New Document&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;&lt;p&gt;Start by creating a new document (width = 1024px, height = 1024px, resolution = 75 pxi). After creating the document, ensure that you have 2 layers (1 black background layer and 1 paint layer) as shown in diagram below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blender - How to create a Smoke Cloud</title>
+      <link>https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/</guid>
+      <description>Simple guide to create a smoke cloud mesh in blender for vfx</description>
+    </item>
+    <item>
+      <title>Exporting FBX from Blender to Unity</title>
+      <link>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</guid>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=GjcJzGrxTME&amp;amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Polyfable - Blender to Unity with Correct Axis | Tutorial&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=vrN9duEoA6g&amp;amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Imphenzia - Rigify to Unity Tutorial - How to Export a Rigify Character and Import it into Unity&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;getting-started&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#getting-started&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Getting Started&lt;/h2&gt;&lt;p&gt;Assuming that you have already rig and animated your character, follow the steps below to export your character as FBX.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

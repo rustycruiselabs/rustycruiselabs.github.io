@@ -34,7 +34,9 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
             </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
+    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/games/rolling-mind/images/feature_graphic.png" title="" data-thumbnail="/games/rolling-mind/images/feature_graphic.png" data-sub-html="<h2>Created by Author</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/games/rolling-mind/images/feature_graphic.png    height="500" width="1024"></a><figcaption class="image-caption">Created by Author</figcaption>
+    </figure>
+<p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
 </item><item>
     <title>Spear Master</title>
     <link>https://rustycruiselabs.github.io/games/spear-master/</link>

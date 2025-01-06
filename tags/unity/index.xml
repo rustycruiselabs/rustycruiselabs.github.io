@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Unity - Tag - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/tags/unity/</link>
+        <description>Unity - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/unity/" rel="self" type="application/rss+xml" /><item>
+    <title>Exporting FBX from Blender to Unity</title>
+    <link>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</link>
+    <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GjcJzGrxTME&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Polyfable - Blender to Unity with Correct Axis | Tutorial</a></li>
+<li><a href="https://www.youtube.com/watch?v=vrN9duEoA6g&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Imphenzia - Rigify to Unity Tutorial - How to Export a Rigify Character and Import it into Unity</a></li>
+</ul>
+<h2 id="getting-started" class="headerLink">
+    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>Assuming that you have already rig and animated your character, follow the steps below to export your character as FBX.</p>]]></description>
+</item></channel>
+</rss>
