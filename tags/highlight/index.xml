@@ -3,29 +3,7 @@
         <title>Highlight - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/highlight/</link>
         <description>Highlight - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 26 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/highlight/" rel="self" type="application/rss+xml" /><item>
-    <title>White Codex</title>
-    <link>https://rustycruiselabs.github.io/games/white-codex/</link>
-    <pubDate>Sat, 26 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/games/white-codex/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/img/whitecodexwitch.png" referrerpolicy="no-referrer">
-            </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>Would you play a game about a witch that clears dungeon to learn spells?</p>
-<h2 id="devlogs" class="headerLink">
-    <a href="#devlogs" class="header-mark"></a>Devlogs</h2> 
-
-    <div class="devlogs-content">
-        
-        <div class="archive"><article class="archive-item">
-                    <a href="/updates/magic-dungeon/2024_09_20_start_of_game/" class="archive-item-link">[White Codex] Devlog #1 - Magic and Dungeon</a>
-                    <span class="archive-item-date">
-                        20-09-2024
-                    </span>
-                </article></div>
-    </div>]]></description>
-</item><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/highlight/" rel="self" type="application/rss+xml" /><item>
     <title>Rolling Mind</title>
     <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
     <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>

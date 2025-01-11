@@ -3,7 +3,7 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Devlog #2 - Creating Splash Screen</title>
@@ -23,18 +23,6 @@
     <a href="#overview" class="header-mark"></a>Overview</h2><p>It&rsquo;s Black Friday! and there was lots of sales going on the Unity Asset store. There were flash deals where assets were sold at a discounted price of 70% and many of the highly recommended assets were 50% off. I was weighing between the price of the assets &amp; the time saving I would have when developing games, and decided to splurge abit this round.</p>
 <p>One of the unexpected things I found was the <strong>Humble Bundle</strong> where you can get a bunch of assets at a pretty great deal.</p>]]></description>
 </item><item>
-    <title>[White Codex] Devlog #1 - Magic and Dungeon</title>
-    <link>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</link>
-    <pubDate>Fri, 20 Sep 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" title="" data-thumbnail="/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png" data-sub-html="<h2>Survival Project - promotional poster found on Wikipedia</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/updates/magic-dungeon/2024_09_20_start_of_game/images/survival_project.png    height="297" width="220"></a><figcaption class="image-caption">Survival Project - promotional poster found on Wikipedia</figcaption>
-    </figure>
-<p>I am excited to share that I am currently working on a new game that is inspired by some of the mechanics in &ldquo;Survival Project&rdquo;,
-which is game that I used to play when I was alot younger. &ldquo;Survival Project&rdquo; was a MMORPG with simple mechanics, but unfortunately,
-the game servers closed down in 2013. You can still play at a private server - <a href="https://www.spgenerations.com/" target="_blank" rel="noopener noreferrer">Survival Project - Generations</a>
-though, but the feel is just different&hellip;</p>]]></description>
-</item><item>
     <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
     <link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
     <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
@@ -42,6 +30,16 @@ though, but the feel is just different&hellip;</p>]]></description>
     </author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
     <description><![CDATA[<h2 id="development-updates" class="headerLink">
     <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png" title="" data-thumbnail="/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/updates/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
+    </figure>
+<p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</p>]]></description>
+</item><item>
+    <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
+    <link>https://rustycruiselabs.github.io/updates/rolling-mind/2024_09/</link>
+    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/updates/rolling-mind/2024_09/</guid>
+    <description><![CDATA[<h2 id="development-updates" class="headerLink">
+    <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/updates/rolling-mind/2024_09/images/preview.png" title="" data-thumbnail="/updates/rolling-mind/2024_09/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/updates/rolling-mind/2024_09/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
     </figure>
 <p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</p>]]></description>
 </item><item>

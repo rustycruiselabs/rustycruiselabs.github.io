@@ -6,8 +6,15 @@
     <description>Recent content in Codes That I Found Useful on RustyCruise Labs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustycruiselabs.github.io/codes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unity Tips - Safe Area for UI Canvas</title>
+      <link>https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/</guid>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/images/overview.png&#34; title=&#34;&#34; data-thumbnail=&#34;/codes/2025-01-11-unity-safe-area/images/overview.png&#34; data-sub-html=&#34;&lt;h2&gt;UI Elements are blocked by Front Camera&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/images/overview.png    height=&#34;335&#34; width=&#34;1012&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;UI Elements are blocked by Front Camera&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;&lt;p&gt;Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &amp;ldquo;&lt;strong&gt;Safe Area&lt;/strong&gt;&amp;rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&amp;rsquo;s a quick guide on how to implement the fix in Unity.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Krita - How to create Ring With Outer Glow</title>
       <link>https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/</link>

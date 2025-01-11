@@ -3,7 +3,17 @@
         <title>Unity - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/unity/</link>
         <description>Unity - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/unity/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/unity/" rel="self" type="application/rss+xml" /><item>
+    <title>Unity Tips - Safe Area for UI Canvas</title>
+    <link>https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/</link>
+    <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/codes/2025-01-11-unity-safe-area/images/overview.png" title="" data-thumbnail="/codes/2025-01-11-unity-safe-area/images/overview.png" data-sub-html="<h2>UI Elements are blocked by Front Camera</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/codes/2025-01-11-unity-safe-area/images/overview.png    height="335" width="1012"></a><figcaption class="image-caption">UI Elements are blocked by Front Camera</figcaption>
+    </figure>
+<p>Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &ldquo;<strong>Safe Area</strong>&rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&rsquo;s a quick guide on how to implement the fix in Unity.</p>]]></description>
+</item><item>
     <title>Exporting FBX from Blender to Unity</title>
     <link>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
