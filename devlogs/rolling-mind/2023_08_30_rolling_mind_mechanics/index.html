@@ -4,13 +4,13 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noodp" /><title>[Rolling Mind] Devlog #1 - Core Game Mechanics - RustyCruise Labs</title><meta name="Description" content="This is my first attempt at making a mobile game after learning Unity"><meta property="og:url" content="https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/">
+    <meta name="robots" content="noodp" /><title>[Rolling Mind] Devlog #1 - Core Game Mechanics - RustyCruise Labs</title><meta name="Description" content="This is my first attempt at making a mobile game after learning Unity"><meta property="og:url" content="https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/">
   <meta property="og:site_name" content="RustyCruise Labs">
   <meta property="og:title" content="[Rolling Mind] Devlog #1 - Core Game Mechanics">
   <meta property="og:description" content="This is my first attempt at making a mobile game after learning Unity">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
-    <meta property="article:section" content="updates">
+    <meta property="article:section" content="devlogs">
     <meta property="article:published_time" content="2023-08-30T00:00:00+00:00">
     <meta property="article:modified_time" content="2023-08-30T00:00:00+00:00">
     <meta property="article:tag" content="Updates">
@@ -27,20 +27,20 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
-<link rel="canonical" href="https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/" /><link rel="next" href="https://rustycruiselabs.github.io/updates/rolling-mind/2024_09/" />
+<link rel="canonical" href="https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/" /><link rel="next" href="https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/" />
 <link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">{"@context": "https://schema.org","@type": "BlogPosting",
         "headline": "[Rolling Mind] Devlog #1 - Core Game Mechanics",
         "inLanguage": "en",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/"
+            "@id": "https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/"
         },"image": [{
                             "@type": "ImageObject",
                             "url": "https://rustycruiselabs.github.io/img/logo.png",
                             "width":  375 ,
                             "height":  375 
-                        }],"genre": "updates","keywords":["updates","rolling-mind-devlogs"],"wordcount":  611 ,
-        "url": "https://rustycruiselabs.github.io/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/","datePublished": "2023-08-30T00:00:00+00:00","dateModified": "2023-08-30T00:00:00+00:00","publisher": {
+                        }],"genre": "devlogs","keywords":["updates","rolling-mind-devlogs"],"wordcount":  611 ,
+        "url": "https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/","datePublished": "2023-08-30T00:00:00+00:00","dateModified": "2023-08-30T00:00:00+00:00","publisher": {
             "@type": "Organization",
             "name": "Author"},"author": {
                 "@type": "Person",
@@ -94,7 +94,7 @@
         <div class="menu">
             <div class="menu-inner"><a class="menu-item"
                     href="/games" > Games </a><a class="menu-item"
-                    href="/updates" > News/Devlogs </a><a class="menu-item"
+                    href="/devlogs" > Devlogs </a><a class="menu-item"
                     href="/codes" > Codes </a><a class="menu-item"
                     href="/policies" > Privacy &amp; Terms </a><a class="menu-item"
                     href="/contact" > Contact </a><span class="menu-item delimiter"></span><button class="menu-item theme-switch" aria-label="Switch Theme">
@@ -113,7 +113,7 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/updates" title="" >News/Devlogs</a><a class="menu-item" href="/codes" title="" >Codes</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/devlogs" title="" >Devlogs</a><a class="menu-item" href="/codes" title="" >Codes</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
                 <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
             </button></div>
@@ -125,7 +125,7 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
-            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">[Rolling Mind] Devlog #1 - Core Game Mechanics</h1><h2 class="single-subtitle">Rolling Mind&#39;s Core Game Mechanics</h2><div class="content" id="content"><figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
+            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">[Rolling Mind] Devlog #1 - Core Game Mechanics</h1><h2 class="single-subtitle">Rolling Mind&#39;s Core Game Mechanics</h2><div class="content" id="content"><figure><a class="lightgallery" href="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
     </figure>
 <h2 id="whats-the-game-about" class="headerLink">
     <a href="#whats-the-game-about" class="header-mark"></a>What’s the Game About</h2><p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.</p>
@@ -237,16 +237,16 @@
 </span></span><span class="line"><span class="cl"><span class="p">}</span></span></span></code></pre>
 </div>
 <p>Using the Scriptable Object defined above, allows me to define my level’s roll path individually. I can then load these LevelData into my game scene which will generate the puzzle. After which, all I need is a simple level manager that stores all the level data as well as handles the level transition for me as shown below.</p>
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png" data-sub-html="<h2>Example of my Level Manager Script</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png    height="484" width="484"></a><figcaption class="image-caption">Example of my Level Manager Script</figcaption>
+<figure><a class="lightgallery" href="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png" title="" data-thumbnail="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png" data-sub-html="<h2>Example of my Level Manager Script</h2>"><img  loading="lazy" src=/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/levelmanager.png    height="484" width="484"></a><figcaption class="image-caption">Example of my Level Manager Script</figcaption>
     </figure>
 <h3 id="2--rolling-cube-model" class="headerLink">
     <a href="#2--rolling-cube-model" class="header-mark"></a>2 — Rolling Cube (model)</h3><p>Check out these 2 YouTube videos by <strong><a href="https://www.youtube.com/watch?v=06rs3U2bpy8" target="_blank" rel="noopener noreferrer">Thomas Friday</a></strong> and <strong><a href="https://www.youtube.com/watch?v=V9rVZ9mf0uA" target="_blank" rel="noopener noreferrer">Tarodev</a></strong>. Their tutorial on rolling mechanics for the cube was top-notch. With their tutorial, I was able to come up with the following:</p>
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" data-sub-html="<h2>Rolling Cube in 3D space</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif    height="405" width="405"></a><figcaption class="image-caption">Rolling Cube in 3D space</figcaption>
+<figure><a class="lightgallery" href="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" title="" data-thumbnail="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif" data-sub-html="<h2>Rolling Cube in 3D space</h2>"><img  loading="lazy" src=/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/game.gif    height="405" width="405"></a><figcaption class="image-caption">Rolling Cube in 3D space</figcaption>
     </figure>
 <p>I can move my model on the puzzle and what’s next is to identify the orientation &amp; position of my model as it rolls on the puzzle. So a huge kudos to them!</p>
 <h3 id="3--adding-navigation-controls" class="headerLink">
     <a href="#3--adding-navigation-controls" class="header-mark"></a>3 — Adding Navigation Controls</h3><p>A game on spatial thinking wouldn’t be complete without the feature to interact with the puzzle. So I added pan, zoom, rotate, and other navigation tools to allow players to move the puzzle around. Here’s what it looks like!</p>
-<figure><a class="lightgallery" href="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" title="" data-thumbnail="/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" data-sub-html="<h2>In Game Controls</h2>"><img  loading="lazy" src=/updates/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif    height="450" width="450"></a><figcaption class="image-caption">In Game Controls</figcaption>
+<figure><a class="lightgallery" href="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" title="" data-thumbnail="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif" data-sub-html="<h2>In Game Controls</h2>"><img  loading="lazy" src=/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/controls.gif    height="450" width="450"></a><figcaption class="image-caption">In Game Controls</figcaption>
     </figure>
 <p>To achieve this result, you will have to play around with the Main Camera view as well as the Input System. As you may have observed, the rotation tool is a bit out of control. I am not very satisfied with the implementation as it is not very intuitive. So if you have any ideas on how I can improve that, please leave a comment down below and share with me :)</p>
 <h2 id="summing-this-up" class="headerLink">

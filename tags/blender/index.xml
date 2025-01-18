@@ -4,14 +4,39 @@
         <link>https://rustycruiselabs.github.io/tags/blender/</link>
         <description>Blender - Tag - RustyCruise Labs</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/blender/" rel="self" type="application/rss+xml" /><item>
-    <title>Blender - How to create a Smoke Cloud</title>
+    <title>Blender Tips - How to create a Smoke Cloud</title>
     <link>https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
     </author><guid>https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/</guid>
-    <description><![CDATA[Simple guide to create a smoke cloud mesh in blender for vfx]]></description>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
+<p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
+<h2 id="modeling" class="headerLink">
+    <a href="#modeling" class="header-mark"></a>Modeling</h2><p>In Modeling Window, create the smoke cloud with the following steps:</p>
+<ol>
+<li>use <strong>Shift A</strong> &ndash;&gt; create a Ico sphere &ndash;&gt; <strong>set the subdivisions to 1</strong></li>
+<li>Add a <strong>subdivision modifier</strong> to the Ico sphere to make it rounder</li>
+<li><strong>Shift + D</strong> to duplicate the ico sphere to create a cloud shape by moving the shapes around with <strong>G</strong></li>
+<li>Once you have the shape you want, select all the ico spheres, and <strong>Ctrl + J</strong> to join the mesh together
+<ul>
+<li>rename the object to <strong>SmokeSphere</strong></li>
+<li><em>Note: if you want to edit, go to Edit Mode, and with vertex select mode, click on a vertex and press <strong>L</strong> and then <strong>G</strong> to move the object, to adjust the shape to your liking</em></li>
+</ul>
+</li>
+<li>Add a <strong>remesh modifier</strong> to smooth the shape
+<ul>
+<li>Use <strong>Voxel</strong></li>
+<li>Voxel Size = <strong>0.2</strong></li>
+<li>Adaptivity = <strong>0</strong></li>
+</ul>
+</li>
+<li>Apply the modifiers in order &ndash;&gt; <strong>subdivision</strong> &ndash;&gt; <strong>remesh</strong> so that we can edit the UVs</li>
+<li>In Object mode, select the object and <strong>Ctrl + A</strong> to apply all the transform</li>
+</ol>
+<h2 id="uv-map" class="headerLink">
+    <a href="#uv-map" class="header-mark"></a>UV Map</h2><p>In UV Editing Window, create the uv map with the following steps:</p>]]></description>
 </item><item>
-    <title>Exporting FBX from Blender to Unity</title>
+    <title>Blender Tips - Exporting FBX from Blender to Unity</title>
     <link>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>

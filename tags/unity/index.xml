@@ -14,7 +14,7 @@
     </figure>
 <p>Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &ldquo;<strong>Safe Area</strong>&rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&rsquo;s a quick guide on how to implement the fix in Unity.</p>]]></description>
 </item><item>
-    <title>Exporting FBX from Blender to Unity</title>
+    <title>Blender Tips - Exporting FBX from Blender to Unity</title>
     <link>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>

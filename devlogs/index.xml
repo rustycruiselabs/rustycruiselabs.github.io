@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest Devlogs on RustyCruise Labs</title>
+    <link>https://rustycruiselabs.github.io/devlogs/</link>
+    <description>Recent content in Latest Devlogs on RustyCruise Labs</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rustycruiselabs.github.io/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Rolling Mind] Devlog #3 - Adding practise stage to the game</title>
+      <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025_01_18_practise_stage/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025_01_18_practise_stage/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/LRt-hvwJE-k?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;This is a debugging scene which I used for testing my game logics. After a series of refinement, it is now available in game for players to learn more about how the faces of the model will look like as it rotates. Pretty nice touch yeah?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Devlog #2 - Creating Splash Screen</title>
+      <link>https://rustycruiselabs.github.io/devlogs/generic/2024_12_31_splash_screen/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/generic/2024_12_31_splash_screen/</guid>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;I am almost done with development for Rolling Mind and it&amp;rsquo;s time to create a Splash Screen for my game&amp;rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&amp;hellip;?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Devlog #1 - Buying Bunch of Assets</title>
+      <link>https://rustycruiselabs.github.io/devlogs/generic/2024_11_25_buying_unity_assets/</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/generic/2024_11_25_buying_unity_assets/</guid>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;It&amp;rsquo;s Black Friday! and there was lots of sales going on the Unity Asset store. There were flash deals where assets were sold at a discounted price of 70% and many of the highly recommended assets were 50% off. I was weighing between the price of the assets &amp;amp; the time saving I would have when developing games, and decided to splurge abit this round.&lt;/p&gt;&#xA;&lt;p&gt;One of the unexpected things I found was the &lt;strong&gt;Humble Bundle&lt;/strong&gt; where you can get a bunch of assets at a pretty great deal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
+      <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
+      <description>&lt;h2 id=&#34;development-updates&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#development-updates&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Development Updates&lt;/h2&gt;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png&#34; title=&#34;&#34; data-thumbnail=&#34;/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png&#34; data-sub-html=&#34;&lt;h2&gt;Rolling Mind Puzzle Game&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png    height=&#34;250&#34; width=&#34;315&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Rolling Mind Puzzle Game&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;&lt;p&gt;“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title>
+      <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid>
+      <description>&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png&#34; title=&#34;&#34; data-thumbnail=&#34;/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png&#34; data-sub-html=&#34;&lt;h2&gt;Rolling Mind Game Preview&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png    height=&#34;398&#34; width=&#34;435&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Rolling Mind Game Preview&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;&lt;h2 id=&#34;whats-the-game-about&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#whats-the-game-about&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;What’s the Game About&lt;/h2&gt;&lt;p&gt;“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.&lt;/p&gt;&#xA;&lt;p&gt;So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept and that’s how mental rotation became the core concept of this game!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
