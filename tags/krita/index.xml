@@ -4,11 +4,11 @@
         <link>https://rustycruiselabs.github.io/tags/krita/</link>
         <description>Krita - Tag - RustyCruise Labs</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/krita/" rel="self" type="application/rss+xml" /><item>
-    <title>Krita Tips - How to create Ring With Outer Glow</title>
-    <link>https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/</link>
+    <title>Devlog #5 - How to create Ring With Outer Glow</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
     <description><![CDATA[<h2 id="getting-started" class="headerLink">
     <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>To create a ring with outer glow in Krita, these are the steps</p>
 <h3 id="1-create-a-new-document" class="headerLink">
@@ -20,12 +20,12 @@
 <li>Background Canvas: Black</li>
 </ul>
 <h3 id="2-create-new-vector-layer" class="headerLink">
-    <a href="#2-create-new-vector-layer" class="header-mark"></a>2 Create New Vector Layer</h3><a class="lightgallery" href="/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png" title="" data-thumbnail="/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png    height="360" width="360"></a>
+    <a href="#2-create-new-vector-layer" class="header-mark"></a>2 Create New Vector Layer</h3><a class="lightgallery" href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png" title="" data-thumbnail="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png    height="360" width="360"></a>
 <ul>
 <li>Under the layer settings, create a new vector layer</li>
 </ul>
 <h3 id="3-draw-a-circle-on-the-vector-layer" class="headerLink">
-    <a href="#3-draw-a-circle-on-the-vector-layer" class="header-mark"></a>3 Draw a Circle on the Vector Layer</h3><a class="lightgallery" href="/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png" title="" data-thumbnail="/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/codes/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png    height="485" width="577"></a>
+    <a href="#3-draw-a-circle-on-the-vector-layer" class="header-mark"></a>3 Draw a Circle on the Vector Layer</h3><a class="lightgallery" href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png" title="" data-thumbnail="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png    height="485" width="577"></a>
 <ul>
 <li>Select the Ellipse Tool</li>
 <li>Select White Color</li>
@@ -36,16 +36,16 @@
 <h3 id="4-center-the-circle" class="headerLink">
     <a href="#4-center-the-circle" class="header-mark"></a>4 Center the Circle</h3><p>Start by creating the guides for the background canvas as shown below.</p>]]></description>
 </item><item>
-    <title>Krita Tips - Creating Wrap Around Textures for VFX</title>
-    <link>https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
+    <title>Devlog #3 - Creating Wrap Around Textures for VFX</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
     <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</guid>
     <description><![CDATA[<h2 id="intro" class="headerLink">
     <a href="#intro" class="header-mark"></a>Intro</h2><p>Quick Refresher on how to create wrap around textures in Krita like the one below.</p>
 <h2 id="getting-started" class="headerLink">
     <a href="#getting-started" class="header-mark"></a>Getting Started</h2><h3 id="step-1-create-a-new-document" class="headerLink">
-    <a href="#step-1-create-a-new-document" class="header-mark"></a>Step 1: Create a New Document</h3><figure><a class="lightgallery" href="/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" title="" data-thumbnail="/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" data-sub-html="<h2>Krita - New Document</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png    height="284" width="565"></a><figcaption class="image-caption">Krita - New Document</figcaption>
+    <a href="#step-1-create-a-new-document" class="header-mark"></a>Step 1: Create a New Document</h3><figure><a class="lightgallery" href="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" title="" data-thumbnail="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" data-sub-html="<h2>Krita - New Document</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png    height="284" width="565"></a><figcaption class="image-caption">Krita - New Document</figcaption>
     </figure>
 <p>Start by creating a new document (width = 1024px, height = 1024px, resolution = 75 pxi). After creating the document, ensure that you have 2 layers (1 black background layer and 1 paint layer) as shown in diagram below.</p>]]></description>
 </item></channel>

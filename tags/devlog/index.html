@@ -4,22 +4,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noodp" /><title>Blender Tips - How to create a Smoke Cloud - RustyCruise Labs</title><meta name="Description" content="Note: This is written with the assumption that you are somewhat familiar with Blender"><meta property="og:url" content="https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/">
+    <meta name="robots" content="noodp" /><title>Devlog - Tag - RustyCruise Labs</title><meta name="Description" content=""><meta property="og:url" content="https://rustycruiselabs.github.io/tags/devlog/">
   <meta property="og:site_name" content="RustyCruise Labs">
-  <meta property="og:title" content="Blender Tips - How to create a Smoke Cloud">
-  <meta property="og:description" content="Note: This is written with the assumption that you are somewhat familiar with Blender">
+  <meta property="og:title" content="Devlog">
   <meta property="og:locale" content="en">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="codes">
-    <meta property="article:published_time" content="2024-10-31T00:00:00+00:00">
-    <meta property="article:modified_time" content="2024-10-31T00:00:00+00:00">
-    <meta property="article:tag" content="Updates">
-    <meta property="article:tag" content="Blender">
-    <meta property="article:tag" content="Vfx">
+  <meta property="og:type" content="website">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Blender Tips - How to create a Smoke Cloud">
-  <meta name="twitter:description" content="Note: This is written with the assumption that you are somewhat familiar with Blender">
+  <meta name="twitter:title" content="Devlog">
       <meta name="twitter:site" content="@rustycruiselabs">
 <meta name="application-name" content="RustyCruise Labs">
 <meta name="apple-mobile-web-app-title" content="RustyCruise Labs">
@@ -28,27 +20,11 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
-<link rel="canonical" href="https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/" /><link rel="prev" href="https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/" /><link rel="next" href="https://rustycruiselabs.github.io/codes/2024-11-10-krita-creating-wrap-around-textures-for-vfx/" />
-<link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">{"@context": "https://schema.org","@type": "BlogPosting",
-        "headline": "Blender Tips - How to create a Smoke Cloud",
-        "inLanguage": "en",
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/"
-        },"image": [{
-                            "@type": "ImageObject",
-                            "url": "https://rustycruiselabs.github.io/img/logo.png",
-                            "width":  375 ,
-                            "height":  375 
-                        }],"genre": "codes","keywords":["updates","blender","vfx"],"wordcount":  360 ,
-        "url": "https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/","datePublished": "2024-10-31T00:00:00+00:00","dateModified": "2024-10-31T00:00:00+00:00","publisher": {
-            "@type": "Organization",
-            "name": "Author"},"author": {
-                "@type": "Person",
-                "name": "Author",
-                "url": "/"
-            },"description": "Note: This is written with the assumption that you are somewhat familiar with Blender"
-    }</script></head>
+  
+
+<link rel="canonical" href="https://rustycruiselabs.github.io/tags/devlog/" /><link rel="alternate" href="/tags/devlog/index.xml" type="application/rss+xml" title="RustyCruise Labs">
+    <link rel="feed" href="/tags/devlog/index.xml" type="application/rss+xml" title="RustyCruise Labs">
+<link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"></head>
 
 
 <body data-instant-intensity="viewport" ><script type="text/javascript">
@@ -95,8 +71,7 @@
         <div class="menu">
             <div class="menu-inner"><a class="menu-item"
                     href="/games" > Games </a><a class="menu-item"
-                    href="/devlogs" > Devlogs </a><a class="menu-item"
-                    href="/codes" > Codes </a><a class="menu-item"
+                    href="/devlogs" > News/Devlogs </a><a class="menu-item"
                     href="/policies" > Privacy &amp; Terms </a><a class="menu-item"
                     href="/contact" > Contact </a><span class="menu-item delimiter"></span><button class="menu-item theme-switch" aria-label="Switch Theme">
                     <svg class="icon"
@@ -114,7 +89,7 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/devlogs" title="" >Devlogs</a><a class="menu-item" href="/codes" title="" >Codes</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/devlogs" title="" >News/Devlogs</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
                 <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
             </button></div>
@@ -126,55 +101,38 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
-            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">Blender Tips - How to create a Smoke Cloud</h1><h2 class="single-subtitle">This is a simple guide on creating a smoke cloud mesh in blender which I picked up from a course</h2><div class="content" id="content"><p><img class="tw-inline" loading="lazy" src=/codes/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
-<p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
-<h2 id="modeling" class="headerLink">
-    <a href="#modeling" class="header-mark"></a>Modeling</h2><p>In Modeling Window, create the smoke cloud with the following steps:</p>
-<ol>
-<li>use <strong>Shift A</strong> &ndash;&gt; create a Ico sphere &ndash;&gt; <strong>set the subdivisions to 1</strong></li>
-<li>Add a <strong>subdivision modifier</strong> to the Ico sphere to make it rounder</li>
-<li><strong>Shift + D</strong> to duplicate the ico sphere to create a cloud shape by moving the shapes around with <strong>G</strong></li>
-<li>Once you have the shape you want, select all the ico spheres, and <strong>Ctrl + J</strong> to join the mesh together
-<ul>
-<li>rename the object to <strong>SmokeSphere</strong></li>
-<li><em>Note: if you want to edit, go to Edit Mode, and with vertex select mode, click on a vertex and press <strong>L</strong> and then <strong>G</strong> to move the object, to adjust the shape to your liking</em></li>
-</ul>
-</li>
-<li>Add a <strong>remesh modifier</strong> to smooth the shape
-<ul>
-<li>Use <strong>Voxel</strong></li>
-<li>Voxel Size = <strong>0.2</strong></li>
-<li>Adaptivity = <strong>0</strong></li>
-</ul>
-</li>
-<li>Apply the modifiers in order &ndash;&gt; <strong>subdivision</strong> &ndash;&gt; <strong>remesh</strong> so that we can edit the UVs</li>
-<li>In Object mode, select the object and <strong>Ctrl + A</strong> to apply all the transform</li>
-</ol>
-<h2 id="uv-map" class="headerLink">
-    <a href="#uv-map" class="header-mark"></a>UV Map</h2><p>In UV Editing Window, create the uv map with the following steps:</p>
-<ol>
-<li>Go to Edit Mode, Vertex Select Mode and Select All</li>
-<li>With the sphere selected, press <strong>U</strong> to bring up UV menu, and select <strong>Sphere Projection</strong> to automatically unwrap. You should get the shape below
-<img class="tw-inline" loading="lazy" src=/codes/2024-10-31-blender-smoke-cloud/images/smokecloud_uv.png   alt="unwrap" height="486" width="894"></li>
-<li>It&rsquo;s abit too big, so select the UV with <strong>a</strong>, scale it in X axis (<strong>s</strong> &ndash;&gt; <strong>x</strong>) and fit it in the box. For those extruding points, select them by pressing <strong>b</strong>, box select, and use <strong>g</strong> to move them till it fits into the image
-<ul>
-<li>This is a quick way to edit the UV, but still looks good</li>
-</ul>
-</li>
-</ol>
-<h2 id="export--import" class="headerLink">
-    <a href="#export--import" class="header-mark"></a>Export &amp; Import</h2><p>Lastly, export the FBX with the following settings:</p>
-<ol>
-<li>Under Include, check <strong>selected objects</strong></li>
-<li>File name <strong>SmokeSphere.fbx</strong></li>
-</ol>
-<p>When Importing to Unity</p>
-<ol>
-<li>Under model, set the scale factor to <strong>100</strong> and apply</li>
-</ol>
-<h2 id="thats-all" class="headerLink">
-    <a href="#thats-all" class="header-mark"></a>That&rsquo;s All!</h2><p>That should be all you need to create a smoke cloud mesh. This is a technique which I picked up after attending a course by <a href="https://www.gabrielaguiarprod.com/" target="_blank" rel="noopener noreferrer">Gabriel Aguiar</a>. Check out his courses if you are interested to learn about VFX.</p>
-</div></div></div>
+            <div class="container"><div class="page archive"><h2 class="single-title"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M0 252.118V48C0 21.49 21.49 0 48 0h204.118a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882L293.823 497.941c-18.745 18.745-49.137 18.745-67.882 0L14.059 286.059A48 48 0 0 1 0 252.118zM112 64c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48z"/></svg>&nbsp;Devlog</h2><h3 class="group-title">2025</h3><article class="archive-item">
+                            <a href="/devlogs/rolling-mind/2025-01-18-practise-stage/" class="archive-item-link">Devlog #3 - Adding practise stage to the game</a>
+                            <span class="archive-item-date">01-18</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/generic/2025-01-11-unity-safe-area/" class="archive-item-link">Devlog #7 - Safe Area for UI Canvas</a>
+                            <span class="archive-item-date">01-11</span>
+                        </article><h3 class="group-title">2024</h3><article class="archive-item">
+                            <a href="/devlogs/generic/2024-12-31-splash-screen/" class="archive-item-link">Devlog #6 - Creating Splash Screen</a>
+                            <span class="archive-item-date">12-31</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/" class="archive-item-link">Devlog #5 - How to create Ring With Outer Glow</a>
+                            <span class="archive-item-date">11-30</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/generic/2024-11-25-buying-unity-assets/" class="archive-item-link">Devlog #4 - Buying Bunch of Assets</a>
+                            <span class="archive-item-date">11-25</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/" class="archive-item-link">Devlog #3 - Creating Wrap Around Textures for VFX</a>
+                            <span class="archive-item-date">11-10</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/generic/2024-10-31-blender-smoke-cloud/" class="archive-item-link">Devlog #2 - How to create a Smoke Cloud</a>
+                            <span class="archive-item-date">10-31</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/generic/2024-10-19-blender-to-unity-settings/" class="archive-item-link">Devlog #1 - Exporting FBX from Blender to Unity</a>
+                            <span class="archive-item-date">10-19</span>
+                        </article><article class="archive-item">
+                            <a href="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/" class="archive-item-link">Devlog #2 - Restarting Development Work</a>
+                            <span class="archive-item-date">03-18</span>
+                        </article><h3 class="group-title">2023</h3><article class="archive-item">
+                            <a href="/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/" class="archive-item-link">Devlog #1 - Core Game Mechanics</a>
+                            <span class="archive-item-date">08-30</span>
+                        </article></div></div>
         </main><footer class="footer">
         <div class="footer-container"><div class="footer-line">
                     Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.136.5">Hugo</a>&nbsp;|&nbsp;Theme - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.4.0">DoIt</a> & <a href='https://github.com/binokochumolvarghese/lightbi-hugo' target='_blank' rel='noopener noreferrer' title='Lightbi'>Lightbi</a>
@@ -189,7 +147,7 @@
             <svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg>
         </a></div>
-<script>window.config={"comment":{}};</script><script
+<script>window.config=null;</script><script
     src="/js/theme.min.js"
     
       defer

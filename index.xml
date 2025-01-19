@@ -6,11 +6,11 @@
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>[Rolling Mind] Devlog #3 - Adding practise stage to the game</title>
-    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025_01_18_practise_stage/</link>
+    <title>Devlog #3 - Adding practise stage to the game</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</link>
     <pubDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025_01_18_practise_stage/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</guid>
     <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/LRt-hvwJE-k?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
       ></iframe>
@@ -18,39 +18,140 @@
 
 <p>This is a debugging scene which I used for testing my game logics. After a series of refinement, it is now available in game for players to learn more about how the faces of the model will look like as it rotates. Pretty nice touch yeah?</p>]]></description>
 </item><item>
-    <title>Devlog #2 - Creating Splash Screen</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2024_12_31_splash_screen/</link>
+    <title>Devlog #7 - Safe Area for UI Canvas</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</link>
+    <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" title="" data-thumbnail="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" data-sub-html="<h2>UI Elements are blocked by Front Camera</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png    height="335" width="1012"></a><figcaption class="image-caption">UI Elements are blocked by Front Camera</figcaption>
+    </figure>
+<p>Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &ldquo;<strong>Safe Area</strong>&rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&rsquo;s a quick guide on how to implement the fix in Unity.</p>]]></description>
+</item><item>
+    <title>Devlog #6 - Creating Splash Screen</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</link>
     <pubDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024_12_31_splash_screen/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>I am almost done with development for Rolling Mind and it&rsquo;s time to create a Splash Screen for my game&rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&hellip;?</p>]]></description>
 </item><item>
-    <title>Devlog #1 - Buying Bunch of Assets</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2024_11_25_buying_unity_assets/</link>
+    <title>Devlog #5 - How to create Ring With Outer Glow</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
+    <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
+    <description><![CDATA[<h2 id="getting-started" class="headerLink">
+    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>To create a ring with outer glow in Krita, these are the steps</p>
+<h3 id="1-create-a-new-document" class="headerLink">
+    <a href="#1-create-a-new-document" class="header-mark"></a>1 Create a new document</h3><p>The document should have the following settings</p>
+<ul>
+<li>Width: 1024px</li>
+<li>Height: 1024px</li>
+<li>Resolution: 75pxi</li>
+<li>Background Canvas: Black</li>
+</ul>
+<h3 id="2-create-new-vector-layer" class="headerLink">
+    <a href="#2-create-new-vector-layer" class="header-mark"></a>2 Create New Vector Layer</h3><a class="lightgallery" href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png" title="" data-thumbnail="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png    height="360" width="360"></a>
+<ul>
+<li>Under the layer settings, create a new vector layer</li>
+</ul>
+<h3 id="3-draw-a-circle-on-the-vector-layer" class="headerLink">
+    <a href="#3-draw-a-circle-on-the-vector-layer" class="header-mark"></a>3 Draw a Circle on the Vector Layer</h3><a class="lightgallery" href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png" title="" data-thumbnail="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png    height="485" width="577"></a>
+<ul>
+<li>Select the Ellipse Tool</li>
+<li>Select White Color</li>
+<li>Select Brush Size of 15px</li>
+<li>Draw the circle (click + Shift + click)</li>
+<li>Press <strong>Ctrl + T</strong> and click on the circle to move/resize it</li>
+</ul>
+<h3 id="4-center-the-circle" class="headerLink">
+    <a href="#4-center-the-circle" class="header-mark"></a>4 Center the Circle</h3><p>Start by creating the guides for the background canvas as shown below.</p>]]></description>
+</item><item>
+    <title>Devlog #4 - Buying Bunch of Assets</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-25-buying-unity-assets/</link>
     <pubDate>Mon, 25 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024_11_25_buying_unity_assets/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-25-buying-unity-assets/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>It&rsquo;s Black Friday! and there was lots of sales going on the Unity Asset store. There were flash deals where assets were sold at a discounted price of 70% and many of the highly recommended assets were 50% off. I was weighing between the price of the assets &amp; the time saving I would have when developing games, and decided to splurge abit this round.</p>
 <p>One of the unexpected things I found was the <strong>Humble Bundle</strong> where you can get a bunch of assets at a pretty great deal.</p>]]></description>
 </item><item>
-    <title>[Rolling Mind] Devlog #2 - Restarting Development Work</title>
-    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/</link>
+    <title>Devlog #3 - Creating Wrap Around Textures for VFX</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</guid>
+    <description><![CDATA[<h2 id="intro" class="headerLink">
+    <a href="#intro" class="header-mark"></a>Intro</h2><p>Quick Refresher on how to create wrap around textures in Krita like the one below.</p>
+<h2 id="getting-started" class="headerLink">
+    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><h3 id="step-1-create-a-new-document" class="headerLink">
+    <a href="#step-1-create-a-new-document" class="header-mark"></a>Step 1: Create a New Document</h3><figure><a class="lightgallery" href="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" title="" data-thumbnail="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" data-sub-html="<h2>Krita - New Document</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png    height="284" width="565"></a><figcaption class="image-caption">Krita - New Document</figcaption>
+    </figure>
+<p>Start by creating a new document (width = 1024px, height = 1024px, resolution = 75 pxi). After creating the document, ensure that you have 2 layers (1 black background layer and 1 paint layer) as shown in diagram below.</p>]]></description>
+</item><item>
+    <title>Devlog #2 - How to create a Smoke Cloud</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
+    <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
+<p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
+<h2 id="modeling" class="headerLink">
+    <a href="#modeling" class="header-mark"></a>Modeling</h2><p>In Modeling Window, create the smoke cloud with the following steps:</p>
+<ol>
+<li>use <strong>Shift A</strong> &ndash;&gt; create a Ico sphere &ndash;&gt; <strong>set the subdivisions to 1</strong></li>
+<li>Add a <strong>subdivision modifier</strong> to the Ico sphere to make it rounder</li>
+<li><strong>Shift + D</strong> to duplicate the ico sphere to create a cloud shape by moving the shapes around with <strong>G</strong></li>
+<li>Once you have the shape you want, select all the ico spheres, and <strong>Ctrl + J</strong> to join the mesh together
+<ul>
+<li>rename the object to <strong>SmokeSphere</strong></li>
+<li><em>Note: if you want to edit, go to Edit Mode, and with vertex select mode, click on a vertex and press <strong>L</strong> and then <strong>G</strong> to move the object, to adjust the shape to your liking</em></li>
+</ul>
+</li>
+<li>Add a <strong>remesh modifier</strong> to smooth the shape
+<ul>
+<li>Use <strong>Voxel</strong></li>
+<li>Voxel Size = <strong>0.2</strong></li>
+<li>Adaptivity = <strong>0</strong></li>
+</ul>
+</li>
+<li>Apply the modifiers in order &ndash;&gt; <strong>subdivision</strong> &ndash;&gt; <strong>remesh</strong> so that we can edit the UVs</li>
+<li>In Object mode, select the object and <strong>Ctrl + A</strong> to apply all the transform</li>
+</ol>
+<h2 id="uv-map" class="headerLink">
+    <a href="#uv-map" class="header-mark"></a>UV Map</h2><p>In UV Editing Window, create the uv map with the following steps:</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
+    <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GjcJzGrxTME&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Polyfable - Blender to Unity with Correct Axis | Tutorial</a></li>
+<li><a href="https://www.youtube.com/watch?v=vrN9duEoA6g&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Imphenzia - Rigify to Unity Tutorial - How to Export a Rigify Character and Import it into Unity</a></li>
+</ul>
+<h2 id="getting-started" class="headerLink">
+    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>Assuming that you have already rig and animated your character, follow the steps below to export your character as FBX.</p>]]></description>
+</item><item>
+    <title>Devlog #2 - Restarting Development Work</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/</link>
     <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/</guid>
     <description><![CDATA[<h2 id="development-updates" class="headerLink">
-    <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2024_03_18_start_of_rolling_mind/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
+    <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
     </figure>
 <p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</p>]]></description>
 </item><item>
-    <title>[Rolling Mind] Devlog #1 - Core Game Mechanics</title>
-    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/</link>
+    <title>Devlog #1 - Core Game Mechanics</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/</link>
     <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2023_08_30_rolling_mind_mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
     </figure>
 <h2 id="whats-the-game-about" class="headerLink">
     <a href="#whats-the-game-about" class="header-mark"></a>What’s the Game About</h2><p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.</p>

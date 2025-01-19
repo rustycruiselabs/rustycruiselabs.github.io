@@ -4,12 +4,12 @@
         <link>https://rustycruiselabs.github.io/tags/blender/</link>
         <description>Blender - Tag - RustyCruise Labs</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/blender/" rel="self" type="application/rss+xml" /><item>
-    <title>Blender Tips - How to create a Smoke Cloud</title>
-    <link>https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/</link>
+    <title>Devlog #2 - How to create a Smoke Cloud</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/</guid>
-    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/codes/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
 <p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
 <h2 id="modeling" class="headerLink">
     <a href="#modeling" class="header-mark"></a>Modeling</h2><p>In Modeling Window, create the smoke cloud with the following steps:</p>
@@ -36,11 +36,11 @@
 <h2 id="uv-map" class="headerLink">
     <a href="#uv-map" class="header-mark"></a>UV Map</h2><p>In UV Editing Window, create the uv map with the following steps:</p>]]></description>
 </item><item>
-    <title>Blender Tips - Exporting FBX from Blender to Unity</title>
-    <link>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</link>
+    <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/codes/2024-10-19-blender-to-unity-settings/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>
 <ul>
