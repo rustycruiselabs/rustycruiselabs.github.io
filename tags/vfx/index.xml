@@ -4,7 +4,7 @@
         <link>https://rustycruiselabs.github.io/tags/vfx/</link>
         <description>Vfx - Tag - RustyCruise Labs</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/vfx/" rel="self" type="application/rss+xml" /><item>
-    <title>Devlog #5 - How to create Ring With Outer Glow</title>
+    <title>Devlog #5 - How to create Ring Texture With Outer Glow using Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
@@ -36,7 +36,7 @@
 <h3 id="4-center-the-circle" class="headerLink">
     <a href="#4-center-the-circle" class="header-mark"></a>4 Center the Circle</h3><p>Start by creating the guides for the background canvas as shown below.</p>]]></description>
 </item><item>
-    <title>Devlog #3 - Creating Wrap Around Textures for VFX</title>
+    <title>Devlog #3 - Creating Wrap Around Textures for VFX in Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
     <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
@@ -49,7 +49,7 @@
     </figure>
 <p>Start by creating a new document (width = 1024px, height = 1024px, resolution = 75 pxi). After creating the document, ensure that you have 2 layers (1 black background layer and 1 paint layer) as shown in diagram below.</p>]]></description>
 </item><item>
-    <title>Devlog #2 - How to create a Smoke Cloud</title>
+    <title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>

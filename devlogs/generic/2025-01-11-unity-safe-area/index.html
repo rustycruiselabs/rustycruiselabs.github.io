@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noodp" /><title>Devlog #7 - Safe Area for UI Canvas - RustyCruise Labs</title><meta name="Description" content="Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera"><meta property="og:url" content="https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/">
+    <meta name="robots" content="noodp" /><title>Devlog #7 - Safe Area for UI Canvas in Unity - RustyCruise Labs</title><meta name="Description" content="Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera"><meta property="og:url" content="https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/">
   <meta property="og:site_name" content="RustyCruise Labs">
-  <meta property="og:title" content="Devlog #7 - Safe Area for UI Canvas">
+  <meta property="og:title" content="Devlog #7 - Safe Area for UI Canvas in Unity">
   <meta property="og:description" content="Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
@@ -17,7 +17,7 @@
     <meta property="article:tag" content="Unity">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Devlog #7 - Safe Area for UI Canvas">
+  <meta name="twitter:title" content="Devlog #7 - Safe Area for UI Canvas in Unity">
   <meta name="twitter:description" content="Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera">
       <meta name="twitter:site" content="@rustycruiselabs">
 <meta name="application-name" content="RustyCruise Labs">
@@ -29,7 +29,7 @@
 
 <link rel="canonical" href="https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/" /><link rel="prev" href="https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/" /><link rel="next" href="https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/" />
 <link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">{"@context": "https://schema.org","@type": "BlogPosting",
-        "headline": "Devlog #7 - Safe Area for UI Canvas",
+        "headline": "Devlog #7 - Safe Area for UI Canvas in Unity",
         "inLanguage": "en",
         "mainEntityOfPage": {
             "@type": "WebPage",
@@ -124,7 +124,7 @@
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
 </div><main class="main">
-            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">Devlog #7 - Safe Area for UI Canvas</h1><h2 class="single-subtitle">Unity Tips - Today I learnt about Safe Area for Mobile Devices that affects Unity UI</h2><div class="content" id="content"><h2 id="overview" class="headerLink">
+            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">Devlog #7 - Safe Area for UI Canvas in Unity</h1><h2 class="single-subtitle">Today I learnt about Safe Area for Mobile Devices that affects Unity UI</h2><div class="content" id="content"><h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" title="" data-thumbnail="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" data-sub-html="<h2>UI Elements are blocked by Front Camera</h2>"><img  loading="lazy" src=/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png    height="335" width="1012"></a><figcaption class="image-caption">UI Elements are blocked by Front Camera</figcaption>
     </figure>
 <p>Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &ldquo;<strong>Safe Area</strong>&rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&rsquo;s a quick guide on how to implement the fix in Unity.</p>

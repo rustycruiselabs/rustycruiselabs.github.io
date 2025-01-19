@@ -16,7 +16,7 @@
 
 <p>This is a debugging scene which I used for testing my game logics. After a series of refinement, it is now available in game for players to learn more about how the faces of the model will look like as it rotates. Pretty nice touch yeah?</p>]]></description>
 </item><item>
-    <title>Devlog #7 - Safe Area for UI Canvas</title>
+    <title>Devlog #7 - Safe Area for UI Canvas in Unity</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</link>
     <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
@@ -34,7 +34,7 @@
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>I am almost done with development for Rolling Mind and it&rsquo;s time to create a Splash Screen for my game&rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&hellip;?</p>]]></description>
 </item><item>
-    <title>Devlog #5 - How to create Ring With Outer Glow</title>
+    <title>Devlog #5 - How to create Ring Texture With Outer Glow using Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
@@ -75,7 +75,7 @@
     <a href="#overview" class="header-mark"></a>Overview</h2><p>It&rsquo;s Black Friday! and there was lots of sales going on the Unity Asset store. There were flash deals where assets were sold at a discounted price of 70% and many of the highly recommended assets were 50% off. I was weighing between the price of the assets &amp; the time saving I would have when developing games, and decided to splurge abit this round.</p>
 <p>One of the unexpected things I found was the <strong>Humble Bundle</strong> where you can get a bunch of assets at a pretty great deal.</p>]]></description>
 </item><item>
-    <title>Devlog #3 - Creating Wrap Around Textures for VFX</title>
+    <title>Devlog #3 - Creating Wrap Around Textures for VFX in Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
     <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
@@ -88,7 +88,7 @@
     </figure>
 <p>Start by creating a new document (width = 1024px, height = 1024px, resolution = 75 pxi). After creating the document, ensure that you have 2 layers (1 black background layer and 1 paint layer) as shown in diagram below.</p>]]></description>
 </item><item>
-    <title>Devlog #2 - How to create a Smoke Cloud</title>
+    <title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
         <name>Author</name>
