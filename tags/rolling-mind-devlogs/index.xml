@@ -3,7 +3,19 @@
         <title>Rolling-Mind-Devlogs - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</link>
         <description>Rolling-Mind-Devlogs - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #4 - Rolling Mind First Release on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</link>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</guid>
+    <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/JcQVhtqG9vU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>After several months of bug fixing and figuring out how mobile publishing works, I’m thrilled to announce that Rolling Mind is now available on both the Google Play Store and Apple App Store! 🎉 (self-pat on the shoulder). It’s been a long journey — about 2 years of on-and-off development — which took longer than I expected due to the steep learning curve.</p>]]></description>
+</item><item>
     <title>Devlog #3 - Adding practise stage to the game</title>
     <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</link>
     <pubDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</pubDate><author>
