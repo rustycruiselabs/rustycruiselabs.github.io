@@ -14,5 +14,12 @@
       <guid>https://rustycruiselabs.github.io/home/about/</guid>
       <description>&lt;h1 id=&#34;hello-gamer&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#hello-gamer&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Hello Gamer!&lt;/h1&gt;&lt;p&gt;Welcome to RustyCruise Labs~ This is our dedicated space to document our game development journey through devlogs, game prototypes and also to share the games we&amp;rsquo;ve crafted with passion.&lt;/p&gt;&#xA;&lt;p&gt;Ever since stumbling into my first GMTK game jam in 2023, which was a horribly failed attempt, I&amp;rsquo;ve been immersing myself in the exhilarating world of game development, absorbing lessons and evolving with each endeavor. Come along as we embark on this adventure together, delving into the captivating realm of game creation!&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Announcement</title>
+      <link>https://rustycruiselabs.github.io/home/announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/home/announcement/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;tw-inline&#34; loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/games/rolling-mind/images/feature_graphic.png   alt=&#34;Rolling Mind Cover&#34;  &gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;a-brain-teasing-3d-game-designed-to-stretch-your-spatial-awareness&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#a-brain-teasing-3d-game-designed-to-stretch-your-spatial-awareness&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!&lt;/h3&gt;&lt;p&gt;This is our very first completed game! It may not be perfect, but we poured our hearts into it and hope you enjoy playing Rolling Mind as much as we enjoyed creating it. You can find more details about the game &lt;a href=&#34;games/rolling-mind&#34; rel=&#34;&#34;&gt;here&lt;/a&gt;! Rolling Mind is now available on &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.rustycruiselabs.rollingmind&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Google Play&lt;/a&gt; and &lt;a href=&#34;https://apps.apple.com/us/app/rolling-mind/id6740234485&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;App Store&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

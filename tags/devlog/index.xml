@@ -16,24 +16,6 @@
 
 <p>After several months of bug fixing and figuring out how mobile publishing works, I’m thrilled to announce that Rolling Mind is now available on both the Google Play Store and Apple App Store! 🎉 (self-pat on the shoulder). It’s been a long journey — about 2 years of on-and-off development — which took longer than I expected due to the steep learning curve.</p>]]></description>
 </item><item>
-    <title>Devlog #9 - Building Games for Publishing to App/Play Store</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-02-01-unity-publish-to-mobile/</link>
-    <pubDate>Sat, 01 Feb 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-02-01-unity-publish-to-mobile/</guid>
-    <description><![CDATA[<h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><h2 id="issues" class="headerLink">
-    <a href="#issues" class="header-mark"></a>Issues</h2><p><a href="https://youtu.be/t6x2ueyW1P8?si=IDzhSySA2rIaukXw&amp;t=305" target="_blank" rel="noopener noreferrer">https://youtu.be/t6x2ueyW1P8?si=IDzhSySA2rIaukXw&t=305</a></p>]]></description>
-</item><item>
-    <title>Devlog #9 - Building Games for Publishing to App/Play Store</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-02-04-google-play-license-testing/</link>
-    <pubDate>Sat, 01 Feb 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-02-04-google-play-license-testing/</guid>
-    <description><![CDATA[<h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><h2 id="issues" class="headerLink">
-    <a href="#issues" class="header-mark"></a>Issues</h2>]]></description>
-</item><item>
     <title>Devlog #8 - Unity Advertisements</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2025-01-31-unity-advertisement/</link>
     <pubDate>Thu, 30 Jan 2025 00:00:00 &#43;0000</pubDate><author>
@@ -128,5 +110,51 @@
     <a href="#step-1-create-a-new-document" class="header-mark"></a>Step 1: Create a New Document</h3><figure><a class="lightgallery" href="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" title="" data-thumbnail="/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png" data-sub-html="<h2>Krita - New Document</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/images/create-new-document.png    height="284" width="565"></a><figcaption class="image-caption">Krita - New Document</figcaption>
     </figure>
 <p>Start by creating a new document (width = 1024px, height = 1024px, resolution = 75 pxi). After creating the document, ensure that you have 2 layers (1 black background layer and 1 paint layer) as shown in diagram below.</p>]]></description>
+</item><item>
+    <title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
+    <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
+<p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
+<h2 id="modeling" class="headerLink">
+    <a href="#modeling" class="header-mark"></a>Modeling</h2><p>In Modeling Window, create the smoke cloud with the following steps:</p>
+<ol>
+<li>use <strong>Shift A</strong> &ndash;&gt; create a Ico sphere &ndash;&gt; <strong>set the subdivisions to 1</strong></li>
+<li>Add a <strong>subdivision modifier</strong> to the Ico sphere to make it rounder</li>
+<li><strong>Shift + D</strong> to duplicate the ico sphere to create a cloud shape by moving the shapes around with <strong>G</strong></li>
+<li>Once you have the shape you want, select all the ico spheres, and <strong>Ctrl + J</strong> to join the mesh together
+<ul>
+<li>rename the object to <strong>SmokeSphere</strong></li>
+<li><em>Note: if you want to edit, go to Edit Mode, and with vertex select mode, click on a vertex and press <strong>L</strong> and then <strong>G</strong> to move the object, to adjust the shape to your liking</em></li>
+</ul>
+</li>
+<li>Add a <strong>remesh modifier</strong> to smooth the shape
+<ul>
+<li>Use <strong>Voxel</strong></li>
+<li>Voxel Size = <strong>0.2</strong></li>
+<li>Adaptivity = <strong>0</strong></li>
+</ul>
+</li>
+<li>Apply the modifiers in order &ndash;&gt; <strong>subdivision</strong> &ndash;&gt; <strong>remesh</strong> so that we can edit the UVs</li>
+<li>In Object mode, select the object and <strong>Ctrl + A</strong> to apply all the transform</li>
+</ol>
+<h2 id="uv-map" class="headerLink">
+    <a href="#uv-map" class="header-mark"></a>UV Map</h2><p>In UV Editing Window, create the uv map with the following steps:</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
+    <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GjcJzGrxTME&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Polyfable - Blender to Unity with Correct Axis | Tutorial</a></li>
+<li><a href="https://www.youtube.com/watch?v=vrN9duEoA6g&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Imphenzia - Rigify to Unity Tutorial - How to Export a Rigify Character and Import it into Unity</a></li>
+</ul>
+<h2 id="getting-started" class="headerLink">
+    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>Assuming that you have already rig and animated your character, follow the steps below to export your character as FBX.</p>]]></description>
 </item></channel>
 </rss>
