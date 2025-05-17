@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blob-Bridge-Devlogs - Tag - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</link>
+        <description>Blob-Bridge-Devlogs - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt="Game Jame Theme" height="650" width="1200"></p>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a late update about my game submission for Gamedev.js Game Jam 2025! Before we begin, the game is available on Itch.io, check it out! <strong>PS: Please remember to read the description for the controls!</strong></p>
+<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/3505859" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/blob-bridge">Blob Bridge by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="game-jam-theme---balance" class="headerLink">
+    <a href="#game-jam-theme---balance" class="header-mark"></a>Game Jam Theme - Balance</h2><p>This year&rsquo;s theme for the game jame was <strong>&ldquo;Balance&rdquo;</strong>. Generally, my purpose for joining game jam is to test some of gameplay mechanics ideas. This would give me a rough idea of whether it is worth continuing developing on the game. For this year&rsquo;s theme, some of the ideas I had were&hellip;</p>]]></description>
+</item></channel>
+</rss>

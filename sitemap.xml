@@ -2,15 +2,21 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://rustycruiselabs.github.io/games/blob-bridge/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/rolling-mind/</loc><lastmod>2024-08-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/spear-master/</loc><lastmod>2024-01-06T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/charms-and-guns/</loc><lastmod>2023-12-31T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/devlog/</loc><lastmod>2025-04-06T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/devlog/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/game/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/games/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/highlight/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/devlogs/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</loc><lastmod>2025-04-06T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/devlogs/</loc><lastmod>2025-04-06T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</loc><lastmod>2025-04-06T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/</loc><lastmod>2025-04-06T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/</loc><lastmod>2025-04-06T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</loc><lastmod>2025-01-18T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</loc><lastmod>2025-01-11T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/unity/</loc><lastmod>2025-01-11T00:00:00&#43;00:00</lastmod></url><url>
@@ -22,11 +28,8 @@
             <loc>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</loc><lastmod>2024-11-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/blender/</loc><lastmod>2024-10-31T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</loc><lastmod>2024-10-31T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/games/</loc><lastmod>2024-10-26T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</loc><lastmod>2024-10-19T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/cookies-notice/</loc><lastmod>2024-08-10T08:00:00&#43;08:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/game/</loc><lastmod>2024-08-10T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/highlight/</loc><lastmod>2024-08-10T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/policies-content/</loc><lastmod>2024-08-10T08:00:00&#43;08:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/privacy-policy/</loc><lastmod>2024-08-10T08:00:00&#43;08:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/terms-of-service/</loc><lastmod>2024-08-10T08:00:00&#43;08:00</lastmod></url><url>

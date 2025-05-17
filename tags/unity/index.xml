@@ -7,7 +7,7 @@
     <title>Devlog #7 - Safe Area for UI Canvas in Unity</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</link>
     <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" title="" data-thumbnail="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" data-sub-html="<h2>UI Elements are blocked by Front Camera</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png    height="335" width="1012"></a><figcaption class="image-caption">UI Elements are blocked by Front Camera</figcaption>
     </figure>
@@ -17,7 +17,7 @@
     <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>

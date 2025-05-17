@@ -7,7 +7,7 @@
     <title>Devlog #5 - How to create Ring Texture With Outer Glow using Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
     <description><![CDATA[<h2 id="getting-started" class="headerLink">
     <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>To create a ring with outer glow in Krita, these are the steps</p>
@@ -39,7 +39,7 @@
     <title>Devlog #3 - Creating Wrap Around Textures for VFX in Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
     <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</guid>
     <description><![CDATA[<h2 id="intro" class="headerLink">
     <a href="#intro" class="header-mark"></a>Intro</h2><p>Quick Refresher on how to create wrap around textures in Krita like the one below.</p>
@@ -52,7 +52,7 @@
     <title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</guid>
     <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
 <p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>

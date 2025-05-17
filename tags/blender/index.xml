@@ -7,7 +7,7 @@
     <title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</guid>
     <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
 <p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
@@ -39,7 +39,7 @@
     <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>

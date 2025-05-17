@@ -3,61 +3,68 @@
         <title>Tags - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/</link>
         <description>Tags - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Blob-Bridge-Devlogs</title>
+    <link>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Devlog</title>
     <link>https://rustycruiselabs.github.io/tags/devlog/</link>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/devlog/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Game</title>
+    <link>https://rustycruiselabs.github.io/tags/game/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/game/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Highlight</title>
+    <link>https://rustycruiselabs.github.io/tags/highlight/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/highlight/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Rolling-Mind-Devlogs</title>
     <link>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</link>
     <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Unity</title>
     <link>https://rustycruiselabs.github.io/tags/unity/</link>
     <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/unity/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Krita</title>
     <link>https://rustycruiselabs.github.io/tags/krita/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/krita/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Vfx</title>
     <link>https://rustycruiselabs.github.io/tags/vfx/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/vfx/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Blender</title>
     <link>https://rustycruiselabs.github.io/tags/blender/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/blender/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Game</title>
-    <link>https://rustycruiselabs.github.io/tags/game/</link>
-    <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/game/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Highlight</title>
-    <link>https://rustycruiselabs.github.io/tags/highlight/</link>
-    <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/highlight/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

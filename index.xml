@@ -3,13 +3,31 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt="Game Jame Theme" height="650" width="1200"></p>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a late update about my game submission for Gamedev.js Game Jam 2025! Before we begin, the game is available on Itch.io, check it out! <strong>PS: Please remember to read the description for the controls!</strong></p>
+<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/3505859" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/blob-bridge">Blob Bridge by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="game-jam-theme---balance" class="headerLink">
+    <a href="#game-jam-theme---balance" class="header-mark"></a>Game Jam Theme - Balance</h2><p>This year&rsquo;s theme for the game jame was <strong>&ldquo;Balance&rdquo;</strong>. Generally, my purpose for joining game jam is to test some of gameplay mechanics ideas. This would give me a rough idea of whether it is worth continuing developing on the game. For this year&rsquo;s theme, some of the ideas I had were&hellip;</p>]]></description>
+</item><item>
     <title>Devlog #4 - Rolling Mind First Release on Mobile Platforms</title>
     <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</link>
     <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</guid>
     <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/JcQVhtqG9vU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
@@ -21,7 +39,7 @@
     <title>Devlog #3 - Adding practise stage to the game</title>
     <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</link>
     <pubDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</guid>
     <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/LRt-hvwJE-k?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
@@ -33,7 +51,7 @@
     <title>Devlog #7 - Safe Area for UI Canvas in Unity</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</link>
     <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</guid>
     <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" title="" data-thumbnail="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" data-sub-html="<h2>UI Elements are blocked by Front Camera</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png    height="335" width="1012"></a><figcaption class="image-caption">UI Elements are blocked by Front Camera</figcaption>
     </figure>
@@ -43,7 +61,7 @@
     <title>Devlog #6 - Creating Splash Screen</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</link>
     <pubDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>I am almost done with development for Rolling Mind and it&rsquo;s time to create a Splash Screen for my game&rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&hellip;?</p>]]></description>
@@ -51,7 +69,7 @@
     <title>Devlog #5 - How to create Ring Texture With Outer Glow using Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
     <description><![CDATA[<h2 id="getting-started" class="headerLink">
     <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>To create a ring with outer glow in Krita, these are the steps</p>
@@ -83,7 +101,7 @@
     <title>Devlog #4 - Buying Bunch of Assets</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-25-buying-unity-assets/</link>
     <pubDate>Mon, 25 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-25-buying-unity-assets/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>It&rsquo;s Black Friday! and there was lots of sales going on the Unity Asset store. There were flash deals where assets were sold at a discounted price of 70% and many of the highly recommended assets were 50% off. I was weighing between the price of the assets &amp; the time saving I would have when developing games, and decided to splurge abit this round.</p>
@@ -92,7 +110,7 @@
     <title>Devlog #3 - Creating Wrap Around Textures for VFX in Krita</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</link>
     <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-10-krita-creating-wrap-around-textures-for-vfx/</guid>
     <description><![CDATA[<h2 id="intro" class="headerLink">
     <a href="#intro" class="header-mark"></a>Intro</h2><p>Quick Refresher on how to create wrap around textures in Krita like the one below.</p>
@@ -105,7 +123,7 @@
     <title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</link>
     <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/</guid>
     <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/images/smokecloud.png   alt="Smoke Cloud" height="420" width="667"></p>
 <p>Note: This is written with the assumption that you are somewhat familiar with Blender</p>
@@ -137,7 +155,7 @@
     <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
     <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>
@@ -147,15 +165,5 @@
 </ul>
 <h2 id="getting-started" class="headerLink">
     <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>Assuming that you have already rig and animated your character, follow the steps below to export your character as FBX.</p>]]></description>
-</item><item>
-    <title>Devlog #2 - Restarting Development Work</title>
-    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/</link>
-    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/</guid>
-    <description><![CDATA[<h2 id="development-updates" class="headerLink">
-    <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
-    </figure>
-<p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</p>]]></description>
 </item></channel>
 </rss>

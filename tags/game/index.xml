@@ -3,11 +3,22 @@
         <title>Game - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/game/</link>
         <description>Game - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/game/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/game/" rel="self" type="application/rss+xml" /><item>
+    <title>Blob Bridge</title>
+    <link>https://rustycruiselabs.github.io/games/blob-bridge/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/games/blob-bridge/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/blobbridge.png" referrerpolicy="no-referrer">
+            </div><h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Blob Bridge was my submission for the <strong>Gamedev.js Game Jam 2025</strong>. It started as a small, relaxed project—a break from more intense development work. Out of 416 entries, the game ranked <strong>158th</strong>, earning a <strong>3.4/5</strong> rating for gameplay, which I&rsquo;m quite happy with, especially since gameplay was always my main priority.</p>
+<p>That said, due to time constraints, the gameplay wasn’t fully realized during the jam. I’m now planning to release a <strong>complete mobile version</strong> of Blob Bridge to fully bring the idea to life—stay tuned!</p>]]></description>
+</item><item>
     <title>Rolling Mind</title>
     <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
     <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
@@ -19,7 +30,7 @@
     <title>Spear Master</title>
     <link>https://rustycruiselabs.github.io/games/spear-master/</link>
     <pubDate>Sat, 06 Jan 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/games/spear-master/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/spearmaster.png" referrerpolicy="no-referrer">
@@ -37,12 +48,21 @@
     <title>Charms and Guns</title>
     <link>https://rustycruiselabs.github.io/games/charms-and-guns/</link>
     <pubDate>Sun, 31 Dec 2023 00:00:00 &#43;0000</pubDate><author>
-        <name>Author</name>
+        <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/games/charms-and-guns/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/charmsandguns.png" referrerpolicy="no-referrer">
             </div><h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Charms and Guns&rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.</p>
+<h2 id="game-preview" class="headerLink">
+    <a href="#game-preview" class="header-mark"></a>Game Preview</h2>
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Gg11JSlcZ0E?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
 <h2 id="try-it-out-here" class="headerLink">
     <a href="#try-it-out-here" class="header-mark"></a>Try it out here!</h2><div><iframe 
         frameborder="0" 
