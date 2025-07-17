@@ -3,7 +3,16 @@
         <title>Blob-Bridge-Devlogs - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</link>
         <description>Blob-Bridge-Devlogs - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #2 - Blob Bridge Available on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</link>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>After <strong>two months</strong> of radio silence — and countless hours spent turning a game jam idea into reality — I’m excited to announce that Blob Bridge is now live on the <a href="https://play.google.com/store/apps/details?id=com.rustycruiselabs.blobbridge" target="_blank" rel="noopener noreferrer">Google Play Store</a> and <a href="https://apps.apple.com/us/app/blob-bridge/id6748570064" target="_blank" rel="noopener noreferrer">Apple App Store</a>!</p>
+<p>I definitely had more ideas and features I wanted to add — but those will have to wait for future updates. After all, it’s important to make sure the core concept works before diving in too deep!</p>]]></description>
+</item><item>
     <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
     <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
     <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>

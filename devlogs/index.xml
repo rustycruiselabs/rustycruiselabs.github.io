@@ -6,8 +6,15 @@
     <description>Recent content in Latest Devlogs on RustyCruise Labs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustycruiselabs.github.io/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog #2 - Blob Bridge Available on Mobile Platforms</title>
+      <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;After &lt;strong&gt;two months&lt;/strong&gt; of radio silence — and countless hours spent turning a game jam idea into reality — I’m excited to announce that Blob Bridge is now live on the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.rustycruiselabs.blobbridge&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Google Play Store&lt;/a&gt; and &lt;a href=&#34;https://apps.apple.com/us/app/blob-bridge/id6748570064&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Apple App Store&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;I definitely had more ideas and features I wanted to add — but those will have to wait for future updates. After all, it’s important to make sure the core concept works before diving in too deep!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
       <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>

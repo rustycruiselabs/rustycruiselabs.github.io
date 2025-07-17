@@ -11,9 +11,11 @@
     </author><guid>https://rustycruiselabs.github.io/games/blob-bridge/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/blobbridge.png" referrerpolicy="no-referrer">
-            </div><h2 id="overview" class="headerLink">
+            </div><figure><a class="lightgallery" href="/games/blob-bridge/images/feature_graphic.png" title="" data-thumbnail="/games/blob-bridge/images/feature_graphic.png" data-sub-html="<h2>A Hyper Casual Color-Matching Game You’ll Love!</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/games/blob-bridge/images/feature_graphic.png    height="500" width="1024"></a><figcaption class="image-caption">A Hyper Casual Color-Matching Game You’ll Love!</figcaption>
+    </figure>
+<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Blob Bridge was my submission for the <strong>Gamedev.js Game Jam 2025</strong>. It started as a small, relaxed project—a break from more intense development work. Out of 416 entries, the game ranked <strong>158th</strong>, earning a <strong>3.4/5</strong> rating for gameplay, which I&rsquo;m quite happy with, especially since gameplay was always my main priority.</p>
-<p>That said, due to time constraints, the gameplay wasn’t fully realized during the jam. I’m now planning to release a <strong>complete mobile version</strong> of Blob Bridge to fully bring the idea to life—stay tuned!</p>]]></description>
+<p>That said, due to time constraints, the gameplay wasn’t fully realized during the jam. After 2 months of iterative development, the <strong>full mobile version</strong> of Blob Bridge is now available on the <strong>Google Play Store</strong> and <strong>Apple App Store</strong>, bringing the original concept to life!</p>]]></description>
 </item><item>
     <title>Rolling Mind</title>
     <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
@@ -23,7 +25,7 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
             </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/games/rolling-mind/images/feature_graphic.png" title="" data-thumbnail="/games/rolling-mind/images/feature_graphic.png" data-sub-html="<h2>Created by Author</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/games/rolling-mind/images/feature_graphic.png    height="500" width="1024"></a><figcaption class="image-caption">Created by Author</figcaption>
+    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/games/rolling-mind/images/feature_graphic.png" title="" data-thumbnail="/games/rolling-mind/images/feature_graphic.png" data-sub-html="<h2>A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/games/rolling-mind/images/feature_graphic.png    height="500" width="1024"></a><figcaption class="image-caption">A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!</figcaption>
     </figure>
 <p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
 </item><item>

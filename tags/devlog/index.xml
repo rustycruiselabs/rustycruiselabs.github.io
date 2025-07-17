@@ -3,7 +3,16 @@
         <title>Devlog - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/devlog/</link>
         <description>Devlog - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/devlog/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/devlog/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #2 - Blob Bridge Available on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</link>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>After <strong>two months</strong> of radio silence — and countless hours spent turning a game jam idea into reality — I’m excited to announce that Blob Bridge is now live on the <a href="https://play.google.com/store/apps/details?id=com.rustycruiselabs.blobbridge" target="_blank" rel="noopener noreferrer">Google Play Store</a> and <a href="https://apps.apple.com/us/app/blob-bridge/id6748570064" target="_blank" rel="noopener noreferrer">Apple App Store</a>!</p>
+<p>I definitely had more ideas and features I wanted to add — but those will have to wait for future updates. After all, it’s important to make sure the core concept works before diving in too deep!</p>]]></description>
+</item><item>
     <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
     <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
     <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
@@ -149,19 +158,5 @@
 </ol>
 <h2 id="uv-map" class="headerLink">
     <a href="#uv-map" class="header-mark"></a>UV Map</h2><p>In UV Editing Window, create the uv map with the following steps:</p>]]></description>
-</item><item>
-    <title>Devlog #1 - Exporting FBX from Blender to Unity</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</link>
-    <pubDate>Sat, 19 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-10-19-blender-to-unity-settings/</guid>
-    <description><![CDATA[<h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a quick guide on how to export FBX from Blender to Unity. You can also refer to these videos that I referenced.</p>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=GjcJzGrxTME&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Polyfable - Blender to Unity with Correct Axis | Tutorial</a></li>
-<li><a href="https://www.youtube.com/watch?v=vrN9duEoA6g&amp;list=PLXDXMAbuMcuVQ8IdhxhT0O0T8mALVD25R" target="_blank" rel="noopener noreferrer">Imphenzia - Rigify to Unity Tutorial - How to Export a Rigify Character and Import it into Unity</a></li>
-</ul>
-<h2 id="getting-started" class="headerLink">
-    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>Assuming that you have already rig and animated your character, follow the steps below to export your character as FBX.</p>]]></description>
 </item></channel>
 </rss>
