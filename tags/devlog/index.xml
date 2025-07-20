@@ -60,8 +60,10 @@
     <pubDate>Tue, 13 May 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-05-13-unity-screenshot-tool/</guid>
-    <description><![CDATA[<h2 id="screenshot-tool" class="headerLink">
-    <a href="#screenshot-tool" class="header-mark"></a>Screenshot Tool</h2><p>Here&rsquo;s a simple script you can add to your Unity projects to take screenshots.</p>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/generic/2025-05-13-unity-screenshot-tool/images/screenshot.png" title="" data-thumbnail="/devlogs/generic/2025-05-13-unity-screenshot-tool/images/screenshot.png" data-sub-html="<h2>Screenshot Tool Window</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2025-05-13-unity-screenshot-tool/images/screenshot.png    height="237" width="827"></a><figcaption class="image-caption">Screenshot Tool Window</figcaption>
+    </figure>
+<h2 id="implementation" class="headerLink">
+    <a href="#implementation" class="header-mark"></a>Implementation</h2><p>Here&rsquo;s a simple script you can add to your Unity projects to take screenshots.</p>
 <ol>
 <li>
 <p>Create a <code>C#</code> file <code>Assets/Editor/CaptureScreenshotWindow.cs</code> and paste the following code:</p>
