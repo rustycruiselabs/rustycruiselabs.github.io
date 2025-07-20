@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Publishing - Tag - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/tags/publishing/</link>
+        <description>Publishing - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/publishing/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #10 - Adding App Previews for App Store Product Page</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-07-20-creating-app-video-previews-ios/</link>
+    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-07-20-creating-app-video-previews-ios/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><blockquote>
+  <p>Note: This is my personal reference for setting up the product page on the Apple App Store.</p>
+
+</blockquote><p>You don’t need to create a new app version just to update your screenshots — doing so would require a new build number. Instead, Apple provides Custom Product Pages, which let you customize your product page without submitting a new build.</p>
+<h2 id="creating-screenshots--app-previews" class="headerLink">
+    <a href="#creating-screenshots--app-previews" class="header-mark"></a>Creating Screenshots / App Previews</h2><p>The App Store is quite strict about screenshot and video dimensions. Here are some ways to generate them correctly:</p>]]></description>
+</item></channel>
+</rss>

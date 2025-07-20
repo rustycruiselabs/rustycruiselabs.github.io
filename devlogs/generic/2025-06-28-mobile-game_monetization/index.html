@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noodp" /><title>Devlog #9 - Mobile Game Monetization - RustyCruise Labs</title><meta name="Description" content="This devlog provides a brief look at how we incorporated ads into our games."><meta property="og:url" content="https://rustycruiselabs.github.io/devlogs/generic/2025-06-28-mobile-game_monetization/">
+  <meta property="og:site_name" content="RustyCruise Labs">
+  <meta property="og:title" content="Devlog #9 - Mobile Game Monetization">
+  <meta property="og:description" content="This devlog provides a brief look at how we incorporated ads into our games.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="devlogs">
+    <meta property="article:published_time" content="2025-06-28T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-06-28T00:00:00+00:00">
+    <meta property="article:tag" content="Devlog">
+    <meta property="article:tag" content="Unity">
+    <meta property="article:tag" content="Monetization">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Devlog #9 - Mobile Game Monetization">
+  <meta name="twitter:description" content="This devlog provides a brief look at how we incorporated ads into our games.">
+      <meta name="twitter:site" content="@rustycruiselabs">
+<meta name="application-name" content="RustyCruise Labs">
+<meta name="apple-mobile-web-app-title" content="RustyCruise Labs">
+
+<meta name="theme-color" content="#f8f8f8"><meta name="twitter:creator" content="@rustycruiselabs" /><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+<link rel="canonical" href="https://rustycruiselabs.github.io/devlogs/generic/2025-06-28-mobile-game_monetization/" /><link rel="prev" href="https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/" /><link rel="next" href="https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/" />
+<link rel="stylesheet" href="/css/main.min.css"><link rel="stylesheet" href="/css/style.min.css"><script type="application/ld+json">{"@context": "https://schema.org","@type": "BlogPosting",
+        "headline": "Devlog #9 - Mobile Game Monetization",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://rustycruiselabs.github.io/devlogs/generic/2025-06-28-mobile-game_monetization/"
+        },"image": [{
+                            "@type": "ImageObject",
+                            "url": "https://rustycruiselabs.github.io/img/logo.png",
+                            "width":  375 ,
+                            "height":  375 
+                        }],"genre": "devlogs","keywords":["devlog","unity","monetization"],"wordcount":  542 ,
+        "url": "https://rustycruiselabs.github.io/devlogs/generic/2025-06-28-mobile-game_monetization/","datePublished": "2025-06-28T00:00:00+00:00","dateModified": "2025-06-28T00:00:00+00:00","publisher": {
+            "@type": "Organization",
+            "name": "RustyCruise Labs"},"author": {
+                "@type": "Person",
+                "name": "RustyCruise Labs",
+                "url": "/"
+            },"description": "This devlog provides a brief look at how we incorporated ads into our games."
+    }</script></head>
+
+
+<body data-instant-intensity="viewport" ><script type="text/javascript">
+        function setTheme(theme) {
+          document.body.setAttribute('theme', theme); 
+          document.documentElement.className = theme;
+          document.documentElement.style.setProperty('color-scheme', theme === 'light' ? 'light' : 'dark');
+          if (theme === 'light') {
+            document.documentElement.classList.remove('tw-dark')
+          } else {
+            document.documentElement.classList.add('tw-dark')
+          }
+          window.theme = theme;   
+          window.isDark = window.theme !== 'light' 
+        }
+        function saveTheme(theme) {window.localStorage && localStorage.setItem('theme', theme);}
+        function getMeta(metaName) {const metas = document.getElementsByTagName('meta'); for (let i = 0; i < metas.length; i++) if (metas[i].getAttribute('name') === metaName) return metas[i]; return '';}
+        if (window.localStorage && localStorage.getItem('theme')) {
+            let theme = localStorage.getItem('theme');
+            if (theme === 'light' || theme === 'dark') {
+            setTheme(theme);
+            } else {
+                if ((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+                    setTheme('dark');
+                } else {
+                    setTheme('light');
+                }
+            }
+         } else { 
+            if ('auto' === 'light' || 'auto' === 'dark') 
+                setTheme('auto'), saveTheme('auto'); 
+            else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');
+        }
+        let metaColors = {'light': '#f8f8f8','dark': '#161b22'}
+        getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
+        window.switchThemeEventSet = new Set()
+    </script>
+    <div id="back-to-top"></div>
+    <div id="mask"></div><div class="wrapper"><header class="desktop print:!tw-hidden" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="RustyCruise Labs"><img class="tw-inline tw-align-text-bottom tw-mr-1"  src=/img/headericon.png    height="32" width="32">RustyCruise Labs</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item"
+                    href="/games" > Games </a><a class="menu-item"
+                    href="/devlogs" > News/Devlogs </a><a class="menu-item"
+                    href="/policies" > Privacy &amp; Terms </a><a class="menu-item"
+                    href="/contact" > Contact </a><span class="menu-item delimiter"></span><button class="menu-item theme-switch" aria-label="Switch Theme">
+                    <svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
+                </button></div>
+        </div>
+    </div>
+</header><header class="mobile print:!tw-hidden" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="RustyCruise Labs"><img class="tw-inline tw-align-text-bottom tw-mr-1"  src=/img/headericon.png    height="32" width="32">RustyCruise Labs</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/devlogs" title="" >News/Devlogs</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
+                <svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
+            </button></div>
+    </div>
+</header>
+<div class="search-dropdown desktop">
+    <div id="search-dropdown-desktop"></div>
+</div>
+<div class="search-dropdown mobile">
+    <div id="search-dropdown-mobile"></div>
+</div><main class="main">
+            <div class="container"><div class="page single special print:!tw-w-full print:!tw-max-w-none print:!tw-m-0 print:!tw-p-0"><h1 class="single-title">Devlog #9 - Mobile Game Monetization</h1><h2 class="single-subtitle">Monetizing Our Games Through Ads</h2><div class="content" id="content"><figure><a class="lightgallery" href="/devlogs/generic/2025-06-28-mobile-game_monetization/images/header.png" title="" data-thumbnail="/devlogs/generic/2025-06-28-mobile-game_monetization/images/header.png" data-sub-html="<h2>Generated by Chat GPT</h2>"><img  loading="lazy" src=/devlogs/generic/2025-06-28-mobile-game_monetization/images/header.png    height="768" width="1344"></a><figcaption class="image-caption">Generated by Chat GPT</figcaption>
+    </figure>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>As much as we love making games, we still need to sustain ourselves. That’s why monetization is a crucial part of our development process — it allows us to keep creating while making our games accessible to players.</p>
+<p>For mobile games, we’re currently experimenting with a <strong>freemium model</strong>, combining <strong>advertisements (Ads)</strong> and <strong>in-app purchases (IAPs)</strong> as our primary monetization strategies.</p>
+<p>In this devlog, we’ll take a look at the types of ads we’ve integrated into our games.</p>
+<h2 id="our-choice-for-ads" class="headerLink">
+    <a href="#our-choice-for-ads" class="header-mark"></a>Our Choice for Ads</h2><p>We’re not fans of invasive ads, so we set out to find a balanced approach — one that supports monetization without disrupting the player experience. After researching different ad formats, here’s what we decided:</p>
+<ol>
+<li>
+<p><strong>Banner Ads (✗ - Not Implemented)</strong> - We chose <strong>not</strong> to use banner ads because they take up valuable screen space and can ruin the visual aesthetics of a mobile game.</p>
+</li>
+<li>
+<p><strong>Rewarded Ads (✓ - Implemented)</strong> - Players appreciate having a <strong>choice</strong> rather than being forced to watch ads. Rewarded ads offer an optional way for players to earn in-game currency, making them our primary ad format.</p>
+</li>
+<li>
+<p><strong>Interstitial Ads (✓)</strong> - Inspired by <strong>Crossy Road</strong>, we decided to <strong>show interstitial ads after a set number of games or a certain amount of playtime</strong>. This keeps them non-intrusive while still supporting monetization. Additionally, we also <strong>offer an IAP to remove interstitial ads</strong> for players who prefer an uninterrupted experience.</p>
+<figure><a class="lightgallery" href="/devlogs/generic/2025-06-28-mobile-game_monetization/images/sponsor_crossy_road.jpg" title="" data-thumbnail="/devlogs/generic/2025-06-28-mobile-game_monetization/images/sponsor_crossy_road.jpg" data-sub-html="<h2>Screenshot from Crossy Road Game</h2>"><img  loading="lazy" src=/devlogs/generic/2025-06-28-mobile-game_monetization/images/sponsor_crossy_road.jpg    height="360" width="480"></a><figcaption class="image-caption">Screenshot from Crossy Road Game</figcaption>
+        </figure>
+</li>
+</ol>
+<p>In short, we’re using <strong>rewarded ads</strong> and <strong>interstitial ads</strong> as our main ad formats — aiming for a healthy balance between monetization and player enjoyment.</p>
+<hr>
+<h2 id="our-implementation" class="headerLink">
+    <a href="#our-implementation" class="header-mark"></a>Our Implementation</h2><p>Below are some of the key ways we incorporated advertisements in our mobile games&hellip;</p>
+<h3 id="1-sponsor-ads-interstitial" class="headerLink">
+    <a href="#1-sponsor-ads-interstitial" class="header-mark"></a>1. Sponsor Ads (Interstitial)</h3><p>As mentioned above, we took inspiration from Crossy Road and chose to show an interstitial ad <strong>after every X games played</strong> or <strong>after X minutes of playtime</strong> — whichever comes first. Here’s how we applied it in our game:</p>
+<figure><a class="lightgallery" href="/devlogs/generic/2025-06-28-mobile-game_monetization/images/sponsor_rusty.png" title="" data-thumbnail="/devlogs/generic/2025-06-28-mobile-game_monetization/images/sponsor_rusty.png" data-sub-html="<h2>our version of sponsor ads</h2>"><img  loading="lazy" src=/devlogs/generic/2025-06-28-mobile-game_monetization/images/sponsor_rusty.png    height="437" width="432"></a><figcaption class="image-caption">our version of sponsor ads</figcaption>
+    </figure>
+<h3 id="2-daily-rewards-rewarded" class="headerLink">
+    <a href="#2-daily-rewards-rewarded" class="header-mark"></a>2. Daily Rewards (Rewarded)</h3><p>For players who don’t wish to spend money on the game, daily rewards offer an easy way to earn in-game items and keep the game playable. To make this even more rewarding, we allow players to watch a rewarded ad to double their daily reward — completely optional, of course.</p>
+<figure><a class="lightgallery" href="/devlogs/generic/2025-06-28-mobile-game_monetization/images/daily_rewards.gif" title="" data-thumbnail="/devlogs/generic/2025-06-28-mobile-game_monetization/images/daily_rewards.gif" data-sub-html="<h2>free daily rewards</h2>"><img  loading="lazy" src=/devlogs/generic/2025-06-28-mobile-game_monetization/images/daily_rewards.gif    height="360" width="360"></a><figcaption class="image-caption">free daily rewards</figcaption>
+    </figure>
+<h3 id="3-daily-ads-rewards-rewarded" class="headerLink">
+    <a href="#3-daily-ads-rewards-rewarded" class="header-mark"></a>3. Daily Ads Rewards (Rewarded)</h3><p>This works similarly to daily rewards, except that players must watch an ad to claim the reward. The key difference is that the reward is always tied to watching an advertisement — making it a simple way to offer small bonuses while supporting monetization.</p>
+<figure><a class="lightgallery" href="/devlogs/generic/2025-06-28-mobile-game_monetization/images/daily_rewards_ads.png" title="" data-thumbnail="/devlogs/generic/2025-06-28-mobile-game_monetization/images/daily_rewards_ads.png" data-sub-html="<h2>watch ads for daily rewards</h2>"><img  loading="lazy" src=/devlogs/generic/2025-06-28-mobile-game_monetization/images/daily_rewards_ads.png    height="271" width="432"></a><figcaption class="image-caption">watch ads for daily rewards</figcaption>
+    </figure>
+<h3 id="4-double-rewards-rewarded" class="headerLink">
+    <a href="#4-double-rewards-rewarded" class="header-mark"></a>4. Double Rewards (Rewarded)</h3><p>Lastly, after each game, players can choose to watch a rewarded ad and double their hard-earned rewards!</p>
+<figure><a class="lightgallery" href="/devlogs/generic/2025-06-28-mobile-game_monetization/images/end_game_rewards.png" title="" data-thumbnail="/devlogs/generic/2025-06-28-mobile-game_monetization/images/end_game_rewards.png" data-sub-html="<h2>watch ads to double rewards</h2>"><img  loading="lazy" src=/devlogs/generic/2025-06-28-mobile-game_monetization/images/end_game_rewards.png    height="520" width="432"></a><figcaption class="image-caption">watch ads to double rewards</figcaption>
+    </figure>
+<p>And that’s it! These are the four key ways we incorporated advertisements into our mobile game. These are models I personally like from games I’ve played, so I decided to include them in our build. Whether they’ll convert into revenue — well, that’s something I’m still testing. Hopefully, they will!</p>
+<hr>
+<h2 id="guides--references" class="headerLink">
+    <a href="#guides--references" class="header-mark"></a>Guides / References</h2><p>If you&rsquo;re new to ad implementation, I highly recommend checking out <strong><a href="https://www.youtube.com/@iammirrrr" target="_blank" rel="noopener noreferrer">Mir</a></strong>’s tutorial — it’s a great starting point for learning how to integrate ads into a game.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/seTvVkaU2dk?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+</div></div></div>
+        </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">
+                    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.136.5">Hugo</a>&nbsp;|&nbsp;Theme - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.4.0">DoIt</a> & <a href='https://github.com/binokochumolvarghese/lightbi-hugo' target='_blank' rel='noopener noreferrer' title='Lightbi'>Lightbi</a>
+                </div><div class="footer-line"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 448c-110.532 0-200-89.451-200-200 0-110.531 89.451-200 200-200 110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200zm107.351-101.064c-9.614 9.712-45.53 41.396-104.065 41.396-82.43 0-140.484-61.425-140.484-141.567 0-79.152 60.275-139.401 139.762-139.401 55.531 0 88.738 26.62 97.593 34.779a11.965 11.965 0 0 1 1.936 15.322l-18.155 28.113c-3.841 5.95-11.966 7.282-17.499 2.921-8.595-6.776-31.814-22.538-61.708-22.538-48.303 0-77.916 35.33-77.916 80.082 0 41.589 26.888 83.692 78.277 83.692 32.657 0 56.843-19.039 65.726-27.225 5.27-4.857 13.596-4.039 17.82 1.738l19.865 27.17a11.947 11.947 0 0 1-1.152 15.518z"/></svg>2024 - 2025<span class="author">&nbsp;<a href="/" target="_blank" rel="noopener noreferrer">RustyCruise Labs</a></span></div><div class="footer-line">
+                    <span class="license">All rights reserved. All associated names, logos and designs are trademarks of RustyCruise Labs. All other trademarks are the property of their respective owners.</span>
+                </div><div class="footer-line"></div>
+            <div class="footer-line">
+            </div>
+        </div></footer></div>
+
+    <div id="fixed-buttons" class="print:!tw-hidden"><a href="#back-to-top" id="back-to-top-button" class="fixed-button tw-transition-opacity tw-opacity-0" title="Back to Top">
+            <svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg>
+        </a></div>
+<script>window.config={"comment":{}};</script><script
+    src="/js/theme.min.js"
+    
+      defer
+    
+  ></script><script type="text/javascript">
+            window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());
+            gtag('config', 'G-ZVD56LZ28K', { 'anonymize_ip': true });
+        </script><script
+    src="https://www.googletagmanager.com/gtag/js?id=G-ZVD56LZ28K"
+    async
+  ></script>
+    
+    <script type="speculationrules">
+        {
+          "prerender": [
+            {
+              "where": { "href_matches": "/*" },
+              "eagerness": "moderate"
+            }
+          ]
+        }
+    </script>
+      
+</body>
+
+</html>

@@ -3,7 +3,35 @@
         <title>Tags - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/</link>
         <description>Tags - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog</title>
+    <link>https://rustycruiselabs.github.io/tags/devlog/</link>
+    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/devlog/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Ios</title>
+    <link>https://rustycruiselabs.github.io/tags/ios/</link>
+    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/ios/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Publishing</title>
+    <link>https://rustycruiselabs.github.io/tags/publishing/</link>
+    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/publishing/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Unity</title>
+    <link>https://rustycruiselabs.github.io/tags/unity/</link>
+    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/unity/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Blob-Bridge-Devlogs</title>
     <link>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</link>
     <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
@@ -11,11 +39,11 @@
     </author><guid>https://rustycruiselabs.github.io/tags/blob-bridge-devlogs/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Devlog</title>
-    <link>https://rustycruiselabs.github.io/tags/devlog/</link>
-    <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+    <title>Monetization</title>
+    <link>https://rustycruiselabs.github.io/tags/monetization/</link>
+    <pubDate>Sat, 28 Jun 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/devlog/</guid>
+    </author><guid>https://rustycruiselabs.github.io/tags/monetization/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Game</title>
@@ -39,32 +67,11 @@
     </author><guid>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Unity</title>
-    <link>https://rustycruiselabs.github.io/tags/unity/</link>
-    <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/unity/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
     <title>Krita</title>
     <link>https://rustycruiselabs.github.io/tags/krita/</link>
     <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/krita/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Vfx</title>
-    <link>https://rustycruiselabs.github.io/tags/vfx/</link>
-    <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/vfx/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Blender</title>
-    <link>https://rustycruiselabs.github.io/tags/blender/</link>
-    <pubDate>Thu, 31 Oct 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/blender/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
