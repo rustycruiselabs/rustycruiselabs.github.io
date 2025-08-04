@@ -3,9 +3,19 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Devlog #11 - GMTK 25 (Loop)</title>
+    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-08-04-gmtk-25-devlog/</link>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-08-04-gmtk-25-devlog/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p><strong>This is my second attempt at GMTK game jam</strong>.</p>
+<p>The first game I ever made <a href="https://rustycruiselabs.itch.io/i-am-bullet-incomplete" target="_blank" rel="noopener noreferrer">&ldquo;I am Bullet&rdquo;</a> was also part of GMTK challenge.</p>
+<p>This time around, I managed to complete about 80% of what I originally envisioned — 4 days is still a short window, and there are definitely bugs and incomplete features in the submission. That said, it was a great learning experience! I’ve become more confident in development and picked up some new techniques, especially around working with 3D objects.</p>]]></description>
+</item><item>
     <title>Devlog #10 - Adding App Previews for App Store Product Page</title>
     <link>https://rustycruiselabs.github.io/devlogs/generic/2025-07-20-creating-app-video-previews-ios/</link>
     <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
@@ -136,37 +146,5 @@
     </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>I am almost done with development for Rolling Mind and it&rsquo;s time to create a Splash Screen for my game&rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&hellip;?</p>]]></description>
-</item><item>
-    <title>Devlog #5 - How to create Ring Texture With Outer Glow using Krita</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</link>
-    <pubDate>Sat, 30 Nov 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/</guid>
-    <description><![CDATA[<h2 id="getting-started" class="headerLink">
-    <a href="#getting-started" class="header-mark"></a>Getting Started</h2><p>To create a ring with outer glow in Krita, these are the steps</p>
-<h3 id="1-create-a-new-document" class="headerLink">
-    <a href="#1-create-a-new-document" class="header-mark"></a>1 Create a new document</h3><p>The document should have the following settings</p>
-<ul>
-<li>Width: 1024px</li>
-<li>Height: 1024px</li>
-<li>Resolution: 75pxi</li>
-<li>Background Canvas: Black</li>
-</ul>
-<h3 id="2-create-new-vector-layer" class="headerLink">
-    <a href="#2-create-new-vector-layer" class="header-mark"></a>2 Create New Vector Layer</h3><a class="lightgallery" href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png" title="" data-thumbnail="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/new_vector_layer.png    height="360" width="360"></a>
-<ul>
-<li>Under the layer settings, create a new vector layer</li>
-</ul>
-<h3 id="3-draw-a-circle-on-the-vector-layer" class="headerLink">
-    <a href="#3-draw-a-circle-on-the-vector-layer" class="header-mark"></a>3 Draw a Circle on the Vector Layer</h3><a class="lightgallery" href="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png" title="" data-thumbnail="/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2024-11-30-krita-creating-ring-with-outer-glow/images/draw_circle.png    height="485" width="577"></a>
-<ul>
-<li>Select the Ellipse Tool</li>
-<li>Select White Color</li>
-<li>Select Brush Size of 15px</li>
-<li>Draw the circle (click + Shift + click)</li>
-<li>Press <strong>Ctrl + T</strong> and click on the circle to move/resize it</li>
-</ul>
-<h3 id="4-center-the-circle" class="headerLink">
-    <a href="#4-center-the-circle" class="header-mark"></a>4 Center the Circle</h3><p>Start by creating the guides for the background canvas as shown below.</p>]]></description>
 </item></channel>
 </rss>

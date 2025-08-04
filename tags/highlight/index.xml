@@ -3,7 +3,7 @@
         <title>Highlight - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/highlight/</link>
         <description>Highlight - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/highlight/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/highlight/" rel="self" type="application/rss+xml" /><item>
     <title>Blob Bridge</title>
     <link>https://rustycruiselabs.github.io/games/blob-bridge/</link>
     <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
@@ -29,6 +29,20 @@
     </figure>
 <p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
 </item><item>
+    <title>Backfire</title>
+    <link>https://rustycruiselabs.github.io/games/backfire/</link>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/games/backfire/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/backfire_cover1_small.png" referrerpolicy="no-referrer">
+            </div><blockquote>
+  <p>&ldquo;Backfire&rdquo; was a submission for <a href="https://itch.io/jam/gmtk-2025" target="_blank" rel="noopener noreferrer">GMTK Game Jam 2025</a>.</p>
+
+</blockquote><h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p><strong>A chaotic arcade survival game where every shot might come back to haunt you.</strong></p>
+<p>Pilot a nimble tank across a wide-open battlefield. Your mission: stay tethered to the rune stone to charge it to full power. But there’s a twist — every projectile you fire will loop back as a ghost shot… and it’s just as dangerous to you as it is to your enemies.</p>]]></description>
+</item><item>
     <title>Charms and Guns</title>
     <link>https://rustycruiselabs.github.io/games/charms-and-guns/</link>
     <pubDate>Sun, 31 Dec 2023 00:00:00 &#43;0000</pubDate><author>
@@ -37,7 +51,7 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/charmsandguns.png" referrerpolicy="no-referrer">
             </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Charms and Guns&rdquo; was a submission for Wintermelon Game Jam 2023. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.</p>
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Charms and Guns&rdquo; was a submission for <a href="https://itch.io/jam/winter-melonjam-2023" target="_blank" rel="noopener noreferrer">Wintermelon Game Jam 2023</a>. It was an attempt after learning how to do basic hand drawn sprites and 2D animations. Overally, pretty satisfied with my submission.</p>
 <h2 id="game-preview" class="headerLink">
     <a href="#game-preview" class="header-mark"></a>Game Preview</h2>
 

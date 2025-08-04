@@ -6,8 +6,15 @@
     <description>Recent content in Latest Devlogs on RustyCruise Labs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustycruiselabs.github.io/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog #11 - GMTK 25 (Loop)</title>
+      <link>https://rustycruiselabs.github.io/devlogs/generic/2025-08-04-gmtk-25-devlog/</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/generic/2025-08-04-gmtk-25-devlog/</guid>
+      <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;This is my second attempt at GMTK game jam&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The first game I ever made &lt;a href=&#34;https://rustycruiselabs.itch.io/i-am-bullet-incomplete&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;&amp;ldquo;I am Bullet&amp;rdquo;&lt;/a&gt; was also part of GMTK challenge.&lt;/p&gt;&#xA;&lt;p&gt;This time around, I managed to complete about 80% of what I originally envisioned — 4 days is still a short window, and there are definitely bugs and incomplete features in the submission. That said, it was a great learning experience! I’ve become more confident in development and picked up some new techniques, especially around working with 3D objects.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Devlog #10 - Adding App Previews for App Store Product Page</title>
       <link>https://rustycruiselabs.github.io/devlogs/generic/2025-07-20-creating-app-video-previews-ios/</link>
