@@ -4,6 +4,13 @@
         <link>https://rustycruiselabs.github.io/tags/</link>
         <description>Tags - Tag - RustyCruise Labs</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Backfire-Devlogs</title>
+    <link>https://rustycruiselabs.github.io/tags/backfire-devlogs/</link>
+    <pubDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/backfire-devlogs/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Blender</title>
     <link>https://rustycruiselabs.github.io/tags/blender/</link>
     <pubDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</pubDate><author>
@@ -65,13 +72,6 @@
     <pubDate>Sat, 28 Jun 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/monetization/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Rolling-Mind-Devlogs</title>
-    <link>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</link>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/rolling-mind-devlogs/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
