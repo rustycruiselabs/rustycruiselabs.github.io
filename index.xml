@@ -3,15 +3,40 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Devlog #11 - GMTK 25 (Loop)</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-08-04-gmtk-25-devlog/</link>
+    <title>Devlog #2 - GMTK 25 (Loop) Results</title>
+    <link>https://rustycruiselabs.github.io/devlogs/backfire/2025-08-09-gmtk-25-results/</link>
+    <pubDate>Sat, 09 Aug 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/backfire/2025-08-09-gmtk-25-results/</guid>
+    <description><![CDATA[<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/3782600" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/backfire">Backfire by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="my-results" class="headerLink">
+    <a href="#my-results" class="header-mark"></a>My Results?</h2><figure><a class="lightgallery" href="/devlogs/backfire/2025-08-09-gmtk-25-results/images/results_screenshot.png" title="" data-thumbnail="/devlogs/backfire/2025-08-09-gmtk-25-results/images/results_screenshot.png" data-sub-html="<h2>Final Results for my submission</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/backfire/2025-08-09-gmtk-25-results/images/results_screenshot.png    height="674" width="1173"></a><figcaption class="image-caption">Final Results for my submission</figcaption>
+    </figure>
+<p>The results for my game jam submission were pretty average overall. Since my main focus has always been on making games that are fun to play, I never expected audio or artwork to be my strong suits — and I knew going in that those categories would likely score lower.</p>
+<p>Looking specifically at the <strong>Enjoyment</strong> category, my game ranked <strong>2992 out of 9651 entries</strong>. Not exactly a top-tier placement, but definitely far from the bottom.</p>]]></description>
+</item><item>
+    <title>Devlog #1 - GMTK 25 (Loop) Development Process</title>
+    <link>https://rustycruiselabs.github.io/devlogs/backfire/2025-08-04-gmtk-25-devlog/</link>
     <pubDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-08-04-gmtk-25-devlog/</guid>
-    <description><![CDATA[<h2 id="overview" class="headerLink">
+    </author><guid>https://rustycruiselabs.github.io/devlogs/backfire/2025-08-04-gmtk-25-devlog/</guid>
+    <description><![CDATA[<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/3782600" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/backfire">Backfire by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p><strong>This is my second attempt at GMTK game jam</strong>.</p>
 <p>The first game I ever made <a href="https://rustycruiselabs.itch.io/i-am-bullet-incomplete" target="_blank" rel="noopener noreferrer">&ldquo;I am Bullet&rdquo;</a> was also part of GMTK challenge.</p>
 <p>This time around, I managed to complete about 80% of what I originally envisioned — 4 days is still a short window, and there are definitely bugs and incomplete features in the submission. That said, it was a great learning experience! I’ve become more confident in development and picked up some new techniques, especially around working with 3D objects.</p>]]></description>
@@ -138,13 +163,5 @@
     </figure>
 <h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &ldquo;<strong>Safe Area</strong>&rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&rsquo;s a quick guide on how to implement the fix in Unity.</p>]]></description>
-</item><item>
-    <title>Devlog #6 - Creating Splash Screen</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</link>
-    <pubDate>Tue, 31 Dec 2024 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2024-12-31-splash-screen/</guid>
-    <description><![CDATA[<h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>I am almost done with development for Rolling Mind and it&rsquo;s time to create a Splash Screen for my game&rsquo;s branding! It is kind of unexpected that there are so many things that have to be done to polish a game before releasing. One of it is creating a splash screen. Personally, I think splash screen is an important part of our game, as it gives our game an identity, where players would want to come back to for more, hopefully&hellip;?</p>]]></description>
 </item></channel>
 </rss>
