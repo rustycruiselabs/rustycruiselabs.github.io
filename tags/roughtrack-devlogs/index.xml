@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Roughtrack-Devlogs - Tag - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/tags/roughtrack-devlogs/</link>
+        <description>Roughtrack-Devlogs - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/roughtrack-devlogs/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #1 - Rough Track&#39;s MVP Release</title>
+    <link>https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/</link>
+    <pubDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/images/feature_graphic.png" title="" data-thumbnail="/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/images/feature_graphic.png" data-sub-html="<h2>Now Next Later Roadmap for Small Teams</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Now Next Later Roadmap for Small Teams</figcaption>
+    </figure>
+<h2 id="announcements" class="headerLink">
+    <a href="#announcements" class="header-mark"></a>Announcements</h2><p>Took a short break from game development to work on something different — a simple SaaS product!</p>
+<p>I’m excited to share that <a href="https://roughtrack.app" target="_blank" rel="noopener noreferrer">Rough Track</a> is now live! 🎉</p>
+<p>Over the past two months, I’ve been prototyping a lightweight web app for creating <strong>Now–Next–Later roadmaps</strong> — a straightforward way to keep my team and stakeholders aligned.</p>]]></description>
+</item></channel>
+</rss>

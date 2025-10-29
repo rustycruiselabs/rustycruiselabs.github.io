@@ -3,9 +3,21 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Devlog #1 - Rough Track&#39;s MVP Release</title>
+    <link>https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/</link>
+    <pubDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/images/feature_graphic.png" title="" data-thumbnail="/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/images/feature_graphic.png" data-sub-html="<h2>Now Next Later Roadmap for Small Teams</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Now Next Later Roadmap for Small Teams</figcaption>
+    </figure>
+<h2 id="announcements" class="headerLink">
+    <a href="#announcements" class="header-mark"></a>Announcements</h2><p>Took a short break from game development to work on something different — a simple SaaS product!</p>
+<p>I’m excited to share that <a href="https://roughtrack.app" target="_blank" rel="noopener noreferrer">Rough Track</a> is now live! 🎉</p>
+<p>Over the past two months, I’ve been prototyping a lightweight web app for creating <strong>Now–Next–Later roadmaps</strong> — a straightforward way to keep my team and stakeholders aligned.</p>]]></description>
+</item><item>
     <title>Devlog #2 - GMTK 25 (Loop) Results</title>
     <link>https://rustycruiselabs.github.io/devlogs/backfire/2025-08-09-gmtk-25-results/</link>
     <pubDate>Sat, 09 Aug 2025 00:00:00 &#43;0000</pubDate><author>
@@ -153,15 +165,5 @@
     </div>
 
 <p>This is a debugging scene which I used for testing my game logics. After a series of refinement, it is now available in game for players to learn more about how the faces of the model will look like as it rotates. Pretty nice touch yeah?</p>]]></description>
-</item><item>
-    <title>Devlog #7 - Safe Area for UI Canvas in Unity</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</link>
-    <pubDate>Sat, 11 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" title="" data-thumbnail="/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png" data-sub-html="<h2>UI Elements are blocked by Front Camera</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2025-01-11-unity-safe-area/images/overview.png    height="335" width="1012"></a><figcaption class="image-caption">UI Elements are blocked by Front Camera</figcaption>
-    </figure>
-<h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>Some phone models have the front camera that cover the screen. And if we render our UI elements at the top of the screen. Sometimes, it will be blocked by the front camera. One of the terms I learnt today was &ldquo;<strong>Safe Area</strong>&rdquo;, which is a guaranteed area for the UI elements to display properly. Every device have its own safe area, so here&rsquo;s a quick guide on how to implement the fix in Unity.</p>]]></description>
 </item></channel>
 </rss>
