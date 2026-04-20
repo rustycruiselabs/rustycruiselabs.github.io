@@ -3,7 +3,24 @@
         <title>Devlog - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/devlog/</link>
         <description>Devlog - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/devlog/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/devlog/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #1 - Solo Development #10 Game Jam (Countdown) Results</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</link>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</guid>
+    <description><![CDATA[<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/4174052" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/blast-to-zero">Blast To Zero by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="my-results" class="headerLink">
+    <a href="#my-results" class="header-mark"></a>My Results?</h2><figure><a class="lightgallery" href="/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png" title="" data-thumbnail="/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png" data-sub-html="<h2>Final Results for my submission</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png    height="772" width="649"></a><figcaption class="image-caption">Final Results for my submission</figcaption>
+    </figure>
+<p>The results are out! Overall, my game ranked <strong>16 out of 103 entries</strong>. Out of all my game jams so far, it seems that I have better reviews in terms of game play, which makes me motivated to continue this game development. The gameplay score was around <strong>3.6</strong> which is probably due to the poor execution in <strong>game feel</strong>, especially in the <strong>lack of target indicators / mini map</strong> which led to players finding it hard to navigate the game.</p>]]></description>
+</item><item>
     <title>Devlog #1 - Rough Track&#39;s MVP Release</title>
     <link>https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/</link>
     <pubDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -65,10 +82,10 @@
     <a href="#creating-screenshots--app-previews" class="header-mark"></a>Creating Screenshots / App Previews</h2><p>The App Store is quite strict about screenshot and video dimensions. Here are some ways to generate them correctly:</p>]]></description>
 </item><item>
     <title>Devlog #2 - Blob Bridge Available on Mobile Platforms</title>
-    <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</link>
+    <link>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-07-17-blob-bridge-mobile-release/</link>
     <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
     <description><![CDATA[<h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>After <strong>two months</strong> of radio silence — and countless hours spent turning a game jam idea into reality — I’m excited to announce that Blob Bridge is now live on the <a href="https://play.google.com/store/apps/details?id=com.rustycruiselabs.blobbridge" target="_blank" rel="noopener noreferrer">Google Play Store</a> and <a href="https://apps.apple.com/us/app/blob-bridge/id6748570064" target="_blank" rel="noopener noreferrer">Apple App Store</a>!</p>
 <p>I definitely had more ideas and features I wanted to add — but those will have to wait for future updates. After all, it’s important to make sure the core concept works before diving in too deep!</p>]]></description>
@@ -85,11 +102,11 @@
 <p>For mobile games, we’re currently experimenting with a <strong>freemium model</strong>, combining <strong>advertisements (Ads)</strong> and <strong>in-app purchases (IAPs)</strong> as our primary monetization strategies.</p>]]></description>
 </item><item>
     <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
-    <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
+    <link>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
     <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
-    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt="Game Jame Theme" height="650" width="1200"></p>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt="Game Jame Theme" height="650" width="1200"></p>
 <h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a late update about my game submission for Gamedev.js Game Jam 2025! Before we begin, the game is available on Itch.io, check it out! <strong>PS: Please remember to read the description for the controls!</strong></p>
 <div><iframe 
@@ -151,17 +168,5 @@
     </div>
 
 <p>After several months of bug fixing and figuring out how mobile publishing works, I’m thrilled to announce that Rolling Mind is now available on both the Google Play Store and Apple App Store! 🎉 (self-pat on the shoulder). It’s been a long journey — about 2 years of on-and-off development — which took longer than I expected due to the steep learning curve.</p>]]></description>
-</item><item>
-    <title>Devlog #3 - Adding practise stage to the game</title>
-    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</link>
-    <pubDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</guid>
-    <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/LRt-hvwJE-k?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-<p>This is a debugging scene which I used for testing my game logics. After a series of refinement, it is now available in game for players to learn more about how the faces of the model will look like as it rotates. Pretty nice touch yeah?</p>]]></description>
 </item></channel>
 </rss>

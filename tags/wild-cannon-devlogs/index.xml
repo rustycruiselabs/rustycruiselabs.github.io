@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Wild-Cannon-Devlogs - Tag - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/tags/wild-cannon-devlogs/</link>
+        <description>Wild-Cannon-Devlogs - Tag - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/wild-cannon-devlogs/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #1 - Solo Development #10 Game Jam (Countdown) Results</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</link>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</guid>
+    <description><![CDATA[<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/4174052" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/blast-to-zero">Blast To Zero by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="my-results" class="headerLink">
+    <a href="#my-results" class="header-mark"></a>My Results?</h2><figure><a class="lightgallery" href="/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png" title="" data-thumbnail="/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png" data-sub-html="<h2>Final Results for my submission</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png    height="772" width="649"></a><figcaption class="image-caption">Final Results for my submission</figcaption>
+    </figure>
+<p>The results are out! Overall, my game ranked <strong>16 out of 103 entries</strong>. Out of all my game jams so far, it seems that I have better reviews in terms of game play, which makes me motivated to continue this game development. The gameplay score was around <strong>3.6</strong> which is probably due to the poor execution in <strong>game feel</strong>, especially in the <strong>lack of target indicators / mini map</strong> which led to players finding it hard to navigate the game.</p>]]></description>
+</item></channel>
+</rss>

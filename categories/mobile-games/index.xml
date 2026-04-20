@@ -1,0 +1,79 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mobile Games - Categories - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/categories/mobile-games/</link>
+        <description>Mobile Games - Categories - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/categories/mobile-games/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #2 - Blob Bridge Available on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-07-17-blob-bridge-mobile-release/</link>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>After <strong>two months</strong> of radio silence — and countless hours spent turning a game jam idea into reality — I’m excited to announce that Blob Bridge is now live on the <a href="https://play.google.com/store/apps/details?id=com.rustycruiselabs.blobbridge" target="_blank" rel="noopener noreferrer">Google Play Store</a> and <a href="https://apps.apple.com/us/app/blob-bridge/id6748570064" target="_blank" rel="noopener noreferrer">Apple App Store</a>!</p>
+<p>I definitely had more ideas and features I wanted to add — but those will have to wait for future updates. After all, it’s important to make sure the core concept works before diving in too deep!</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
+    <link>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
+    <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
+    <description><![CDATA[<p><img class="tw-inline" loading="lazy" src=https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt="Game Jame Theme" height="650" width="1200"></p>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Here&rsquo;s a late update about my game submission for Gamedev.js Game Jam 2025! Before we begin, the game is available on Itch.io, check it out! <strong>PS: Please remember to read the description for the controls!</strong></p>
+<div><iframe 
+        frameborder="0" 
+        src="https://itch.io/embed/3505859" 
+        width="552" 
+        height="167">
+            <a href="https://rustycruiselabs.itch.io/blob-bridge">Blob Bridge by RustyCruise Labs</a>
+        </iframe></div>
+<h2 id="game-jam-theme---balance" class="headerLink">
+    <a href="#game-jam-theme---balance" class="header-mark"></a>Game Jam Theme - Balance</h2><p>This year&rsquo;s theme for the game jame was <strong>&ldquo;Balance&rdquo;</strong>. Generally, my purpose for joining game jam is to test some of gameplay mechanics ideas. This would give me a rough idea of whether it is worth continuing developing on the game. For this year&rsquo;s theme, some of the ideas I had were&hellip;</p>]]></description>
+</item><item>
+    <title>Devlog #4 - Rolling Mind First Release on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</link>
+    <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</guid>
+    <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/JcQVhtqG9vU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>After several months of bug fixing and figuring out how mobile publishing works, I’m thrilled to announce that Rolling Mind is now available on both the Google Play Store and Apple App Store! 🎉 (self-pat on the shoulder). It’s been a long journey — about 2 years of on-and-off development — which took longer than I expected due to the steep learning curve.</p>]]></description>
+</item><item>
+    <title>Devlog #3 - Adding practise stage to the game</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</link>
+    <pubDate>Sat, 18 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-01-18-practise-stage/</guid>
+    <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/LRt-hvwJE-k?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+<p>This is a debugging scene which I used for testing my game logics. After a series of refinement, it is now available in game for players to learn more about how the faces of the model will look like as it rotates. Pretty nice touch yeah?</p>]]></description>
+</item><item>
+    <title>Devlog #2 - Restarting Development Work</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/</link>
+    <pubDate>Mon, 18 Mar 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/</guid>
+    <description><![CDATA[<h2 id="development-updates" class="headerLink">
+    <a href="#development-updates" class="header-mark"></a>Development Updates</h2><figure><a class="lightgallery" href="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png" data-sub-html="<h2>Rolling Mind Puzzle Game</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2024-03-18-start-of-rolling-mind/images/preview.png    height="250" width="315"></a><figcaption class="image-caption">Rolling Mind Puzzle Game</figcaption>
+    </figure>
+<p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. It was a game which I found on a game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept.</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Core Game Mechanics</title>
+    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/</link>
+    <pubDate>Wed, 30 Aug 2023 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/images/preview.png" title="" data-thumbnail="/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/images/preview.png" data-sub-html="<h2>Rolling Mind Game Preview</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/rolling-mind/2023-08-30-rolling-mind-mechanics/images/preview.png    height="398" width="435"></a><figcaption class="image-caption">Rolling Mind Game Preview</figcaption>
+    </figure>
+<h2 id="whats-the-game-about" class="headerLink">
+    <a href="#whats-the-game-about" class="header-mark"></a>What’s the Game About</h2><p>“Rolling Mind” is a puzzle genre mobile game that challenges your mental rotation ability. According to the National Institutes of Health, mental rotation is one aspect of spatial thinking that describes the ability to imagine an object turned around in the mind.</p>
+<p>So here’s a little story about my inspiration. I got this idea from a brain game show a couple of years back and was amazed at how challenging it could be with just a maze and a color cube. Human brains can be really powerful if we train ourselves for it. Hence, I thought it would be fun to develop a game around this concept and that’s how mental rotation became the core concept of this game!</p>]]></description>
+</item></channel>
+</rss>

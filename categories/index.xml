@@ -1,0 +1,42 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Categories - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/categories/</link>
+        <description>Categories - Categories - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Game Jam</title>
+    <link>https://rustycruiselabs.github.io/categories/game-jam/</link>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/categories/game-jam/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Games</title>
+    <link>https://rustycruiselabs.github.io/categories/games/</link>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/categories/games/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Web Apps</title>
+    <link>https://rustycruiselabs.github.io/categories/web-apps/</link>
+    <pubDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/categories/web-apps/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Development</title>
+    <link>https://rustycruiselabs.github.io/categories/development/</link>
+    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/categories/development/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Mobile Games</title>
+    <link>https://rustycruiselabs.github.io/categories/mobile-games/</link>
+    <pubDate>Thu, 17 Jul 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/categories/mobile-games/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

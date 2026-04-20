@@ -3,7 +3,19 @@
         <title>App - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/app/</link>
         <description>App - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/app/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/app/" rel="self" type="application/rss+xml" /><item>
+    <title>Renji</title>
+    <link>https://rustycruiselabs.github.io/apps/renji/</link>
+    <pubDate>Mon, 20 Apr 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/apps/renji/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/renji.png" referrerpolicy="no-referrer">
+            </div><figure><a class="lightgallery" href="/apps/renji/images/feature_graphic.png" title="" data-thumbnail="/apps/renji/images/feature_graphic.png" data-sub-html="<h2>Personal journal for recording all your interactions with people</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/apps/renji/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Personal journal for recording all your interactions with people</figcaption>
+    </figure>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Renji is a personal relationship journal that helps you remember the people you have interacted with. Whether they are clients at work, colleagues, friends, or important connections, Renji lets you capture notes, events, and to-dos for each person, with timely reminders to help you stay on top of follow-ups, even when life gets busy.</p>]]></description>
+</item><item>
     <title>Rough Track</title>
     <link>https://rustycruiselabs.github.io/apps/roughtrack/</link>
     <pubDate>Wed, 29 Oct 2025 00:00:00 &#43;0000</pubDate><author>
@@ -14,7 +26,7 @@
             </div><figure><a class="lightgallery" href="/apps/roughtrack/images/feature_graphic.png" title="" data-thumbnail="/apps/roughtrack/images/feature_graphic.png" data-sub-html="<h2>Now Next Later Roadmap for Small Teams</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/apps/roughtrack/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Now Next Later Roadmap for Small Teams</figcaption>
     </figure>
 <h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><p>RoughTrack is a lightweight, opinionated tool designed to help teams plan and communicate priorities through simple Now-Next-Later roadmaps. It focuses on clarity over complexity — allowing teams to capture what matters most, stay aligned, and share progress effortlessly.</p>
-<p>It’s not built to be the next Jira or Linear — RoughTrack is a simplified tool for small teams and individuals who just want a straightforward way to prioritize tasks and communicate what’s coming next.</p>]]></description>
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>RoughTrack is a lightweight, opinionated tool designed to help teams plan and communicate priorities through simple Now-Next-Later roadmaps. It focuses on clarity over complexity, allowing teams to capture what matters most, stay aligned, and share progress effortlessly.</p>
+<p>It&rsquo;s not built to be the next Jira or Linear. RoughTrack is a simplified tool for small teams and individuals who just want a straightforward way to prioritize tasks and communicate what’s coming next.</p>]]></description>
 </item></channel>
 </rss>

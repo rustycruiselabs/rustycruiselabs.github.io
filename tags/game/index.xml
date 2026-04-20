@@ -3,7 +3,7 @@
         <title>Game - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/game/</link>
         <description>Game - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 04 Aug 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/game/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/game/" rel="self" type="application/rss+xml" /><item>
     <title>Blob Bridge</title>
     <link>https://rustycruiselabs.github.io/games/blob-bridge/</link>
     <pubDate>Sat, 17 May 2025 00:00:00 &#43;0000</pubDate><author>
@@ -17,17 +17,16 @@
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Blob Bridge was my submission for the <strong>Gamedev.js Game Jam 2025</strong>. It started as a small, relaxed project—a break from more intense development work. Out of 416 entries, the game ranked <strong>158th</strong>, earning a <strong>3.4/5</strong> rating for gameplay, which I&rsquo;m quite happy with, especially since gameplay was always my main priority.</p>
 <p>That said, due to time constraints, the gameplay wasn’t fully realized during the jam. After 2 months of iterative development, the <strong>full mobile version</strong> of Blob Bridge is now available on the <strong>Google Play Store</strong> and <strong>Apple App Store</strong>, bringing the original concept to life!</p>]]></description>
 </item><item>
-    <title>Rolling Mind</title>
-    <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
-    <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+    <title>Blast To Zero</title>
+    <link>https://rustycruiselabs.github.io/games/blast-to-zero/</link>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
+    </author><guid>https://rustycruiselabs.github.io/games/blast-to-zero/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
+                <img src="/img/blasttozero.png" referrerpolicy="no-referrer">
             </div><h2 id="overview" class="headerLink">
-    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/games/rolling-mind/images/feature_graphic.png" title="" data-thumbnail="/games/rolling-mind/images/feature_graphic.png" data-sub-html="<h2>A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/games/rolling-mind/images/feature_graphic.png    height="500" width="1024"></a><figcaption class="image-caption">A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!</figcaption>
-    </figure>
-<p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>&ldquo;Blast To Zero&rdquo; was a submission for <a href="https://itch.io/jam/solodevelopment-10-new-year-jam" target="_blank" rel="noopener noreferrer">SoloDevelopment #10 New Year Jam 2026</a>. The goal of participating in the game jam this time round was to try out new game genre and also to test new game mechanics. Compared to previous attempts, I was more comfortable with the development workflow, but still lacking in making the gameplay feel good.</p>
+<p>Out of 103 entries, the game ranked <strong>16th</strong>, earning a <strong>3.6/5</strong> rating for gameplay. It&rsquo;s a good attempt, hopefully I can get a 4/5 when I fully complete the game.</p>]]></description>
 </item><item>
     <title>Backfire</title>
     <link>https://rustycruiselabs.github.io/games/backfire/</link>
@@ -87,5 +86,17 @@
         height="167">
             <a href="https://rustycruiselabs.itch.io/charms-and-guns">Charms and Guns by RustyCruise Labs</a>
         </iframe></div>]]></description>
+</item><item>
+    <title>Rolling Mind</title>
+    <link>https://rustycruiselabs.github.io/games/rolling-mind/</link>
+    <pubDate>Sat, 10 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/games/rolling-mind/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/rollingmind.png" referrerpolicy="no-referrer">
+            </div><h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><figure><a class="lightgallery" href="/games/rolling-mind/images/feature_graphic.png" title="" data-thumbnail="/games/rolling-mind/images/feature_graphic.png" data-sub-html="<h2>A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/games/rolling-mind/images/feature_graphic.png    height="500" width="1024"></a><figcaption class="image-caption">A Brain-Teasing 3D Game Designed to Stretch your Spatial Awareness!</figcaption>
+    </figure>
+<p>&ldquo;Rolling Mind&rdquo; is a mobile puzzle game designed to push the boundaries of your spatial cognition. Developed with insights from the National Institutes of Health, it focuses on mental rotation, a critical component of spatial thinking. Mental rotation entails envisioning objects from different angles in the mind&rsquo;s eye. In &ldquo;Rolling Mind,&rdquo; players are tasked with navigating 3D objects along specified paths, challenging their capacity to visualize and manipulate spatial configurations.</p>]]></description>
 </item></channel>
 </rss>

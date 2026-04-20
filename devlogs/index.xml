@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Latest Devlogs on RustyCruise Labs</title>
+    <title>Our Devlogs on RustyCruise Labs</title>
     <link>https://rustycruiselabs.github.io/devlogs/</link>
-    <description>Recent content in Latest Devlogs on RustyCruise Labs</description>
+    <description>Recent content in Our Devlogs on RustyCruise Labs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rustycruiselabs.github.io/devlogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog #1 - Solo Development #10 Game Jam (Countdown) Results</title>
+      <link>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</guid>
+      <description>&lt;div&gt;&lt;iframe &#xD;&#xA;        frameborder=&#34;0&#34; &#xD;&#xA;        src=&#34;https://itch.io/embed/4174052&#34; &#xD;&#xA;        width=&#34;552&#34; &#xD;&#xA;        height=&#34;167&#34;&gt;&#xD;&#xA;            &lt;a href=&#34;https://rustycruiselabs.itch.io/blast-to-zero&#34;&gt;Blast To Zero by RustyCruise Labs&lt;/a&gt;&#xD;&#xA;        &lt;/iframe&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;my-results&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#my-results&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;My Results?&lt;/h2&gt;&lt;figure&gt;&lt;a class=&#34;lightgallery&#34; href=&#34;https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png&#34; title=&#34;&#34; data-thumbnail=&#34;/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png&#34; data-sub-html=&#34;&lt;h2&gt;Final Results for my submission&lt;/h2&gt;&#34;&gt;&lt;img  loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/images/results_screenshot.png    height=&#34;772&#34; width=&#34;649&#34;&gt;&lt;/a&gt;&lt;figcaption class=&#34;image-caption&#34;&gt;Final Results for my submission&lt;/figcaption&gt;&#xD;&#xA;    &lt;/figure&gt;&#xA;&lt;p&gt;The results are out! Overall, my game ranked &lt;strong&gt;16 out of 103 entries&lt;/strong&gt;. Out of all my game jams so far, it seems that I have better reviews in terms of game play, which makes me motivated to continue this game development. The gameplay score was around &lt;strong&gt;3.6&lt;/strong&gt; which is probably due to the poor execution in &lt;strong&gt;game feel&lt;/strong&gt;, especially in the &lt;strong&gt;lack of target indicators / mini map&lt;/strong&gt; which led to players finding it hard to navigate the game.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Devlog #1 - Rough Track&#39;s MVP Release</title>
       <link>https://rustycruiselabs.github.io/devlogs/roughtrack/2025-10-29-rough-track-mvp-release/</link>
@@ -38,9 +45,9 @@
     </item>
     <item>
       <title>Devlog #2 - Blob Bridge Available on Mobile Platforms</title>
-      <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</link>
+      <link>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-07-17-blob-bridge-mobile-release/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
+      <guid>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-07-17-blob-bridge-mobile-release/</guid>
       <description>&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;After &lt;strong&gt;two months&lt;/strong&gt; of radio silence — and countless hours spent turning a game jam idea into reality — I’m excited to announce that Blob Bridge is now live on the &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.rustycruiselabs.blobbridge&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Google Play Store&lt;/a&gt; and &lt;a href=&#34;https://apps.apple.com/us/app/blob-bridge/id6748570064&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Apple App Store&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;I definitely had more ideas and features I wanted to add — but those will have to wait for future updates. After all, it’s important to make sure the core concept works before diving in too deep!&lt;/p&gt;</description>
     </item>
     <item>
@@ -52,10 +59,10 @@
     </item>
     <item>
       <title>Devlog #1 - Gamedev.js Game Jam 2025 Submission Review</title>
-      <link>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
+      <link>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
-      <description>&lt;p&gt;&lt;img class=&#34;tw-inline&#34; loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/devlogs/blog-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt=&#34;Game Jame Theme&#34; height=&#34;650&#34; width=&#34;1200&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s a late update about my game submission for Gamedev.js Game Jam 2025! Before we begin, the game is available on Itch.io, check it out! &lt;strong&gt;PS: Please remember to read the description for the controls!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div&gt;&lt;iframe &#xD;&#xA;        frameborder=&#34;0&#34; &#xD;&#xA;        src=&#34;https://itch.io/embed/3505859&#34; &#xD;&#xA;        width=&#34;552&#34; &#xD;&#xA;        height=&#34;167&#34;&gt;&#xD;&#xA;            &lt;a href=&#34;https://rustycruiselabs.itch.io/blob-bridge&#34;&gt;Blob Bridge by RustyCruise Labs&lt;/a&gt;&#xD;&#xA;        &lt;/iframe&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;game-jam-theme---balance&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#game-jam-theme---balance&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Game Jam Theme - Balance&lt;/h2&gt;&lt;p&gt;This year&amp;rsquo;s theme for the game jame was &lt;strong&gt;&amp;ldquo;Balance&amp;rdquo;&lt;/strong&gt;. Generally, my purpose for joining game jam is to test some of gameplay mechanics ideas. This would give me a rough idea of whether it is worth continuing developing on the game. For this year&amp;rsquo;s theme, some of the ideas I had were&amp;hellip;&lt;/p&gt;</description>
+      <guid>https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;tw-inline&#34; loading=&#34;lazy&#34; src=https://rustycruiselabs.github.io/devlogs/blob-bridge/2025-05-17-blob-bridge-game-jam-review/images/gamejam.png   alt=&#34;Game Jame Theme&#34; height=&#34;650&#34; width=&#34;1200&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#overview&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Overview&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s a late update about my game submission for Gamedev.js Game Jam 2025! Before we begin, the game is available on Itch.io, check it out! &lt;strong&gt;PS: Please remember to read the description for the controls!&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div&gt;&lt;iframe &#xD;&#xA;        frameborder=&#34;0&#34; &#xD;&#xA;        src=&#34;https://itch.io/embed/3505859&#34; &#xD;&#xA;        width=&#34;552&#34; &#xD;&#xA;        height=&#34;167&#34;&gt;&#xD;&#xA;            &lt;a href=&#34;https://rustycruiselabs.itch.io/blob-bridge&#34;&gt;Blob Bridge by RustyCruise Labs&lt;/a&gt;&#xD;&#xA;        &lt;/iframe&gt;&lt;/div&gt;&#xA;&lt;h2 id=&#34;game-jam-theme---balance&#34; class=&#34;headerLink&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;#game-jam-theme---balance&#34; class=&#34;header-mark&#34;&gt;&lt;/a&gt;Game Jam Theme - Balance&lt;/h2&gt;&lt;p&gt;This year&amp;rsquo;s theme for the game jame was &lt;strong&gt;&amp;ldquo;Balance&amp;rdquo;&lt;/strong&gt;. Generally, my purpose for joining game jam is to test some of gameplay mechanics ideas. This would give me a rough idea of whether it is worth continuing developing on the game. For this year&amp;rsquo;s theme, some of the ideas I had were&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Devlog #8 - Screenshot Tool for Unity</title>

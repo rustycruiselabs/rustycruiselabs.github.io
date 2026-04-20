@@ -29,7 +29,7 @@
 
 <body data-instant-intensity="viewport" ><script type="text/javascript">
         function setTheme(theme) {
-          document.body.setAttribute('theme', theme); 
+          document.body.setAttribute('theme', theme);
           document.documentElement.className = theme;
           document.documentElement.style.setProperty('color-scheme', theme === 'light' ? 'light' : 'dark');
           if (theme === 'light') {
@@ -37,27 +37,13 @@
           } else {
             document.documentElement.classList.add('tw-dark')
           }
-          window.theme = theme;   
-          window.isDark = window.theme !== 'light' 
+          window.theme = theme;
+          window.isDark = window.theme !== 'light'
         }
         function saveTheme(theme) {window.localStorage && localStorage.setItem('theme', theme);}
         function getMeta(metaName) {const metas = document.getElementsByTagName('meta'); for (let i = 0; i < metas.length; i++) if (metas[i].getAttribute('name') === metaName) return metas[i]; return '';}
-        if (window.localStorage && localStorage.getItem('theme')) {
-            let theme = localStorage.getItem('theme');
-            if (theme === 'light' || theme === 'dark') {
-            setTheme(theme);
-            } else {
-                if ((window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-                    setTheme('dark');
-                } else {
-                    setTheme('light');
-                }
-            }
-         } else { 
-            if ('auto' === 'light' || 'auto' === 'dark') 
-                setTheme('auto'), saveTheme('auto'); 
-            else saveTheme('auto'), window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? setTheme('dark') : setTheme('light');
-        }
+        setTheme('dark');
+        saveTheme('dark');
         let metaColors = {'light': '#f8f8f8','dark': '#161b22'}
         getMeta('theme-color').content = metaColors[document.body.getAttribute('theme')];
         window.switchThemeEventSet = new Set()
@@ -72,12 +58,8 @@
             <div class="menu-inner"><a class="menu-item"
                     href="/apps" > Apps </a><a class="menu-item"
                     href="/games" > Games </a><a class="menu-item"
-                    href="/devlogs" > News/Devlogs </a><a class="menu-item"
                     href="/policies" > Privacy &amp; Terms </a><a class="menu-item"
-                    href="/contact" > Contact </a><span class="menu-item delimiter"></span><button class="menu-item theme-switch" aria-label="Switch Theme">
-                    <svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
-                </button></div>
+                    href="/contact" > Contact </a></div>
         </div>
     </div>
 </header><header class="mobile print:!tw-hidden" id="header-mobile">
@@ -90,10 +72,7 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-        <div class="menu" id="menu-mobile"><a class="menu-item" href="/apps" title="" >Apps</a><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/devlogs" title="" >News/Devlogs</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a><button class="menu-item theme-switch tw-w-full" aria-label="Switch Theme">
-                <svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg>
-            </button></div>
+        <div class="menu" id="menu-mobile"><a class="menu-item" href="/apps" title="" >Apps</a><a class="menu-item" href="/games" title="" >Games</a><a class="menu-item" href="/policies" title="" >Privacy &amp; Terms</a><a class="menu-item" href="/contact" title="" >Contact</a></div>
     </div>
 </header>
 <div class="search-dropdown desktop">
@@ -101,242 +80,203 @@
 </div>
 <div class="search-dropdown mobile">
     <div id="search-dropdown-mobile"></div>
-</div><main class="main">
-            <div class="container">
-<div class="grid-list-page archive"><h2 class="single-title animate__animated animate__pulse animate__faster">Games We Made with ❤</h2><div class="container">
+</div>
+<main class="main"><div class="container">
+<div class="collection-section grid-list-page archive">
+  <h1>Games We Made with ❤</h1><div class="container">
+    <div class="row justify-content-md-left collection-cards-grid">
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-5">
+  <div class="collection-card">
+    <a href="https://rustycruiselabs.github.io/games/blob-bridge/" class="collection-card-anchor" aria-label="Blob Bridge"></a>
+
     
-    <div class="row justify-content-md-left">
+    <img src="/img/blobbridge_hu15591652569962784921.png" alt="Blob Bridge" class="collection-card-image lazyload">
+    
+
+    
+    <div class="collection-card-types tags">
+      
         
+        <div class="tag tag-rounded tag-orange">Game Jam</div>
+      
+        
+        <div class="tag tag-rounded tag-green">Mobile</div>
+      
+    </div>
 
+    
 
-<div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <a href="https://rustycruiselabs.github.io/games/blob-bridge/">
-        <div class="card single-post-card h-100 shadow-effect border">
-            
-            <img src="/img/blobbridge_hu6268221539837517059.png" alt="/img/blobbridge.png" class="card-img-top img-fluid lazyload">
-            
-            
-            
-            <div class="card-body">
+    <div class="collection-card-body">
+      <div class="collection-card-title">Blob Bridge</div>
+      
+      <div class="collection-card-desc">Game Idea for Gamedev.js 2025 Game Jam - Available in Google Play &amp; App Store</div>
+      
+    </div>
 
-                <h3 class="fw-bold post-title">Blob Bridge</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta text-muted">
-  
-  
-
-  
-
-  
-
-  
-</span>
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    Game Idea for Gamedev.js 2025 Game Jam - Available in Google Play &amp; App Store
-
-                    
-                </div>
-            </div>
-
-            
-        </div>
-    </a>
+    
+    
+  </div>
 </div>
 
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-5">
+  <div class="collection-card">
+    <a href="https://rustycruiselabs.github.io/games/blast-to-zero/" class="collection-card-anchor" aria-label="Blast To Zero"></a>
+
+    
+    <img src="/img/blasttozero_hu2603054080974776624.png" alt="Blast To Zero" class="collection-card-image lazyload">
+    
+
+    
+    <div class="collection-card-types tags">
+      
         
+        <div class="tag tag-rounded tag-orange">Game Jam</div>
+      
+    </div>
 
+    
 
-<div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <a href="https://rustycruiselabs.github.io/games/rolling-mind/">
-        <div class="card single-post-card h-100 shadow-effect border">
-            
-            <img src="/img/rollingmind_hu10328420664983794296.png" alt="/img/rollingmind.png" class="card-img-top img-fluid lazyload">
-            
-            
-            
-            <div class="card-body">
+    <div class="collection-card-body">
+      <div class="collection-card-title">Blast To Zero</div>
+      
+      <div class="collection-card-desc">SoloDevelopment #10 New Year Jam 2026 Submission</div>
+      
+    </div>
 
-                <h3 class="fw-bold post-title">Rolling Mind</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta text-muted">
-  
-  
-
-  
-
-  
-
-  
-</span>
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    Challenging Spatial Thinking Based Puzzle Game - Available in Google Play &amp; App Store
-
-                    
-                </div>
-            </div>
-
-            
-        </div>
-    </a>
+    
+    
+  </div>
 </div>
 
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-5">
+  <div class="collection-card">
+    <a href="https://rustycruiselabs.github.io/games/backfire/" class="collection-card-anchor" aria-label="Backfire"></a>
+
+    
+    <img src="/img/backfire_cover1_small_hu7125929042282711783.png" alt="Backfire" class="collection-card-image lazyload">
+    
+
+    
+    <div class="collection-card-types tags">
+      
         
+        <div class="tag tag-rounded tag-orange">Game Jam</div>
+      
+    </div>
 
+    
 
-<div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <a href="https://rustycruiselabs.github.io/games/backfire/">
-        <div class="card single-post-card h-100 shadow-effect border">
-            
-            <img src="/img/backfire_cover1_small_hu8382741463020050470.png" alt="/img/backfire_cover1_small.png" class="card-img-top img-fluid lazyload">
-            
-            
-            
-            <div class="card-body">
+    <div class="collection-card-body">
+      <div class="collection-card-title">Backfire</div>
+      
+      <div class="collection-card-desc">GMTK Game Jam 2025 Submission</div>
+      
+    </div>
 
-                <h3 class="fw-bold post-title">Backfire</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta text-muted">
-  
-  
-
-  
-
-  
-
-  
-</span>
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    GMTK Game Jam 2025 Submission
-
-                    
-                </div>
-            </div>
-
-            
-        </div>
-    </a>
+    
+    
+  </div>
 </div>
 
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-5">
+  <div class="collection-card">
+    <a href="https://rustycruiselabs.github.io/games/spear-master/" class="collection-card-anchor" aria-label="Spear Master"></a>
+
+    
+    <img src="/img/spearmaster_hu9948191587619004168.png" alt="Spear Master" class="collection-card-image lazyload">
+    
+
+    
+    <div class="collection-card-types tags">
+      
         
+        <div class="tag tag-rounded tag-orange">Game Jam</div>
+      
+    </div>
 
+    
 
-<div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <a href="https://rustycruiselabs.github.io/games/spear-master/">
-        <div class="card single-post-card h-100 shadow-effect border">
-            
-            <img src="/img/spearmaster_hu7432428231025248823.png" alt="/img/spearmaster.png" class="card-img-top img-fluid lazyload">
-            
-            
-            
-            <div class="card-body">
+    <div class="collection-card-body">
+      <div class="collection-card-title">Spear Master</div>
+      
+      <div class="collection-card-desc">Boss Rush Jam 2024 Submission</div>
+      
+    </div>
 
-                <h3 class="fw-bold post-title">Spear Master</h3>
-                
-
-                <p class="post-meta">
-                    <span class="post-meta text-muted">
-  
-  
-
-  
-
-  
-
-  
-</span>
-
-                </p>
-                
-                <div class="post-entry">
-
-                    
-                    Boss Rush Jam 2024 Submission
-
-                    
-                </div>
-            </div>
-
-            
-        </div>
-    </a>
+    
+    
+  </div>
 </div>
 
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-5">
+  <div class="collection-card">
+    <a href="https://rustycruiselabs.github.io/games/charms-and-guns/" class="collection-card-anchor" aria-label="Charms and Guns"></a>
+
+    
+    <img src="/img/charmsandguns_hu4028506452885658143.png" alt="Charms and Guns" class="collection-card-image lazyload">
+    
+
+    
+    <div class="collection-card-types tags">
+      
         
+        <div class="tag tag-rounded tag-orange">Game Jam</div>
+      
+    </div>
 
+    
 
-<div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6  mb-4">
-    <a href="https://rustycruiselabs.github.io/games/charms-and-guns/">
-        <div class="card single-post-card h-100 shadow-effect border">
-            
-            <img src="/img/charmsandguns_hu7927785224205184728.png" alt="/img/charmsandguns.png" class="card-img-top img-fluid lazyload">
-            
-            
-            
-            <div class="card-body">
+    <div class="collection-card-body">
+      <div class="collection-card-title">Charms and Guns</div>
+      
+      <div class="collection-card-desc">Wintermelon Game Jam 2023 Submission</div>
+      
+    </div>
 
-                <h3 class="fw-bold post-title">Charms and Guns</h3>
-                
+    
+    
+  </div>
+</div>
 
-                <p class="post-meta">
-                    <span class="post-meta text-muted">
-  
-  
+        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 mb-5">
+  <div class="collection-card">
+    <a href="https://rustycruiselabs.github.io/games/rolling-mind/" class="collection-card-anchor" aria-label="Rolling Mind"></a>
 
-  
+    
+    <img src="/img/rollingmind_hu16237313482956510405.png" alt="Rolling Mind" class="collection-card-image lazyload">
+    
 
-  
+    
+    <div class="collection-card-types tags">
+      
+        
+        <div class="tag tag-rounded tag-green">Mobile</div>
+      
+    </div>
 
-  
-</span>
+    
 
-                </p>
-                
-                <div class="post-entry">
+    <div class="collection-card-body">
+      <div class="collection-card-title">Rolling Mind</div>
+      
+      <div class="collection-card-desc">Challenging Spatial Thinking Based Puzzle Game - Available in Google Play &amp; App Store</div>
+      
+    </div>
 
-                    
-                    Wintermelon Game Jam 2023 Submission
-
-                    
-                </div>
-            </div>
-
-            
-        </div>
-    </a>
+    
+    
+  </div>
 </div>
 </div>
 
     <div class="row justify-content-md-center"></div></div>
 </div>
-
-</div>
-        </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line">
-                    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.136.5">Hugo</a>&nbsp;|&nbsp;Theme - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.4.0">DoIt</a> & <a href='https://github.com/binokochumolvarghese/lightbi-hugo' target='_blank' rel='noopener noreferrer' title='Lightbi'>Lightbi</a>
-                </div><div class="footer-line"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 448c-110.532 0-200-89.451-200-200 0-110.531 89.451-200 200-200 110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200zm107.351-101.064c-9.614 9.712-45.53 41.396-104.065 41.396-82.43 0-140.484-61.425-140.484-141.567 0-79.152 60.275-139.401 139.762-139.401 55.531 0 88.738 26.62 97.593 34.779a11.965 11.965 0 0 1 1.936 15.322l-18.155 28.113c-3.841 5.95-11.966 7.282-17.499 2.921-8.595-6.776-31.814-22.538-61.708-22.538-48.303 0-77.916 35.33-77.916 80.082 0 41.589 26.888 83.692 78.277 83.692 32.657 0 56.843-19.039 65.726-27.225 5.27-4.857 13.596-4.039 17.82 1.738l19.865 27.17a11.947 11.947 0 0 1-1.152 15.518z"/></svg>2024 - 2025<span class="author">&nbsp;<a href="/" target="_blank" rel="noopener noreferrer">RustyCruise Labs</a></span></div><div class="footer-line">
+</div></main><footer class="footer">
+        <div class="footer-container"><div class="footer-line"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 448c-110.532 0-200-89.451-200-200 0-110.531 89.451-200 200-200 110.532 0 200 89.451 200 200 0 110.532-89.451 200-200 200zm107.351-101.064c-9.614 9.712-45.53 41.396-104.065 41.396-82.43 0-140.484-61.425-140.484-141.567 0-79.152 60.275-139.401 139.762-139.401 55.531 0 88.738 26.62 97.593 34.779a11.965 11.965 0 0 1 1.936 15.322l-18.155 28.113c-3.841 5.95-11.966 7.282-17.499 2.921-8.595-6.776-31.814-22.538-61.708-22.538-48.303 0-77.916 35.33-77.916 80.082 0 41.589 26.888 83.692 78.277 83.692 32.657 0 56.843-19.039 65.726-27.225 5.27-4.857 13.596-4.039 17.82 1.738l19.865 27.17a11.947 11.947 0 0 1-1.152 15.518z"/></svg>2024 - 2026<span class="author">&nbsp;<a href="/" target="_blank" rel="noopener noreferrer">RustyCruise Labs</a></span></div><div class="footer-line">
                     <span class="license">All rights reserved. All associated names, logos and designs are trademarks of RustyCruise Labs. All other trademarks are the property of their respective owners.</span>
+                </div><div class="footer-line">
+                    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer" title="Hugo 0.136.5">Hugo</a>&nbsp;|&nbsp;Theme - <a href="https://github.com/HEIGE-PCloud/DoIt" target="_blank" rel="noopener noreferrer" title="DoIt 0.4.0">DoIt</a> & <a href='https://github.com/binokochumolvarghese/lightbi-hugo' target='_blank' rel='noopener noreferrer' title='Lightbi'>Lightbi</a>
                 </div><div class="footer-line"></div>
             <div class="footer-line">
             </div>
@@ -369,7 +309,7 @@
           ]
         }
     </script>
-      
+
 </body>
 
 </html>
