@@ -13,6 +13,14 @@
                 <img src="/img/renji.png" referrerpolicy="no-referrer">
             </div><figure><a class="lightgallery" href="/apps/renji/images/feature_graphic.png" title="" data-thumbnail="/apps/renji/images/feature_graphic.png" data-sub-html="<h2>Personal journal for recording all your interactions with people</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/apps/renji/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Personal journal for recording all your interactions with people</figcaption>
     </figure>
+<div class="double-image-container align-center">
+    <a href="https://apps.apple.com/us/app/renji/id6762095101">
+      <img   src=https://rustycruiselabs.github.io/img/appstorebadge.png    height="512" width="180">
+    </a>
+    <a href="https://play.google.com/store/apps/details?id=com.rustycruiselabs.renji">
+      <img   src=https://rustycruiselabs.github.io/img/googleplaybadge.png    height="80" width="200">
+    </a>
+</div>
 <h2 id="overview" class="headerLink">
     <a href="#overview" class="header-mark"></a>Overview</h2><p>Renji is a personal relationship journal that helps you remember the people you have interacted with. Whether they are clients at work, colleagues, friends, or important connections, Renji lets you capture notes, events, and to-dos for each person, with timely reminders to help you stay on top of follow-ups, even when life gets busy.</p>]]></description>
 </item><item>
