@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "minSupportedVersion": "1.2.0",
+  "version": "1.0.0",
+  "minSupportedVersion": "1.0.0",
   "forceUpdate": false,
   "message": "New features available!",
   "appStoreUrl": "https://apps.apple.com/us/app/renji/id6762095101",
