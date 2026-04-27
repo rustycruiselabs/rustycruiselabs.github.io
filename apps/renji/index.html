@@ -216,7 +216,69 @@
 </section>
 
 <h2 id="screenshots" class="headerLink">
-    <a href="#screenshots" class="header-mark"></a>Screenshots</h2><h2 id="pricing" class="headerLink">
+    <a href="#screenshots" class="header-mark"></a>Screenshots</h2><section class="screenshots-section">
+  <div class="screenshots-scroll">
+    
+<div class="screenshot-item">
+  <img src="/apps/renji/images/screenshot1.png" alt="App screenshot" loading="lazy">
+</div>
+
+<div class="screenshot-item">
+  <img src="/apps/renji/images/screenshot2.png" alt="App screenshot" loading="lazy">
+</div>
+
+<div class="screenshot-item">
+  <img src="/apps/renji/images/screenshot3.png" alt="App screenshot" loading="lazy">
+</div>
+
+<div class="screenshot-item">
+  <img src="/apps/renji/images/screenshot4.png" alt="App screenshot" loading="lazy">
+</div>
+
+<div class="screenshot-item">
+  <img src="/apps/renji/images/screenshot5.png" alt="App screenshot" loading="lazy">
+</div>
+
+<div class="screenshot-item">
+  <img src="/apps/renji/images/screenshot6.png" alt="App screenshot" loading="lazy">
+</div>
+
+
+  </div>
+</section>
+<script>
+(function () {
+  var el = document.currentScript.previousElementSibling.querySelector('.screenshots-scroll');
+  var isDown = false;
+  var startX, scrollLeft;
+
+  el.addEventListener('mousedown', function (e) {
+    isDown = true;
+    el.classList.add('is-dragging');
+    startX = e.pageX - el.offsetLeft;
+    scrollLeft = el.scrollLeft;
+    e.preventDefault();
+  });
+
+  document.addEventListener('mouseup', function () {
+    isDown = false;
+    el.classList.remove('is-dragging');
+  });
+
+  el.addEventListener('mouseleave', function () {
+    isDown = false;
+    el.classList.remove('is-dragging');
+  });
+
+  el.addEventListener('mousemove', function (e) {
+    if (!isDown) return;
+    var x = e.pageX - el.offsetLeft;
+    el.scrollLeft = scrollLeft - (x - startX);
+  });
+})();
+</script>
+
+<h2 id="pricing" class="headerLink">
     <a href="#pricing" class="header-mark"></a>Pricing</h2><section class="pricing-section">
   <div class="pricing-header">
     <p>Help support Renji&#39;s development and gain access to great extra features</p>
