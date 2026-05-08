@@ -1,18 +1,18 @@
 {
   "version": "1.1.0",
-  "minSupportedVersion": "1.1.0",
+  "minSupportedVersion": "1.0.0",
   "appStoreUrl": "https://apps.apple.com/us/app/renji/id6762095101",
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.rustycruiselabs.renji",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "message": "A new version is available",
   "ios": {
     "version": "1.1.0",
-    "minSupportedVersion": "1.1.0",
+    "minSupportedVersion": "1.0.0",
     "storeUrl": "https://apps.apple.com/us/app/renji/id6762095101"
   },
   "android": {
     "version": "1.1.0",
-    "minSupportedVersion": "1.1.0",
+    "minSupportedVersion": "1.0.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.rustycruiselabs.renji"
   }
 }
