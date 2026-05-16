@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mobile Apps - Categories - RustyCruise Labs</title>
+        <link>https://rustycruiselabs.github.io/categories/mobile-apps/</link>
+        <description>Mobile Apps - Categories - RustyCruise Labs</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 May 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/categories/mobile-apps/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog #2 - Shared Events and Multi Days Events Feature</title>
+    <link>https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/</link>
+    <pubDate>Sat, 16 May 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Received some feedback that events are quite limited&hellip; So here are some updates!</p>
+<h3 id="feature-1-shared-events" class="headerLink">
+    <a href="#feature-1-shared-events" class="header-mark"></a>Feature 1: Shared Events</h3><figure><a class="lightgallery" href="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_persona_event.png" title="" data-thumbnail="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_persona_event.png" data-sub-html="<h2>Adding multiple persona to 1 event</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/images/multi_persona_event.png    height="451" width="582"></a><figcaption class="image-caption">Adding multiple persona to 1 event</figcaption>
+    </figure>
+<p>Some events, such as attending an overseas conference, could be an event that multiple people are attending. Hence, instead of creating one event per persona, it makes more sense to allow user to add multiple persona for events.</p>
+<h3 id="feature-2-multi-day-events" class="headerLink">
+    <a href="#feature-2-multi-day-events" class="header-mark"></a>Feature 2: Multi Day Events</h3><figure><a class="lightgallery" href="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png" title="" data-thumbnail="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png" data-sub-html="<h2>Having a start and end date for events</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png    height="287" width="558"></a><figcaption class="image-caption">Having a start and end date for events</figcaption>
+    </figure>
+<p>Following the overseas conference idea, events can be more than one day. That was something I overlooked prior and have added it in this version.</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Renji - People Notebook Available on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/</link>
+    <pubDate>Mon, 04 May 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/renji/2026-05-04-renji-mobile-release/images/feature_graphic.png" title="" data-thumbnail="/devlogs/renji/2026-05-04-renji-mobile-release/images/feature_graphic.png" data-sub-html="<h2>Personal journal for recording all your interactions with people</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Personal journal for recording all your interactions with people</figcaption>
+    </figure>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>I started working as a team lead and realized that there were so many things going on that I had to keep track of. Being the goldfish, I couldn&rsquo;t remember alot of things&hellip; One particular thing that was important for me as the team lead was the status of my team members.</p>]]></description>
+</item></channel>
+</rss>

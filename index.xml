@@ -3,9 +3,35 @@
         <title>RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/</link>
         <description>RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 May 2026 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://rustycruiselabs.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Devlog #2 - Shared Events and Multi Days Events Feature</title>
+    <link>https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/</link>
+    <pubDate>Sat, 16 May 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/</guid>
+    <description><![CDATA[<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>Received some feedback that events are quite limited&hellip; So here are some updates!</p>
+<h3 id="feature-1-shared-events" class="headerLink">
+    <a href="#feature-1-shared-events" class="header-mark"></a>Feature 1: Shared Events</h3><figure><a class="lightgallery" href="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_persona_event.png" title="" data-thumbnail="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_persona_event.png" data-sub-html="<h2>Adding multiple persona to 1 event</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/images/multi_persona_event.png    height="451" width="582"></a><figcaption class="image-caption">Adding multiple persona to 1 event</figcaption>
+    </figure>
+<p>Some events, such as attending an overseas conference, could be an event that multiple people are attending. Hence, instead of creating one event per persona, it makes more sense to allow user to add multiple persona for events.</p>
+<h3 id="feature-2-multi-day-events" class="headerLink">
+    <a href="#feature-2-multi-day-events" class="header-mark"></a>Feature 2: Multi Day Events</h3><figure><a class="lightgallery" href="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png" title="" data-thumbnail="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png" data-sub-html="<h2>Having a start and end date for events</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png    height="287" width="558"></a><figcaption class="image-caption">Having a start and end date for events</figcaption>
+    </figure>
+<p>Following the overseas conference idea, events can be more than one day. That was something I overlooked prior and have added it in this version.</p>]]></description>
+</item><item>
+    <title>Devlog #1 - Renji - People Notebook Available on Mobile Platforms</title>
+    <link>https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/</link>
+    <pubDate>Mon, 04 May 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/</guid>
+    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/renji/2026-05-04-renji-mobile-release/images/feature_graphic.png" title="" data-thumbnail="/devlogs/renji/2026-05-04-renji-mobile-release/images/feature_graphic.png" data-sub-html="<h2>Personal journal for recording all your interactions with people</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/images/feature_graphic.png    height="350" width="700"></a><figcaption class="image-caption">Personal journal for recording all your interactions with people</figcaption>
+    </figure>
+<h2 id="overview" class="headerLink">
+    <a href="#overview" class="header-mark"></a>Overview</h2><p>I started working as a team lead and realized that there were so many things going on that I had to keep track of. Being the goldfish, I couldn&rsquo;t remember alot of things&hellip; One particular thing that was important for me as the team lead was the status of my team members.</p>]]></description>
+</item><item>
     <title>Devlog #1 - Solo Development #10 Game Jam (Countdown) Results</title>
     <link>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</link>
     <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
@@ -120,55 +146,5 @@
         </iframe></div>
 <h2 id="game-jam-theme---balance" class="headerLink">
     <a href="#game-jam-theme---balance" class="header-mark"></a>Game Jam Theme - Balance</h2><p>This year&rsquo;s theme for the game jame was <strong>&ldquo;Balance&rdquo;</strong>. Generally, my purpose for joining game jam is to test some of gameplay mechanics ideas. This would give me a rough idea of whether it is worth continuing developing on the game. For this year&rsquo;s theme, some of the ideas I had were&hellip;</p>]]></description>
-</item><item>
-    <title>Devlog #8 - Screenshot Tool for Unity</title>
-    <link>https://rustycruiselabs.github.io/devlogs/generic/2025-05-13-unity-screenshot-tool/</link>
-    <pubDate>Tue, 13 May 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/generic/2025-05-13-unity-screenshot-tool/</guid>
-    <description><![CDATA[<figure><a class="lightgallery" href="/devlogs/generic/2025-05-13-unity-screenshot-tool/images/screenshot.png" title="" data-thumbnail="/devlogs/generic/2025-05-13-unity-screenshot-tool/images/screenshot.png" data-sub-html="<h2>Screenshot Tool Window</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/generic/2025-05-13-unity-screenshot-tool/images/screenshot.png    height="237" width="827"></a><figcaption class="image-caption">Screenshot Tool Window</figcaption>
-    </figure>
-<h2 id="implementation" class="headerLink">
-    <a href="#implementation" class="header-mark"></a>Implementation</h2><p>Here&rsquo;s a simple script you can add to your Unity projects to take screenshots.</p>
-<ol>
-<li>
-<p>Create a <code>C#</code> file <code>Assets/Editor/CaptureScreenshotWindow.cs</code> and paste the following code:</p>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
-  <div class="
-    code-block-title 
-    
-    tw-flex 
-    tw-flex-row 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        tw-select-none 
-        tw-mx-2 
-        tw-block
-        group-[.is-open]:tw-rotate-90
-        tw-transition-[transform] 
-        tw-duration-500 
-        tw-ease-in-out
-        print:!tw-hidden"
-      disabled
-      aria-hidden="true"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></button>
-
-    <div class="code-block-title-bar tw-w-full">
-      <p class="tw-select-none !tw-my-1">c#</p>]]></description>
-</item><item>
-    <title>Devlog #4 - Rolling Mind First Release on Mobile Platforms</title>
-    <link>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</link>
-    <pubDate>Sun, 06 Apr 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/devlogs/rolling-mind/2025-04-06-official-first-release/</guid>
-    <description><![CDATA[<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/JcQVhtqG9vU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-<p>After several months of bug fixing and figuring out how mobile publishing works, I’m thrilled to announce that Rolling Mind is now available on both the Google Play Store and Apple App Store! 🎉 (self-pat on the shoulder). It’s been a long journey — about 2 years of on-and-off development — which took longer than I expected due to the steep learning curve.</p>]]></description>
 </item></channel>
 </rss>

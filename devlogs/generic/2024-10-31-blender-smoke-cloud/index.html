@@ -4,10 +4,12 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="noodp" /><title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender - RustyCruise Labs</title><meta name="Description" content="Note: This is written with the assumption that you are somewhat familiar with Blender"><meta property="og:url" content="https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/">
+    <meta name="robots" content="noodp" /><title>Devlog #2 - How to create a Smoke Cloud for VFX using Blender - RustyCruise Labs</title><meta name="Description" content=""><meta property="og:url" content="https://rustycruiselabs.github.io/devlogs/generic/2024-10-31-blender-smoke-cloud/">
   <meta property="og:site_name" content="RustyCruise Labs">
   <meta property="og:title" content="Devlog #2 - How to create a Smoke Cloud for VFX using Blender">
-  <meta property="og:description" content="Note: This is written with the assumption that you are somewhat familiar with Blender">
+  <meta property="og:description" content="Note: This is written with the assumption that you are somewhat familiar with Blender
+ModelingIn Modeling Window, create the smoke cloud with the following steps:
+use Shift A –&gt; create a Ico sphere –&gt; set the subdivisions to 1 Add a subdivision modifier to the Ico sphere to make it rounder Shift &#43; D to duplicate the ico sphere to create a cloud shape by moving the shapes around with G Once you have the shape you want, select all the ico spheres, and Ctrl &#43; J to join the mesh together rename the object to SmokeSphere Note: if you want to edit, go to Edit Mode, and with vertex select mode, click on a vertex and press L and then G to move the object, to adjust the shape to your liking Add a remesh modifier to smooth the shape Use Voxel Voxel Size = 0.2 Adaptivity = 0 Apply the modifiers in order –&gt; subdivision –&gt; remesh so that we can edit the UVs In Object mode, select the object and Ctrl &#43; A to apply all the transform UV MapIn UV Editing Window, create the uv map with the following steps:">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="devlogs">
@@ -19,7 +21,9 @@
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Devlog #2 - How to create a Smoke Cloud for VFX using Blender">
-  <meta name="twitter:description" content="Note: This is written with the assumption that you are somewhat familiar with Blender">
+  <meta name="twitter:description" content="Note: This is written with the assumption that you are somewhat familiar with Blender
+ModelingIn Modeling Window, create the smoke cloud with the following steps:
+use Shift A –&gt; create a Ico sphere –&gt; set the subdivisions to 1 Add a subdivision modifier to the Ico sphere to make it rounder Shift &#43; D to duplicate the ico sphere to create a cloud shape by moving the shapes around with G Once you have the shape you want, select all the ico spheres, and Ctrl &#43; J to join the mesh together rename the object to SmokeSphere Note: if you want to edit, go to Edit Mode, and with vertex select mode, click on a vertex and press L and then G to move the object, to adjust the shape to your liking Add a remesh modifier to smooth the shape Use Voxel Voxel Size = 0.2 Adaptivity = 0 Apply the modifiers in order –&gt; subdivision –&gt; remesh so that we can edit the UVs In Object mode, select the object and Ctrl &#43; A to apply all the transform UV MapIn UV Editing Window, create the uv map with the following steps:">
       <meta name="twitter:site" content="@rustycruiselabs">
 <meta name="application-name" content="RustyCruise Labs">
 <meta name="apple-mobile-web-app-title" content="RustyCruise Labs">
@@ -47,7 +51,7 @@
                 "@type": "Person",
                 "name": "RustyCruise Labs",
                 "url": "/"
-            },"description": "Note: This is written with the assumption that you are somewhat familiar with Blender"
+            },"description": ""
     }</script></head>
 
 

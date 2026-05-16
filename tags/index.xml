@@ -3,7 +3,21 @@
         <title>Tags - Tag - RustyCruise Labs</title>
         <link>https://rustycruiselabs.github.io/tags/</link>
         <description>Tags - Tag - RustyCruise Labs</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Apr 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 May 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://rustycruiselabs.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Devlog</title>
+    <link>https://rustycruiselabs.github.io/tags/devlog/</link>
+    <pubDate>Sat, 16 May 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/devlog/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Renji-Devlogs</title>
+    <link>https://rustycruiselabs.github.io/tags/renji-devlogs/</link>
+    <pubDate>Sat, 16 May 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>RustyCruise Labs</name>
+    </author><guid>https://rustycruiselabs.github.io/tags/renji-devlogs/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>App</title>
     <link>https://rustycruiselabs.github.io/tags/app/</link>
     <pubDate>Mon, 20 Apr 2026 00:00:00 &#43;0000</pubDate><author>
@@ -23,13 +37,6 @@
     <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/blender/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Devlog</title>
-    <link>https://rustycruiselabs.github.io/tags/devlog/</link>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/devlog/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Game</title>
@@ -65,13 +72,6 @@
     <pubDate>Sat, 09 Aug 2025 00:00:00 &#43;0000</pubDate><author>
         <name>RustyCruise Labs</name>
     </author><guid>https://rustycruiselabs.github.io/tags/backfire-devlogs/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Ios</title>
-    <link>https://rustycruiselabs.github.io/tags/ios/</link>
-    <pubDate>Sun, 20 Jul 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>RustyCruise Labs</name>
-    </author><guid>https://rustycruiselabs.github.io/tags/ios/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
