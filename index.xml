@@ -18,7 +18,7 @@
     </figure>
 <p>Some events, such as attending an overseas conference, could be an event that multiple people are attending. Hence, instead of creating one event per persona, it makes more sense to allow user to add multiple persona for events.</p>
 <h3 id="feature-2-multi-day-events" class="headerLink">
-    <a href="#feature-2-multi-day-events" class="header-mark"></a>Feature 2: Multi Day Events</h3><figure><a class="lightgallery" href="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png" title="" data-thumbnail="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png" data-sub-html="<h2>Having a start and end date for events</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.png    height="287" width="558"></a><figcaption class="image-caption">Having a start and end date for events</figcaption>
+    <a href="#feature-2-multi-day-events" class="header-mark"></a>Feature 2: Multi Day Events</h3><figure><a class="lightgallery" href="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.gif" title="" data-thumbnail="/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.gif" data-sub-html="<h2>Having a start and end date for events</h2>"><img  loading="lazy" src=https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/images/multi_day_event.gif    height="853" width="480"></a><figcaption class="image-caption">Having a start and end date for events</figcaption>
     </figure>
 <p>Following the overseas conference idea, events can be more than one day. That was something I overlooked prior and have added it in this version.</p>]]></description>
 </item><item>
