@@ -2,6 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://rustycruiselabs.github.io/apps/coloringmochi/</loc><lastmod>2026-05-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/apps/renji/</loc><lastmod>2026-04-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/blob-bridge/</loc><lastmod>2025-05-17T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/blast-to-zero/</loc><lastmod>2026-01-13T00:00:00&#43;00:00</lastmod></url><url>
@@ -10,18 +11,18 @@
             <loc>https://rustycruiselabs.github.io/games/spear-master/</loc><lastmod>2024-01-06T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/charms-and-guns/</loc><lastmod>2023-12-31T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/games/rolling-mind/</loc><lastmod>2024-08-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/app/</loc><lastmod>2026-05-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/apps/</loc><lastmod>2026-05-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/highlight/</loc><lastmod>2026-05-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/</loc><lastmod>2026-05-20T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://rustycruiselabs.github.io/tags/</loc><lastmod>2026-05-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/categories/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/devlog/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/renji/2026-05-16-renji-shared-events/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/categories/mobile-apps/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/renji-devlogs/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/</loc><lastmod>2026-05-16T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/renji/2026-05-04-renji-mobile-release/</loc><lastmod>2026-05-04T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/app/</loc><lastmod>2026-04-20T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/apps/</loc><lastmod>2026-04-20T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://rustycruiselabs.github.io/tags/highlight/</loc><lastmod>2026-04-20T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/blender/</loc><lastmod>2026-01-13T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/devlogs/blast-to-zero/2026-01-13-game-jam-results/</loc><lastmod>2026-01-13T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://rustycruiselabs.github.io/tags/game/</loc><lastmod>2026-01-13T00:00:00&#43;00:00</lastmod></url><url>
